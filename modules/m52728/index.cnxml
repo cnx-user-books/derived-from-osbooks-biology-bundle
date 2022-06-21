@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Null Hypothesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52728</md:content-id>
+  <md:title>Null Hypothesis</md:title>
+  <md:abstract>This experimental only</md:abstract>
+  <md:uuid>d12c957d-65bf-4ace-b314-f5120f9cc3ed</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1165208767830">
+      <title>The Chi-Squared Test : This was copied From Nature’s Scitable</title><section id="eip-770"><title>THIS IS THE SOURCE</title><para id="eip-36">http://www.nature.com/scitable/buildbook/preview/open-genetics-129407306/129407486#headerAndCitation</para></section><section id="import-auto-id1165185415348">
+        <title>Forming and Testing a Hypothesis</title>
+        <para id="import-auto-id1165186158304">This needs to The first thing any scientist does before performing an experiment is to form a hypothesis about the experiment's outcome. This often takes the form of a null hypothesis, which is a statistical hypothesis that provides the expected values for an experiment. The null hypothesis is proposed by a scientist before completing an experiment, and it can be supported by data or disproved in favor of an alternate hypothesis.</para>
+        <para id="import-auto-id1165208672615">Let's consider some examples of the use of the null hypothesis in a genetics experiment. Remember that Mendelian inheritance deals with traits that show discontinuous variation, which means that the phenotypes fall into distinct categories. As a consequence, in a Mendelian genetic cross, the null hypothesis is usually an extrinsic hypothesis; in other words, the expected proportions can be predicted and calculated before the experiment starts. Then an experiment can be designed to determine whether the data confirm or reject the hypothesis. On the other hand, in another experiment, you might hypothesize that two genes are linked. This is called an intrinsic hypothesis, which is a hypothesis in which the expected proportions are calculated after the experiment is done using some information from the experimental data (McDonald, 2008).</para>
+      </section>
+      <section id="import-auto-id1165208791091">
+        <title>How Math Merged with Biology</title>
+        <para id="import-auto-id1165208700742">But how did mathematics and genetics come to be linked through the use of hypotheses and statistical analysis? The key figure in this process was Karl Pearson, a turn-of-the-century mathematician who was fascinated with biology. When asked what his first memory was, Pearson responded by saying, "Well, I do not know how old I was, but I was sitting in a high chair and I was sucking my thumb. Someone told me to stop sucking it and said that if I did so, the thumb would wither away. I put my two thumbs together and looked at them a long time. ‘They look alike to me,' I said to myself, ‘I can't see that the thumb I suck is any smaller than the other. I wonder if she could be lying to me'" (Walker, 1958). As this anecdote illustrates, Pearson was perhaps born to be a scientist. He was a sharp observer and intent on interpreting his own data. During his career, Pearson developed statistical theories and applied them to the exploration of biological data. His innovations were not well received, however, and he faced an arduous struggle in convincing other scientists to accept the idea that mathematics should be applied to biology. For instance, during Pearson's time, the Royal Society, which is the United Kingdom's academy of science, would accept papers that concerned <emphasis effect="italics">either</emphasis> mathematics <emphasis effect="italics">or</emphasis> biology, but it refused to accept papers than concerned <emphasis effect="italics">both</emphasis> subjects (Walker, 1958). In response, Pearson, along with Francis Galton and W. F. R. Weldon, founded a new journal called <emphasis effect="italics">Biometrika</emphasis> in 1901 to promote the statistical analysis of data on heredity. Pearson's persistence paid off. Today, statistical tests are essential for examining biological data.</para>
+      </section>
+      <section id="import-auto-id1165208662975">
+        <title>Pearson's Chi-Square Test for Goodness-of-Fit</title>
+        <para id="import-auto-id1165208672786">One of Pearson's most significant achievements occurred in 1900, when he developed a statistical test called Pearson's chi-square (Χ<sup>2</sup>) test, also known as the chi-square test for goodness-of-fit (Pearson, 1900). Pearson's chi-square test is used to examine the role of chance in producing deviations between observed and expected values. The test depends on an extrinsic hypothesis, because it requires theoretical expected values to be calculated. The test indicates the probability that chance alone produced the deviation between the expected and the observed values (Pierce, 2005). When the probability calculated from Pearson's chi-square test is high, it is assumed that chance alone produced the difference. Conversely, when the probability is low, it is assumed that a significant factor other than chance produced the deviation.</para>
+        <para id="import-auto-id1165208800602">In 1912, J. Arthur Harris applied Pearson's chi-square test to examine Mendelian ratios (Harris, 1912). It is important to note that when Gregor Mendel studied inheritance, he did not use statistics, and neither did Bateson, Saunders, Punnett, and Morgan during their experiments that discovered genetic linkage. Thus, until Pearson's statistical tests were applied to biological data, scientists judged thegoodness of fit between theoretical and observed experimental results simply by inspecting the data and drawing conclusions (Harris, 1912). Although this method can work perfectly if one's data exactly matches one's predictions, scientific experiments often have variability associated with them, and this makes statistical tests very useful.</para>
+        <para id="import-auto-id1165208649367">The chi-square value is calculated using the following formula:</para>
+        <para id="import-auto-id1165208790945"/>
+        <para id="import-auto-id1165208718113">Using this formula, the difference between the observed and expected frequencies is calculated for each experimental outcome category. The difference is then squared and divided by the expectedfrequency. Finally, the chi-square values for each outcome are summed together, as represented by the summation sign (Σ).</para>
+        <para id="import-auto-id1165208679173">Pearson's chi-square test works well with genetic data as long as there are enough expected values in each group. In the case of small samples (less than 10 in any category) that have 1 degree of freedom, the test is not reliable. (Degrees of freedom, or df, will be explained in full later in this article.) However, in such cases, the test can be corrected by using the Yates correction for continuity, which reduces the absolute value of each difference between observed and expected frequencies by 0.5 before squaring. Additionally, it is important to remember that the chi-square test can only be applied to numbers ofprogeny, not to proportions or percentages.</para>
+        <para id="import-auto-id1165186260706">Now that you know the rules for using the test, it's time to consider an example of how to calculate Pearson's chi-square. Recall that when Mendel crossed his pea plants, he learned that tall (T) wasdominant to short (t). You want to confirm that this is correct, so you start by formulating the following null hypothesis: In a cross between two heterozygote (Tt) plants, the offspring should occur in a 3:1 ratio of tall plants to short plants. Next, you cross the plants, and after the cross, you measure the </para>
+        <para id="import-auto-id1165208910759">characteristics of 400 offspring. You note that there are 305 tall pea plants and 95 short pea plants; these are your <emphasis effect="italics">observed</emphasis> values. Meanwhile, you <emphasis effect="italics">expect</emphasis> that there will be 300 tall plants and 100 short plants from the Mendelian ratio.</para>
+        <para id="import-auto-id1165208874829">You are now ready to perform statistical analysis of your results, but first, you have to choose a critical value at which to reject your null hypothesis. You opt for a critical value probability of 0.01 (1%) that the deviation between the observed and expected values is due to chance. This means that if the probability is less than 0.01, then the deviation is significant and not due to chance, and you will reject your null hypothesis. However, if the deviation is greater than 0.01, then the deviation is not significant and you will not reject the null hypothesis.</para>
+        <para id="import-auto-id1165208672775">So, should you reject your null hypothesis or not? Here's a summary of your observed and expected data:</para>
+        <table id="import-auto-id1165208901228" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry> </entry>
+                <entry>
+                  <emphasis effect="bold">Tall</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Short</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Expected</emphasis>
+                </entry>
+                <entry>300</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Observed</emphasis>
+                </entry>
+                <entry>305</entry>
+                <entry>95</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="import-auto-id1165208718250">Now, let's calculate Pearson's chi-square:</para>
+        <para id="import-auto-id1165208688750">For tall plants: Χ<sup>2</sup> = (305 - 300)<sup>2 </sup>/ 300 = 0.08</para>
+        <para id="import-auto-id1165208688731">For short plants: Χ<sup>2</sup> = (95 - 100)<sup>2 </sup>/ 100 = 0.25</para>
+        <para id="import-auto-id1165208663255">The sum of the two categories is 0.08 + 0.25 = 0.33</para>
+        <para id="import-auto-id1165208702728">Therefore, the overall Pearson's chi-square for the experiment is Χ<sup>2</sup> = 0.33</para>
+        <para id="import-auto-id1165208685469">Next, you determine the probability that is associated with your calculated chi-square value. To do this, you compare your calculated chi-square value with theoretical values in a chi-square table that has the same number of degrees of freedom. Degrees of freedom represent the number of ways in which the observed outcome categories are free to vary. For Pearson's chi-square test, the degrees of freedom are equal to <emphasis effect="italics">n </emphasis>- 1, where <emphasis effect="italics">n </emphasis>represents the number of different expected phenotypes (Pierce, 2005). In your experiment, there are two expected outcome phenotypes (tall and short), so <emphasis effect="italics">n </emphasis>= 2 categories, and the degrees of freedom equal 2 - 1 = 1. Thus, with your calculated chi-square value (0.33) and the associated degrees of freedom (1), you can determine the probability by using a chi-square table (Table 1).</para>
+        <para id="import-auto-id1165208672630"> (Table adapted from Jones, 2008)</para>
+        <para id="import-auto-id1165208689227">Note that the chi-square table is organized with degrees of freedom (df) in the left column and probabilities (P) at the top. The chi-square values associated with the probabilities are in the center of the table. To determine the probability, first locate the row for the degrees of freedom for your experiment, then determine where the calculated chi-square value would be placed among the theoretical values in the corresponding row.</para>
+        <para id="import-auto-id1165208752470">At the beginning of your experiment, you decided that if the probability was less than 0.01, you would reject your null hypothesis because the deviation would be significant </para>
+        <para id="import-auto-id1165208642508">and not due to chance. Now, looking at the row that corresponds to 1 degree of freedom, you see that your calculated chi-square value of 0.33 falls between 0.016, which is associated with a probability of 0.9, and 2.706, which is associated with a probability of 0.10. Therefore, there is between a 10% and 90% probability that the deviation you observed between your expected and the observed numbers of tall and short plants is due to chance. In other words, the probability associated with your chi-square value is much greater than the critical value of 0.01. This means that we will reject our null hypothesis, and the deviation between the observed and expected results is not significant.</para>
+      </section>
+      <section id="import-auto-id1165208724447">
+        <title>Level of Significance</title>
+        <para id="import-auto-id1165208680870">Determining whether to accept or reject a hypothesis is decided by the experimenter, who is the person who chooses the "level of significance" or confidence. Scientists commonly use the 0.05, 0.01, or 0.001 probability levels as cut-off values. For instance, in the example experiment, you used the 0.01 probability. Thus, P ≥ 0.01, which can be interpreted to mean that chance likely caused the deviation between the observed and the expected values (i.e. there is a greater than 1% probability that chance explains the data). If instead we had observed that P ≤ 0.01, this would mean that there is less than a 1% probability that our data can be explained by chance. There is a significant difference between our expected and observed results, so the deviation must be caused by something other than chance.</para>
+      </section>
+      <section id="import-auto-id1165208706622">
+        <title>References and Recommended Reading</title>
+        <para id="import-auto-id1165208791166">Harris, J. A. A simple test of the goodness of fit of Mendelian ratios. <emphasis effect="italics">American Naturalist</emphasis> <emphasis effect="bold">46</emphasis>, 741–745 (1912)</para>
+        <para id="import-auto-id1165208685412">Jones, J. "Table: Chi-Square Probabilities." http://people.richland.edu/james/lecture/m170/tbl-chi.html (2008) (accessed July 7, 2008)</para>
+        <para id="import-auto-id1165208749033">McDonald, J. H. Chi-square test for goodness-of-fit. From <emphasis effect="italics">The Handbook of Biological Statistics</emphasis>. http://udel.edu/~mcdonald/statchigof.html (2008) (accessed June 9, 2008)</para>
+        <para id="import-auto-id1165208791070">Pearson, K. On the criterion that a given system of deviations from the probable in the case of correlated system of variables is such that it can be reasonably supposed to have arisen from random <emphasis effect="bold">How Math Merged with Biology</emphasis></para>
+        <para id="import-auto-id1165208883979"/>
+      </section>
+    </section>
+  </content>
+</document>

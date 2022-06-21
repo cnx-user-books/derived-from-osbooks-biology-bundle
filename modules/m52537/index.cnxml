@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>ExperimentalUpload</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52537</md:content-id>
+  <md:title>ExperimentalUpload</md:title>
+  <md:abstract>Lecture Notes
+Not Interesting
+Very Rough</md:abstract>
+  <md:uuid>4ad9efa2-7a76-4380-a9e9-458fb3b61122</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1169270253610">
+      <title>LEARN.GENETICS.UTAH --Making a Transgenic Mouse </title><section id="eip-870"><title>SOURCE</title><para id="eip-59">
+http://learn.genetics.utah.edu/content/science/transgenic/
+</para></section><section id="import-auto-id1169270252553">
+        <title>Mario Caoechhi</title>
+        <para id="import-auto-id1169270252613">Mario R. Capecchi, Ph.D., of the University of Utah, won the 2007 Nobel Prize in Physiology or Medicine. Capecchi shared the prize with Oliver Smithies of University of North Carolina, Chapel Hill, and Sir Martin Evans of Cardiff University in the UK.</para>
+        <para id="import-auto-id1169270253508">The prize recognized Capecchi's pioneering work on "knockout mouse" technology, a gene-targeting technique that has revolutionized genetic and biomedical research, allowing scientists to create animal models for hundreds of human diseases.</para>
+        <para id="import-auto-id1169270252674">As a child, Capecchi wandered homeless in Italy. As a researcher, his first attempts at gene targeting were deemed not ready for funding by the National Institutes of Health. Capecchi is an individual whose personal life proves that while some events are not probable, anything is possible. <link url="http://learn.genetics.utah.edu/content/science/transgenic/capecchi/"><emphasis effect="underline">Read Mario's story</emphasis></link>.</para>
+        <para id="import-auto-id1169270252314">During the 1980s, Capecchi devised a way to change or remove any single gene in the mouse genome, creating strains of mice that pass the altered gene from parent to offspring. In the years since, these "transgenic" and "knockout" mice have become commonplace in the laboratory.</para>
+        <para id="import-auto-id1169270253499">Capecchi's pioneering work in gene targeting has taught us much about how the body builds—and rebuilds—itself. He has given scientists worldwide the tools to make important discoveries about human diseases, from cancer to obesity.</para>
+        <para id="import-auto-id1169270253504">And he has raised a key question for the future of human medicine: if we can replace a perfectly good gene with a mutated one, can we also go the other way, replacing problem genes with those that work?</para>
+      </section>
+      <section id="import-auto-id1169270252732">
+        <title>Mario’s Lab at Work</title>
+        <para id="import-auto-id1169270253527">What makes an arm an arm? Capecchi's research team is working on answering that question using gene targeting. They have systematically "knocked out" a set of genes in mice, called homeotic genes, which govern body patterning during development. For example, one of the lab's most recent genetic discoveries may explain <link url="http://unews.utah.edu/p/?r=031306-28"><emphasis effect="underline">why we lack spare ribs</emphasis></link>. Find out more about how homeotic genes work in<link url="http://learn.genetics.utah.edu/content/variation/hoxgenes/"><emphasis effect="underline">Genes Determine Body Patterns</emphasis></link>.</para>
+        <para id="import-auto-id1169270252357">YOUR GOAL: You are studying how a particular gene, named OhNo, might play a role in panic attacks. You want to study mice that are missing this gene. To "knockout" the OhNo gene, you will replace it with a mutated copy that doesn't work.</para>
+        <para id="import-auto-id1169270252364">Here's how:</para>
+        <para id="import-auto-id1169270252393">1. Isolate Stem Cells</para>
+        <para id="import-auto-id1169270252401">Isolate embryonic stem cells that originated from male brown mice with a normal OhNo gene (blue).</para>
+        <para id="import-auto-id1169270252405">2. Add Inactive Gene With Marker</para>
+        <para id="import-auto-id1169270252424">To these cells, add a copy containing a mutated, inactive OhNo gene (red), and a drug resistance marker gene (p3. Similar Genes Naturally Swap</para>
+        <para id="import-auto-id1169270252428">3. Similar Genes Naturally Swap</para>
+        <para id="import-auto-id1169270252430">By mechanisms that are not completely understood yet, similar genes will swap places. The OhNo gene plus drug resistance marker gene is incorporated into the genome, and the normal version is kicked out. This process is called homologous recombination.</para>
+        <para id="import-auto-id1169270252434">ink).</para>
+        <para id="import-auto-id1169270252436">4. Add Drug</para>
+        <para id="import-auto-id1169270252438">Cells that haven't incorporated the inactive OhNo gene don't have the drug resistance marker gene (pink).</para>
+        <para id="import-auto-id1169270225732">Adding the drug kills cells without the marker, leaving you with only cells that have an inactive version of the OhNo gene.</para>
+        <para id="import-auto-id1169270225735">5. Grow Chimeric Mice</para>
+        <para id="import-auto-id1169270225737">By transplanting stem cells that carry the inactive ohNo gene into a white mouse embyro, you'll create what is called a chimera. Chimeras have patches of cells throughout their bodies that grew from white mouse cells and patches that grew from brown stem cells. Some of the cells that have the inactive OhNo gene may develop into reproductive cells.</para>
+        <para id="import-auto-id1169270225742">Chimeras are easy to identify because they have both brown and white patches of fur.</para>
+        <para id="import-auto-id1169270225744">6. Mate Male Chimera</para>
+        <para id="import-auto-id1169270225747">If a male chimera has some reproductive cells (sperm) that originated from the brown stem cells, he will produce some brown offspring when mated with a white female.</para>
+        <para id="import-auto-id1169270225752">7. Test and Breed Brown Offspring</para>
+        <para id="import-auto-id1169270252561">Half of the brown offspring will have a copy of the inactive OhNo gene in all of their cells—including their reproductive cells. These mice have one normal copy of the OhNo gene from their </para>
+        <para id="import-auto-id1169270252565">mother (not shown) and one inactive copy from their father. So half of their reproductive cells will contain a normal copy, and half will contain an inactive copy.</para>
+        <para id="import-auto-id1169270252568">These mice can be identified by performing DNA sequencing in their OhNo genes and then bred with each other.</para>
+        <para id="import-auto-id1169270252572">8. You've Made a Knockout Mouse</para>
+        <para id="import-auto-id1169270252574">One fourth of your resulting offsping will have two copies of the "knocked-out" or inactive OhNo gene. You can now study these mice to determine how lacking the OhNo gene may affect panic attacks.</para>
+        <para id="import-auto-id1169270252578">Supported by a Science Education Partnership Award (SEPA) Grant No. R25RR023288 from the National Center for Research Resources, a component of the NIH. The contents provided here are solely the responsibility of the authors and do not necessarily represent the official views of NIH.</para>
+        <para id="import-auto-id1169270252582"><link url="http://teach.genetics.utah.edu/">Teacher Materials</link><link url="http://gslcutah.org/">About Us</link><link url="http://learn.genetics.utah.edu/gslc/feedback/">Provide Feedback</link><link url="http://www.utah.edu/disclaimer/">Disclaimer</link><link url="http://learn.genetics.utah.edu/gslc/permissions/">Permissions</link><link url="http://learn.genetics.utah.edu/es/">En Español</link>Cite this page<link url="http://learn.genetics.utah.edu/gslc/contact/">Contact Us</link><link url="http://learn.genetics.utah.edu/gslc/privacy/">Privacy Policy</link></para>
+        <para id="import-auto-id1169270253574"><title>EXPERIMENTAL FIGURE</title><figure id="cute-dog"><title>OTHER</title><media id="dogpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/MONKEY.jpg"/>
+  </media>
+  
+<caption>Notice how cute the dog is just sitting there.
+  </caption></figure></para></section>
+    </section>
+  </content>
+</document>
