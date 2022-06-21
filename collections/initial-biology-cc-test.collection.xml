@@ -1,0 +1,34 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11895</md:content-id>
+    <md:title>Initial Biology CC Test</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>5e9d186b-ef5b-4971-bb8d-b26dfd6ebb56</md:uuid>
+<md:slug>initial-biology-cc-test</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Unit 4. Evolutionary Processes</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Evolution and the Origin of Species</md:title>
+          <col:content>
+            <col:module document="m44574"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 5. Biological Diversity</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Animal Diversity</md:title>
+          <col:content>
+            <col:module document="m44660"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
