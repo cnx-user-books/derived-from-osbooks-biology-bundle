@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Water Standards</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71220</md:content-id>
+  <md:title>Water Standards</md:title>
+  <md:abstract>In a pharmaceutical company, water can be used for cleaning, raw material, formulation, and as a solvent. Therefore it is critical to use the highest quality water and comply with water standards.</md:abstract>
+  <md:uuid>50070bf4-7ece-498a-af3e-043e86e92fff</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm1123877616">
+      <title>Water Standards:</title>
+      <para id="import-auto-idm426293136">Water is the primary solvent used in a biosciences lab. In a pharmaceutical company, water can be used for cleaning, raw material, formulation, and as a solvent. Therefore it is critical to use the highest quality water and comply with water standards. However, what does ‘high quality’ mean? How do we qualify water? Each application requires different quality standards, and therefore, water quality is one of the most important considerations for a biotechnology lab. It is also one of the most costly expenditures! </para>
+      <section id="import-auto-idm498568512">
+        <title>The USP</title>
+        <para id="import-auto-idm409368544">Several professional societies publish standards, which contain specifications for relative water purity. The U.S. Pharmacopeia Convention (USP) is a nonprofit organization that works with scientists world-wide to protect public health by establishing standards for pharmaceuticals including identity, purity and quality, and the FDA oversees the enforcement of these standards. To learn more about what the USP does watch this video: <link url="https://youtu.be/ZGEZTSz3amU">https://youtu.be/ZGEZTSz3amU</link></para>
+        <para id="import-auto-idm509747888">Interesting pharmaceutical facts are here: <link url="http://www.usp.org/frequently-asked-questions/water-pharmaceutical-and-analytical-purposes">http://www.usp.org/frequently-asked-questions/water-pharmaceutical-and-analytical-purposes</link></para>
+      </section>
+      <section id="import-auto-idm462779152">
+        <title>TYPES OF WATER</title>
+        <para id="import-auto-idm633433680">The FDA &amp; USP recognize eight types of water: </para>
+        <list id="import-auto-idm486062464" list-type="enumerated" number-style="arabic">
+          <item>Non-potable</item>
+          <item>Potable (drinkable) water</item>
+          <item>USP purified water</item>
+          <item>USP water for injection (WFI)</item>
+          <item>USP sterile water for injection</item>
+          <item>LUSP sterile water for inhalation</item>
+          <item>USP bacteriostatic water for injection</item>
+          <item>USP sterile water for irrigation</item>
+        </list>
+      </section>
+      <section id="import-auto-idm414368160">
+        <title>Source water: </title>
+        <para id="import-auto-idm196515728">Source water, such as municipal water, can only be used for non-contact with product uses, such as cooling systems. Water for pharmaceutical manufacturing and testing purposes must be highly purified. Tap water can have high levels of chlorine and other ions, particulate matter and non-indicator microorganisms and viruses not tested for, by drinking quality standards. </para>
+      </section>
+      <section id="import-auto-idm435605168">
+        <title>Ultra-Pure Water: </title>
+        <para id="import-auto-idm198265376">The United States Pharmacopoeia (USP) distinguishes between water for injections (WFI) and purified water. WFI water must be produced by distillation or reverse osmosis and <emphasis effect="underline">must have extremely low endotoxin levels.</emphasis>  It is also the water of choice for maintenance of mammalian and insect cell lines, as they are sensitive to the presence of endotoxin. Endotoxins are pyrogens, which induce fever in humans. They are part of the cell wall in gram-negative bacteria and are lipopolysaccharides—molecules containing lipids and polysaccharides.  A person with a systemic gram-negative infection runs the risk of dying from septic shock when treated with an antibiotic that kills the bacterial infection. The killed bacteria release endotoxin triggering the person’s immune system resulting in septic shock. Tap water is contaminated with endotoxin and therefore NOT appropriate for injection. The concentration of endotoxin is endotoxin units per milliliter (EU/mL). A common water quality test performed on biopharmaceuticals is Limulus Amebocyte Lysate Test or LAL test, to assess the pyrogen (endotoxin) content in water. </para>
+      </section>
+      <section id="import-auto-idm904691472">
+        <title>Table 1: Pharmacopeia specifications for water for injection (Wikipedia.org)</title>
+        <table id="import-auto-idm239491072" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Properties</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">European Pharmacopoeia</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">United States Pharmacopeia</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Conductivity<link url="https://en.wikipedia.org/wiki/Ultrapure_water#cite_note-14">[B]</link></entry>
+                <entry>&lt;1.3 μS/cm at 25 °C</entry>
+                <entry>&lt;1.3 μS/cm at 25 °C</entry>
+              </row>
+              <row>
+                <entry><link url="https://en.wikipedia.org/wiki/Total_organic_carbon">Total Organic Carbon</link> (TOC)</entry>
+                <entry>&lt;0.5 mg/L</entry>
+                <entry>&lt;0.50 mg/L</entry>
+              </row>
+              <row>
+                <entry>Bacteria (guideline)</entry>
+                <entry>&lt;10 <link url="https://en.wikipedia.org/wiki/Colony-forming_unit">CFU</link>/100 mL</entry>
+                <entry>&lt;10 <link url="https://en.wikipedia.org/wiki/Colony-forming_unit">CFU</link>/100 mL</entry>
+              </row>
+              <row>
+                <entry>Endotoxin</entry>
+                <entry>&lt;0.25 IU/mL</entry>
+                <entry>&lt;0.25 EU/mL <link url="https://en.wikipedia.org/wiki/Ultrapure_water#cite_note-15">[C]</link></entry>
+              </row>
+              <row>
+                <entry>Nitrates</entry>
+                <entry>&lt;0.2 ppm</entry>
+                <entry>N/A</entry>
+              </row>
+              <row>
+                <entry>Aluminum</entry>
+                <entry>&lt;10 ppb</entry>
+                <entry>N/A</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="import-auto-idm609313248">
+        <title>ISO Standards: </title>
+        <para id="import-auto-idm430592176">ISO also publishes and recognizes water standards. They have three grades of water with Grade I, as the purest. Their summary guidance can be found here, and provide international harmonization of water standards: <link url="https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_and_water.pdf">https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_and_water.pdf</link></para>
+      </section>
+      <section id="import-auto-idm611992464">
+        <title>ASTM Standards: </title>
+        <para id="import-auto-idm467788192">The American Society for Testing and Materials (ASTM) publishes water standards as well (D1193-06). They have four grades of water, with Type I being the purest. Type I water is typically used for cell culture, and HPLC applications and is generated using a reverse osmosis system. </para>
+        <list id="import-auto-idm416285904" list-type="bulleted">
+          <item><emphasis effect="bold"><emphasis effect="italics">Type I water</emphasis></emphasis> is the highest class of purity and is used for most analytical procedures, tissue culture and instrumentation since it has very low levels of contaminants.  It is routinely prepared by reverse osmosis (RO) in combination with distillation and deionization.  </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Type II water</emphasis></emphasis> is suitable for most routine lab work and is prepared by distillation or RO.  Although it is not as reactive as type I, it should also be stored in non-reactive containers. </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Type III &amp; IV water</emphasis></emphasis>, such as tap water, is useful for some applications such as rinsing glassware or preparing microscope slides. </item>
+        </list>
+        <para id="import-auto-idm635725632">ASTM further classifies water according to grade: A, B and C that are applied to these four types of water. These grades vary in the levels of bacterial and endotoxin contamination permitted. It’s important to note, water used for making pharmaceuticals requires even stricter standards than Type I water.  </para>
+      </section>
+    </section>
+  </content>
+</document>

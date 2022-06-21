@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Cellular Disruption Techniques</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71328</md:content-id>
+  <md:title>Cellular Disruption Techniques</md:title>
+  <md:abstract>The first step of downstream processing development is determining the best method to break open the cells to release the recombinant protein. There are many methods for cell disruption to choose from with the goal of determining the gentlest method that gives the highest yield of functioning protein. If the extraction method is too harsh, it risks denaturing and destroying the target protein. If the extraction method is too mild, the cells will remain intact and may lose precious recombinant protein stuck inside the cell. This module discusses various cell disruption techniques.</md:abstract>
+  <md:uuid>5e81c668-ab69-48da-b143-d3bd1fe73dc9</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm209557280">
+      <title>CELL DISRUPTION TECHNIQUES</title>
+      <para id="import-auto-idm778423216">According to an Evaluate Pharma report, the worldwide pharmaceutical industry has now topped a trillion dollars in sales, with most of this growth propelled by new FDA approvals of recombinant protein products such as monoclonal antibody therapeutics, biologics, and biosimilars (generic protein products). In the U.S. alone there were over $250 billion in annual sales and upwards of $150 billion invested in biopharmaceutical R&amp;D (EvaluatePharma, 2016). A critical part of research and development in making recombinant protein products is deciding what organism to use in the manufacture of the recombinant protein and what purification steps to employ in separating the target protein from the cellular contaminants. </para>
+      <section id="import-auto-idm364949664">
+        <title>Expression vectors</title>
+        <para id="import-auto-idm452717552">As mentioned previously, a gene of interest may be inserted into a vector, and the recombinant plasmid is placed into a cell where the gene can be expressed. For instance, one might desire to clone the gene coding for human growth hormone or insulin or other medically important proteins and have a bacterium or yeast make large quantities of it very cheaply. </para>
+        <para id="import-auto-idm221152784">To clone a gene so that it can be expressed, one needs to set up the proper conditions for the human protein to be made in the bacterial cells. This typically involves the use of specially designed plasmids. These plasmids have been engineered to 1) replicate in high numbers; 2) carry markers that allow researchers to identify cells carrying them (antibiotic resistance, for example) and 3) contain sequences (such as a promoter and Shine-Dalgarno sequence) necessary for expression of the desired protein, with convenient sites for insertion of the gene of interest in the appropriate place relative to the control sequences. A plasmid which has all these features is referred to as an expression vector.  
+
+</para><para id="eip-102">In addition to plasmids that can be used for expression in bacterial cells, expression vectors are also available that allow protein expression in a variety of eukaryotic cells. Many sophisticated variations on such vectors have been created that have made it easy to produce and purify large amounts of any protein of interest for which the gene has been cloned. A handy feature in some expression vectors is a sequence encoding an affinity tag either up or downstream of the gene being expressed. This sequence allows a short affinity tag (such as a run of histidine residues) to be fused onto the encoded protein. The tag can be used to readily purify the protein, as described in the section on affinity chromatography. </para></section>
+      <section id="import-auto-idm487303440">
+        <title>Recombinant Protein Purification </title>
+        <para id="import-auto-idm797222400">The optimal protein purification strategy for a biopharmaceutical depends on the properties of the protein, the starting concentration of the extract, and the types of contaminating materials present. Most proteins produced commercially rely on fermentation by microbial or animal cell culture. The process of harvesting and purifying a protein in an industrial setting is referred to as “downstream processing” and includes all steps of production downstream of the fermentation step. Since downstream processing of a protein can often exceed all other costs of production combined, it must be a carefully designed strategy, often requiring extensive development by scientists and engineers. </para>
+      </section>
+      <section id="import-auto-idm803399888">
+        <title>Downstream Processing  </title>
+        <list id="import-auto-idm197647104" list-type="enumerated" number-style="arabic">
+          <item>Since most proteins are not secreted from cells, the first phase of downstream processing consists of cell disruption, followed by removal of cell debris. Cell disruption can be performed using a relatively mild treatment with chemicals or with a more severe physical disruption by sonication. Clearing the lysate of insoluble debris can be carried out using centrifugation or by filtration.</item>
+          <item>Since processing of large volumes is expensive, the first purification step usually includes concentrating the protein extract to a smaller volume. Protein can be concentrated via precipitation  or by ultrafiltration.</item>
+          <item>Once the protein solution volume is reduced to a more manageable size, purification can proceed. Column chromatography offers the highest resolution. Some examples include size exclusion, ion-exchange, and hydrophobic interaction chromatography.</item>
+          <item>For biopharmaceutical products that require higher levels of purity, more sophisticated techniques can be used to polish the purified protein and may include immunoaffinity techniques in combination with high-performance liquid chromatography (HPLC).</item>
+          <item>When the protein is purified sufficiently, it is dried by lyophilization, freeze-dried, or formulated into a solution that stabilizes its activity and integrity.</item>
+        </list>
+      </section>
+      <section id="import-auto-idm202588496">
+        <title>Cell Disruption Methods</title>
+        <para id="import-auto-idm401232624">The first step of downstream processing development is determining the best method to break open the cells to release the recombinant protein. There are many methods for cell disruption to choose from with the goal of determining <emphasis effect="bold"><emphasis effect="italics">the gentlest method that gives the highest yield of functioning protein.</emphasis></emphasis> If the extraction method is too harsh, it risks denaturing and destroying the target protein. If the extraction method is too mild, the cells will remain intact and may lose precious recombinant protein stuck inside the cell. </para>
+        <para id="import-auto-idm464228832">Part of picking the right method is realizing different types of cells have diverse cellular structures and will, therefore, require appropriate cell disruption methods. Some organisms have cell walls or capsules surrounding the plasma membrane, and others only a plasma membrane. For example, different cell walls require different enzymes to break them; others may need the assistance of sheer force. However, some proteins are susceptible to the shear forces required to break down cell walls; others are sensitive to damage by exposure to air, or heat from the extraction method, or nucleases present in the cellular extract. So how can the target protein stay intact while disrupting as many cells as possible? This is typically done experimentally, through processes of trial and error development. A summary of common cell disruption methods is provided in the table below.</para>
+        <table id="import-auto-idm599615072" summary="Summary of common cell disruption techniques">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Relative Harshness</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Cell Disruption Method</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Description</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Gentle</entry>
+                <entry>Cell lysis</entry>
+                <entry>Osmotic shock:  rapid immersion in a hypotonic solution</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Enzyme Digest/cell lysis</entry>
+                <entry>Digestion of cell wall; contents release following osmotic shock</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Potter-Elvehjem homogenizer</entry>
+                <entry>Cells forced through a narrow gap, disruption by shear forces</entry>
+              </row>
+              <row>
+                <entry>Moderate</entry>
+                <entry>Freeze-thaw</entry>
+                <entry>Slow freeze-thaw cycles break cell walls by ice crystal formation </entry>
+              </row>
+              <row>
+                <entry>Harsh</entry>
+                <entry>Waring blender</entry>
+                <entry>Shear forces of rotating blades break cells</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Organic extraction</entry>
+                <entry>Mixing with an immiscible organic solvent to dissolve membranes</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Grinding</entry>
+                <entry>Abrasive grinding with glass beads or a mortar and pestle</entry>
+              </row>
+              <row>
+                <entry>Vigorous</entry>
+                <entry>French press cell</entry>
+                <entry>Cells forced through a small orifice at high pressure</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Bead mill</entry>
+                <entry>Rapid vibrations with glass beads grind cell walls</entry>
+              </row>
+              <row>
+                <entry>(most harsh)</entry>
+                <entry>Ultra-sonication</entry>
+                <entry>High-pressure sound waves cause cell rupture by cavitation </entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Summary of common cell disruption techniques</caption>
+</table><para id="import-auto-idm219305152"><emphasis effect="bold">Osmotic shock and enzymes: </emphasis>One way to lyse cells is by lowering the ionic strength of the cellular medium. This can cause cells to swell and burst. Mild surfactants may be used to disrupt membranes. Most bacteria, yeast, and plant tissues are resistant to osmotic shocks, because of the presence of cell walls, and stronger disruption techniques are usually required. Enzymes may be useful in helping to degrade the cell walls. Lysozyme, for example, is very useful for breaking down bacterial walls. Other enzymes commonly employed include cellulase (plants), proteases, mannoses, and others. </para>
+        <para id="import-auto-idm193883792"><emphasis effect="bold">Mechanical disruption: </emphasis> Mechanical agitation may be employed in the form of beads that are shaken with a mixture of cells. In this method, cells are bombarded with tiny, glass beads that break the cells open. <emphasis effect="bold">Sonication</emphasis> (2050 kHz sound waves) provides an alternative type of agitation that can be effective. The method is noisy, however, and generates heat that can be problematic for heat-sensitive compounds.  </para>
+        <figure id="import-auto-idm202107904"><media id="import-auto-idm460650144" alt="">
+            <image mime-type="image/png" src="../../media/pasted-image.pdf-79d0.png" height="439" width="333"/>
+          </media>
+        <caption>A sonication apparatus is set up in a sound containment box. A long metal probe is inserted into a cell sample sitting in ice. Sonication waves are transmitted through a cable attached to the metal probe controlled by an outside controller. Image credit: <link url="http://biochem.science.oregonstate.edu/content/kevin-ahern">Dr. Kevin Ahern</link> and <link url="http://biochem.science.oregonstate.edu/content/indira-rajagopal">Dr. Indira Rajagopal</link><emphasis effect="underline"> https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy</emphasis></caption></figure><para id="import-auto-idm491009520"><emphasis effect="bold">Pressure disruption: </emphasis>Another means of disrupting cells involves using a “cell bomb.” In this method, cells are placed under very high pressure (up to 25,000 psi) and then the pressure is rapidly released. The rapid pressure change causes dissolved gases in cells to be released as bubbles, which, in turn, break open cells. </para>
+        <para id="import-auto-idm220812912"><emphasis effect="bold">Cryogenic Pulverizing</emphasis>: Cryogenic pulverizing, or grinding, is often employed for samples having a tough extracellular matrix, such as connective tissue, seed, and cartilage. In this technique, tissues are frozen using liquid nitrogen and then impact pulverization (typically, grinding, using a mortar and pestle or a powerful electric grinder) is performed. The powder so obtained is then suspended in the appropriate buffer. </para>
+      </section>
+      <section id="import-auto-idm410684384">
+        <title>Protease Inhibitors: </title>
+        <para id="import-auto-idm753858784">Proteins must be protected from degradation by proteases during isolation steps by working <emphasis effect="bold"><emphasis effect="italics">quickly</emphasis></emphasis> and working <emphasis effect="bold"><emphasis effect="italics">cold</emphasis></emphasis> (keeping all reagents on ice), while also being mindful of <emphasis effect="bold"><emphasis effect="italics">buffering</emphasis></emphasis> condition. Additionally, protease inhibitors can be employed to reduce proteolytic damage to proteins. For example, PMSF is a broad inhibitor and is successfully used in animal, plant and yeast tissues. Other inhibitors include EDTA, aprotinin, chromostatin, pepstatin, and benzamidine. </para>
+      </section>
+      <section id="import-auto-idm219337328">
+        <title>Clarification: </title>
+        <para id="import-auto-idm392416624">Once cells have been disrupted, the cell lysate must be clarified, removing cell debris and unbroken cells either by filtration or by centrifugation.  Cellular materials are highly compressible, they rapidly clog pores of filters, so centrifugation is usually the method used to remove particulate matter when the volumes are small.</para>
+        <para id="import-auto-idm359928384"><emphasis effect="bold">Fractionation</emphasis>: Using low-speed centrifugation, one can remove cell debris, leaving a supernatant containing the contents of the cell. By using successively higher centrifugation speeds (and resulting g-forces), it is possible to separate different cellular components, like nuclei, mitochondria from the cytoplasm. These may then be separately lysed to release molecules that are specific to a cellular compartment. The soluble fraction of any lysate can, then, be further separated into its constituents using various methods. The most common for biopharmaceuticals is <emphasis effect="bold">column chromatography</emphasis>. </para>
+        <para id="import-auto-idm370990432">
+          <emphasis effect="bold">Content Credit:</emphasis>
+        </para>
+        <para id="import-auto-idm223268208"><link url="http://biochem.science.oregonstate.edu/content/kevin-ahern">Dr. Kevin Ahern</link> and <link url="http://biochem.science.oregonstate.edu/content/indira-rajagopal">Dr. Indira Rajagopal</link>, <link url="https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy">https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy</link></para>
+        <para id="import-auto-idm199367344">Wikipedia: <link url="https://en.wikipedia.org/wiki/Cell_disruption">https://en.wikipedia.org/wiki/Cell_disruption</link></para>
+      </section>
+    </section>
+  </content>
+</document>

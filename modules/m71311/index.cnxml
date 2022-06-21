@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Equipment to Measure Volume</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71311</md:content-id>
+  <md:title>Equipment to Measure Volume</md:title>
+  <md:abstract>Biotechnicians must select appropriate size measuring tool depending on the task. In this module is a summary of common laboratory tools for measuring volume including their relative accuracy.</md:abstract>
+  <md:uuid>7e658f1b-81e3-4ff9-b405-845364d21730</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm647139904">
+      <title>MEASUREMENT OF VOLUME</title>
+      <para id="import-auto-idm450947472">There are many different types of glassware used in a biotechnology lab. The glassware selected will depend on the purpose of its usage as different glassware have various levels of accuracy of measurement. </para>
+      <para id="import-auto-idm447893008"><emphasis effect="bold"><emphasis effect="italics">Erlenmeyer flasks</emphasis></emphasis> are primarily for the preparation or storage of solutions, not an accurate volume adjustment. Although there are volume markings on these flasks, they are not calibrated and should not be relied upon for exact volume measurements.</para>
+      <para id="import-auto-idm272646736"><emphasis effect="bold"><emphasis effect="italics">Beakers</emphasis></emphasis> are used for preparing solutions, such as dissolving powdered reagents in water. Beakers are useful when a pH adjustment requires access to the solution by a pH probe. The volumetric markings on beakers are not reliable – and is not an accurate measuring tool.</para>
+      <para id="import-auto-idm571983824"><emphasis effect="bold"><emphasis effect="italics">Graduated cylinders</emphasis></emphasis> are calibrated with enough accuracy for most volume measurements when preparing solutions. For example, the calibration of most 100 mL graduated cylinder can be relied upon to measure to within +/- 0.6 mL accurately. Graduated cylinders are most frequently used to bring solutions to a final volume. When pouring from graduated cylinders, some error and volume is lost as liquid remains in the cylinder. </para>
+      <para id="import-auto-idm647408832"><emphasis effect="bold"><emphasis effect="italics">Volumetric flasks</emphasis></emphasis> are used to measure one volume with the highest degree of accuracy and are used to make standard solutions for analytical assays. For example, the calibration of a 100 mL volumetric flask can have an accuracy of +/- 0.1 mL. Note, there are no graduated markings in a volumetric flask – you can only bring solutions to one final volume in that flask.</para>
+      <figure id="import-auto-idm565300064"><media id="import-auto-idm432459168" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 11-efdf.jpg" height="363" width="465"/>
+        </media>
+      <caption>Various types of glassware; beakers, Erlenmeyer flask, graduated cylinder, and volumetric flask. <emphasis effect="bold">
+          <emphasis effect="italics">Image credit: </emphasis>
+        </emphasis>
+        <link url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Lab_glassware.jpg">
+          <emphasis effect="italics">https://upload.wikimedia.org/wikipedia/commons/f/fc/Lab_glassware.jpg</emphasis>
+        </link>
+        <emphasis effect="italics"/>
+      </caption></figure><section id="import-auto-idm520868464">
+        <title>Pipets</title>
+        <para id="import-auto-idm647930032"><emphasis effect="bold"><emphasis effect="italics">Pipets</emphasis></emphasis> are glass or plastic devices that are routinely used to measure and transfer liquids by drawing the liquid into the tube with a mechanical device. </para>
+        <list id="import-auto-idm468722800" list-type="bulleted">
+          <item><emphasis effect="bold"><emphasis effect="italics">Pasteur pipets</emphasis></emphasis> are small glass tubes used with a bulb to transfer volumes as little as a single drop and as large as a few milliliters.  They are not graduated and are not used to measure volumes. </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Beral pipets</emphasis></emphasis> (transfer pipets) are plastic pipettes with a bulb at one end used for transfer of liquids. Sometimes they have calibration marks, which have a low level of accuracy. They are often disposable, sterile and individually wrapped.</item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Serological pipets</emphasis></emphasis> are graduated tubes used to measure anywhere from 1 to 50 mL. When the liquid has drained from this pipet, the final drop in the tip is transferred with a puff of air. These are known as TC or <emphasis effect="italics">to contain</emphasis> pipets. Serological pipets are most frequently used in bioscience labs with pipet controller (or pipet-aid), mechanical devices that aspirate liquid into and out of the pipet.</item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Mohr pipets</emphasis></emphasis>, or “to deliver,” pipets are like blowout pipets, but do not require a puff of air to deliver the desired volume accurately.  They can be identified by the label “TD” on the top. These are sometimes called TD serological pipets. </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Volumetric pipets</emphasis></emphasis> are not graduated but are calibrated to deliver a single, highly accurate, volume.</item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Micropipettes</emphasis></emphasis> are mechanical devices with disposable plastic tips, which deliver with a high degree of accuracy adjustable microliter volumes of liquid. There are several micropipette devices available of varying sizes, such as a 0.5-10ul, 2-20ul, 20-200ul, and 100-1000ul. </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Repeater Pipettes</emphasis></emphasis> are mechanical devices that can be set to deliver, repeatedly, a precise microliter volume. The liquid is aspirated and dispensed from a disposable tip. </item>
+          <item><emphasis effect="bold"><emphasis effect="italics">Multichannel micropipettes</emphasis></emphasis> can deliver the same volume from as many as 12 tips simultaneously.  </item>
+        </list>
+      </section>
+      <section id="import-auto-idm401938848">
+        <title>SEROLOGICAL PIPETS</title>
+        <para id="import-auto-idm548925808">Serological, or “blowout,” pipets are graduated tubes used to measure anywhere from 0.1 to 50 mL. They are typically made of single-use plastic and have the top end plugged with cotton to prevent contamination and overflow. When filling a <emphasis effect="bold"><emphasis effect="italics">serological pipet</emphasis></emphasis>, bring the container with the liquid and the pipet to eye level. Hold the tapered end beneath the surface of the liquid. Draw the liquid up the pipet by suction until the level is just above the desired, then bring the level down to the meniscus of the volume you want. When reading the volume, ALWAYS view the pipet at eye level with the pipet held vertically, perpendicular to the ground. Pipets are operated with a hand-held electronic pump (pipet-aid) or bulb, of which there are many varieties. </para>
+        <para id="import-auto-idm650790560">Watch the following <link url="https://youtu.be/aei-tU1ZIkE">video on how to use a serological pipet</link> correctly. </para>
+        <para id="import-auto-idm526188720">
+          <link url="https://www.ncbionetwork.org/iet/pipetting/">Play this fun pipetting game!</link>
+        </para>
+      </section>
+      <section id="import-auto-idm623266592">
+        <title>MICROPIPETTES</title>
+        <para id="import-auto-idm459627808">The micropipette is one of the biotechnician’s most frequently used tools. There are different brands of micropipette but all of them work in the same way. All micropipettes are essentially long tubes with a handle and an adjustable piston inside. A disposable tip is placed on the bottom of the micropipette. This tip is the only piece that is inserted into the liquid.  In or near the handle is a screw/knob/button that adjusts the volume of the micropipette by moving the piston up and down. On top, there is a plunger button for filling and for dispensing the liquid.  There is often a second button on top for ejecting the tip. Micropipettes come in a variety of sizes; for example, 1-20 uL, 20-200 uL, and 100-1000 uL. When choosing which micropipette to use, the rule of thumb is to <emphasis effect="bold"><emphasis effect="italics">select the smallest size micropipette that can deliver the desired volume.</emphasis></emphasis></para>
+        <figure id="import-auto-idm238974240"><media id="import-auto-idm498414592" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 1-a908.jpg" height="361" width="354"/>
+          </media>
+        <caption>Various micropipetting devices. From left to right: Set of 6 micropipettes measuring capacities from 2 microliters to 5 mL; 1 mL ergonomic digital micropipette; electronic pipet-aid (to draw liquid into serological pipet). Image Credit: Jack O'Grady, Austin Community College</caption></figure><para id="import-auto-idm284942016">
+          <link url="https://youtu.be/uEy_NGDfo_8">
+            <emphasis effect="italics">To learn more about selecting and using a micropipette, watch this video!</emphasis>
+          </link>
+          <emphasis effect="italics"/>
+        </para>
+        <figure id="import-auto-idm571619360"><media id="import-auto-idm325242160" alt="">
+            <image mime-type="image/png" src="../../media/Graphic 5.png" height="477" width="449"/>
+          </media>
+        <caption>Labeled diagram of a Gilson brand micropipette. Note the plunger, tip ejector button, volume adjustment knob, digital volume indicator, shaft, and disposable tip. Image credit: https://commons.wikimedia.org/wiki/File:Gilson_schematic.svg</caption></figure></section>
+      <section id="import-auto-idm448057760">
+        <title>Micropipetting Technique</title>
+        <para id="import-auto-idm281968752">Of all the factors contributing to the performance of a micropipette, the skill of the operator is the most critical! Here are some tips to help improve your micropipette technique. <link url="https://www.artel-usa.com/resource-library/10-tips-to-improve-your-pipetting-technique/">These tips are demonstrated in an excellent video.</link></para>
+        <list id="import-auto-idm451044496" list-type="enumerated" number-style="arabic">
+          <item>Pre-wetting the tip by aspirating and expelling liquids three times increases the humidity within the tip and reduces sample loss due to evaporation.</item>
+          <item>Allow liquids to ambient temperature before dispensing. Humidity and pressure are temperature-dependent and therefore will affect the volume dispensed from the tip. </item>
+          <item>Examine the tip before and after dispensing. Remove droplets from the side of the tip and ensure there are no air bubbles in the tip before dispensing. </item>
+          <item>Use standard mode. Depress the plunger to the first stop, immerse into liquid, aspirate by releasing the plunger slowly. Remove tip from the liquid and depress the plunger to the second stop to dispense the entire contents.</item>
+          <item>Pause consistently after aspiration. Pause for one second before removing from the liquid. If aspirating a viscous liquid, pause for at least 3 seconds or until you can see no further liquid moving up the tip.</item>
+          <item>Pull the pipette straight out. This is particularly important for small volumes. If you hold your tip at an angle, it can alter the volume aspirated.</item>
+          <item>Minimize handling of the pipette and the tip with fingers. Touching the tip and tube with a gloved hand will warm them up resulting in inaccurate aspiration. Touching the tip with a bare hand can lead to contamination.</item>
+          <item>Immerse the tip to the proper depth. Immerse a p1000 5-6mm, and smaller micropipettes 2-3mm only. Too little immersion will lead to aspiration of air, too much can result in liquids clinging to the side of the tip, or touching the bottom causing incorrect aspiration volumes. </item>
+          <item>Use the correct pipette tip. Use the manufacturer’s recommended tip for the micropipette. Remember to use barrier tips when using biohazards or to avoid cross-contamination of your experiment is necessary (such as working with human blood samples). </item>
+          <item>Use consistent plunger pressure and speed. Depress and release the plunger smoothly, slowly, and consistently.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

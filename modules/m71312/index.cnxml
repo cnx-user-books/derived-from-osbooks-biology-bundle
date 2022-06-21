@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Basic Lab Equipment</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71312</md:content-id>
+  <md:title>Basic Lab Equipment</md:title>
+  <md:abstract>Basic lab equipment biotechnicians may use to prepare biological and chemical reagents.</md:abstract>
+  <md:uuid>89c86b0a-4f5d-432c-a37b-e30bd8f4e72d</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm190095248">
+      <title>LABORATORY EQUIPMENT</title>
+      <section id="import-auto-idm392722960">
+        <title>Calibration and Operation of a pH Meter</title>
+        <para id="import-auto-idm932570080">Most solutions prepared in the biological laboratory must have a carefully controlled pH.  The pH measurement is a log of the hydrogen ion (H+) concentration of a solution. By definition, the pH value of neutral solutions is 7.0. Any solution with a pH &lt; 7 is considered acidic, and any solution with a pH &gt; 7 is considered basic. There are several effective means a biotechnician monitor's pH in solutions: pH indicator, pH paper, and a pH meter. </para>
+        <para id="import-auto-idm397542288"><emphasis effect="bold"><emphasis effect="italics">A pH indicator</emphasis></emphasis> is a chemical added to a solution that changes color when it experiences different pH conditions. A chemical pH indicator is frequently used in cell culture media to provide biotechnicians quick assessment of cell growth. For example, using phenol red, when cells have grown rapidly and spent the media, the pH becomes acidic, changing the media from a bright red to deep yellow color. </para>
+        <para id="import-auto-idm453911312">
+          <figure id="import-auto-idm417297888"><media id="import-auto-idm594212896" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 2-8d0b.jpg" height="285" width="166"/>
+            </media>
+          <caption>Plastic box of pH indicator paper. A single pH paper strip with four colored squares sits on top of the box. By Michael Krahe - CC BY-SA 3.0, <link url="https://en.wikipedia.org/wiki/PH_indicator#/media/File:PH_indicator_paper.jpg">https://en.wikipedia.org/wiki/PH_indicator#/media/File:PH_indicator_paper.jpg</link>. </caption></figure><figure id="import-auto-idm470979744"><media id="import-auto-idm219531504" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 1-5ff1.jpg" height="287" width="247"/>
+            </media>
+          <caption>Digital pH meter. Photo credit: Jack O'Grady, Austin Community College</caption></figure></para>
+        <para id="import-auto-idm405647296">When looking for an estimate of pH, <emphasis effect="bold"><emphasis effect="italics">indicator paper</emphasis></emphasis> can also be used. The indicator paper has an array of chemicals that exhibit a specific color when exposed to a particular pH (see figure). However, if a precise pH measurement is required, <link url="https://en.wikipedia.org/wiki/PH_meter"><emphasis effect="bold"><emphasis effect="italics">a pH meter</emphasis></emphasis></link> can be calibrated and used. </para><para id="import-auto-idm198744784">A <emphasis effect="bold"><emphasis effect="italics">pH meter</emphasis></emphasis> is a scientific instrument that measures the hydrogen-ion activity in aqueous solutions, indicating its acidity or alkalinity expressed as pH. The pH meter measures the difference in electrical potential between a pH electrode and a reference electrode, and so the pH meter is sometimes referred to as a "potentiometric pH meter." The difference in electrical potential relates to the acidity or pH of the solution. </para>
+        <para id="import-auto-idm414232496">Very precise measurements require that the pH meter is calibrated frequently. Depending on the validation protocols, this may mean before each use, or once per day when turned on. Calibration is a critical process for pH meters, as the glass electrode does not provide reproducible electrostatic potentials over longer periods.</para>
+        <para id="import-auto-idm587297136">Consistent with principles of <emphasis effect="bold"><emphasis effect="italics">good laboratory practice</emphasis></emphasis>, calibration is performed with at least two standard buffer solutions that span the range of pH values to be measured. For general purposes, buffers at pH 4.00 and pH 10.00 are suitable. The pH meter has one calibration control to set the meter reading equal to the value of the first standard buffer and a second control to adjust the meter reading to the value of the second buffer. A third control allows the temperature to be set. More precise measurements sometimes require calibration at three different pH values. Some pH meters provide built-in temperature-coefficient correction, with temperature thermocouples in the electrode probes. The calibration process correlates the voltage produced by the probe (approximately 0.06 volts per pH unit) with the pH scale. </para>
+        <para id="import-auto-idm771831280">Good laboratory practice dictates that, after each measurement, the probes are rinsed with distilled water or deionized water to remove any traces of the solution being measured, blotted with a scientific wipe to absorb any remaining water, which could dilute the sample and thus alter the reading, and then immersed in a storage solution suitable for the probe type. </para>
+        <para id="import-auto-idm596833952">
+          <link url="https://youtu.be/UfdKhja6u2I">Watch the following video to learn how to calibrate a typical pH meter.</link>
+        </para>
+      </section>
+      <section id="import-auto-idm454088528">
+        <title>Electronic Balances</title>
+        <para id="import-auto-idm786066384">Instruments for weighing materials are called <emphasis effect="bold"><emphasis effect="italics">balances</emphasis></emphasis>, and most laboratories have more than one type of balance, depending on the amount of material being measured and the degree of accuracy required. <emphasis effect="bold"><emphasis effect="italics">Electronic balances</emphasis></emphasis> usually have a digital readout and weighing dishes can be tarred to read zero mass before using. <emphasis effect="italics">Top loading electronic balances</emphasis> used for the preparation of solutions have a sensitivity of +/- 0.01 g, but <emphasis effect="italics">analytical balances</emphasis> (see figure) can be sensitive to +/- 0.01mg or less. Electronic balances require routine maintenance and recalibration.</para>
+        <para id="import-auto-idm619041904">
+          <figure id="import-auto-idm957188240"><media id="import-auto-idm478250576" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 10.jpg" height="341" width="300"/>
+            </media>
+          <caption>Mettler Analytical balance Photo credit: Jeremy Garza, Austin Community College.  </caption></figure><figure id="import-auto-idm439978384"><media id="import-auto-idm433855712" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 11-7801.jpg" height="341" width="281"/>
+            </media>
+          <caption>VWR top loading electronic balance. Photo credit: Jeremy Garza, Austin Community College.  </caption></figure></para>
+        </section>
+      <section id="import-auto-idm488719664">
+        <title>Centrifugation</title>
+        <para id="import-auto-idm384520768">Many pieces of equipment are used to centrifuge biological samples for analysis. Centrifugation means to apply a centrifugal force to separate molecules by size (or shape, or density). Biotechnicians select the appropriate equipment for a task.  </para>
+        <para id="import-auto-idm661893104">A <emphasis effect="bold"><emphasis effect="italics">preparative centrifuge</emphasis></emphasis> has a balanced rotor that holds vessels and spins at high speed, up to 20,000 rpm. High-speed centrifugation will cause insoluble particles such as cells, and sometimes subcellular components, to form a pellet at the bottom of the vessel. Rotors are available that hold vessels as small as a few milliliters to as large as a liter. These centrifuges are often refrigerated so that heat-sensitive material, such as cells and proteins, are not damaged due to the high heat generated during centrifugation. </para>
+        <para id="import-auto-idm466228288">
+          <figure id="import-auto-idm607809152"><media id="import-auto-idm693011072" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 12.jpg" height="353" width="264"/>
+            </media>
+          <caption>Tabletop refrigerated preparative centrifuge. Photo credits: <link url="https://en.wikipedia.org/wiki/Laboratory_centrifuge">https://en.wikipedia.org/wiki/Laboratory_centrifuge</link></caption></figure><figure id="import-auto-idm693761488"><media id="import-auto-idm367180240" alt="">
+              <image mime-type="image/jpg" src="../../media/Picture 13.jpg" height="352" width="264"/>
+            </media>
+          <caption>Refrigerated microcentrifuge. Photo credits: <link url="https://en.wikipedia.org/wiki/Laboratory_centrifuge">https://en.wikipedia.org/wiki/Laboratory_centrifuge</link></caption></figure></para>
+        <para id="import-auto-idm400403936">A tabletop or <emphasis effect="bold"><emphasis effect="italics">clinical centrifuge</emphasis></emphasis> is not refrigerated and spins at a much slower speed than a preparative centrifuge. Rotors for clinical centrifuges hold tubes with a capacity of 15 mL or less and a ‘swing-bucket’ rotor. These are frequently found in medical laboratory testing labs.</para>
+        <para id="import-auto-idm617926272">A <emphasis effect="bold"><emphasis effect="italics">microcentrifuge</emphasis></emphasis> holds 2.0 mL (or smaller) microcentrifuge tubes with liquid and can centrifuge at high speeds (up to 14,000 rpm) to separate liquids and particulates in solutions. There are a variety of rotor sizes available, and there are refrigerated centrifuges available as well.  </para>
+        <para id="import-auto-idm943791088">A <emphasis effect="bold"><emphasis effect="italics">picofuge</emphasis></emphasis> is a fixed low-speed microcentrifuge, which spins much slower than a microcentrifuge and functions mostly to move liquid from the sides and top of a microcentrifuge tube to the bottom.</para>
+      </section>
+    </section>
+  </content>
+</document>

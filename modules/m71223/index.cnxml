@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Buffers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71223</md:content-id>
+  <md:title>Buffers</md:title>
+  <md:abstract>Buffer solutions help a biological system maintain its proper pH.</md:abstract>
+  <md:uuid>c2e804bf-c4a0-417c-8c1c-1607ee39654f</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm608710896">
+      <title>Buffers:</title>
+      <para id="import-auto-idm611580672">A buffer solution is an aqueous solution consisting of a mixture of a weak acid and its conjugate base, or vice versa. Within a buffer solution, pH changes very little when adding a small amount of strong acid or base. In nature, many systems use buffering for pH regulation. For example, the bicarbonate buffering system is used to regulate the pH of blood. Buffer solutions help maintain a biological system at its proper pH. </para>
+      <para id="import-auto-idm624695376">It is essential when working with protein (and other biomolecular) solutions that you pay attention to pH. The pH determines not only the overall native conformation (and proper functioning) of the protein it can also determine how the protein interacts with other biomolecules and how the protein interacts with non-biological surfaces such as an ion exchange column. When a solution is buffered, it resists a change in pH, even when H+ ions are added or lost from the system. Many chemicals can act as a buffer and can work at a wide range of pH. </para>
+      <section id="import-auto-idm903240464">
+        <title>Factors Impacting Buffer Selection:</title>
+        <list id="import-auto-idm515381072" list-type="bulleted">
+          <item>The pKa of a buffer is the pH at which the buffer experiences little change in pH with the addition of acids and bases. When choosing a buffer, select one with a pKa one unit above or below the pH of the solution. Buffers are effective in resisting a change in pH within a range of approximately one pH unit. For example, an acetate buffer has a pKa of 4.8 and is, therefore, effective in a range of 3.8-5.8 pH units. </item>
+        </list>
+        <list id="import-auto-idm390476864" list-type="bulleted">
+          <item>Not all buffering systems are compatible with all biochemistry procedures, and technicians may need to research the appropriate buffer to use in a biochemical application. For example, although Tris is the most common buffer used in a biotechnology lab, it is inappropriate for some protein assays because it tends to react with the assay components resulting in erroneous data.</item>
+        </list>
+        <list id="import-auto-idm1009932832" list-type="bulleted">
+          <item>Two factors that influence the pH of a buffer: concentration and temperature. Although it is convenient to prepare a buffer as a concentrated stock, buffer pH can vary when diluted.  Always check the final pH of a buffered solution if a concentrated stock was used to prepare it. Temperature also affects the pH of a buffer. Always pH a buffer at the temperature it will be used. </item>
+        </list>
+      </section>
+      <section id="import-auto-idm242480768">
+        <title>Buffer Preparation by Titration:</title>
+        <para id="import-auto-idm501378336">Sodium phosphate buffers are commonly used for physiological applications since it mimics certain components of extracellular fluids and is non-toxic to cells. Unlike Tris buffer, it is not sensitive to temperature changes but is sensitive to dilution; therefore, it is best to prepare stock solutions at or close to the final concentration. It is also highly susceptible to microorganism contamination and therefore, stored at 4<sup>o</sup>C. </para>
+        <para id="import-auto-idm498011808"/>
+        <para id="import-auto-idm246634080">A sodium phosphate buffer is a useful solution in a biosciences lab because the phosphoric acid has multiple dissociation constants, permitting the preparation of phosphate buffers near any of the three pKa values (pH values); 2.15, 6.86 and 12.32. This buffer is most commonly prepared at pH 7.0 using monosodium phosphate and its conjugate base, disodium phosphate. Phosphate buffers are prepared by mixing stock solutions of the desired concentration of dibasic and monobasic in known ratios, or through titration. To prepare a sodium phosphate buffer, first determine the concentration and working pH of the buffer. Using Henderson-Hassel Bach equation, calculate how much acid and base is required. Alternatively, use one of the many published tables available, such as the one below. </para>
+      </section>
+      <section id="import-auto-idm244542288">
+        <title>TABLE: </title>
+        <para id="import-auto-idm483433024">To prepare 1 L of 0.1 M sodium phosphate buffer of the desired pH, dilute the following mixtures should to 1 L (final volume) with H2O. <emphasis effect="underline">Reference</emphasis>: Cold Springs Harbor Protocols, <link url="http://cshprotocols.cshlp.org">http://cshprotocols.cshlp.org</link></para>
+        <table id="import-auto-idm453363712" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>
+                  <emphasis effect="bold">pH</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Volume (mL) of 1 M Na</emphasis>
+                  <emphasis effect="bold">2</emphasis>
+                  <emphasis effect="bold">HPO</emphasis>
+                  <emphasis effect="bold">4</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Volume (mL) of 1 M NaH</emphasis>
+                  <emphasis effect="bold">2</emphasis>
+                  <emphasis effect="bold">PO</emphasis>
+                  <emphasis effect="bold">4</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>5.8</entry>
+                <entry>7.9</entry>
+                <entry>92.1</entry>
+              </row>
+              <row>
+                <entry>6.0</entry>
+                <entry>12.0</entry>
+                <entry>88.0</entry>
+              </row>
+              <row>
+                <entry>6.2</entry>
+                <entry>17.8</entry>
+                <entry>82.2</entry>
+              </row>
+              <row>
+                <entry>6.4</entry>
+                <entry>25.5</entry>
+                <entry>74.5</entry>
+              </row>
+              <row>
+                <entry>6.6</entry>
+                <entry>35.2</entry>
+                <entry>64.8</entry>
+              </row>
+              <row>
+                <entry>6.8</entry>
+                <entry>46.3</entry>
+                <entry>53.7</entry>
+              </row>
+              <row>
+                <entry>7.0</entry>
+                <entry>57.7</entry>
+                <entry>42.3</entry>
+              </row>
+              <row>
+                <entry>7.2</entry>
+                <entry>68.4</entry>
+                <entry>31.6</entry>
+              </row>
+              <row>
+                <entry>7.4</entry>
+                <entry>77.4</entry>
+                <entry>22.6</entry>
+              </row>
+              <row>
+                <entry>7.6</entry>
+                <entry>84.5</entry>
+                <entry>15.5</entry>
+              </row>
+              <row>
+                <entry>7.8</entry>
+                <entry>89.6</entry>
+                <entry>10.4</entry>
+              </row>
+              <row>
+                <entry>8.0</entry>
+                <entry>93.2</entry>
+                <entry>6.8</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>

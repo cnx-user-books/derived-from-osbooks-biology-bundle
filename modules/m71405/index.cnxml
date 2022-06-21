@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71405</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract>This is a Preface to the Book, Biotechnology Fundamentals.</md:abstract>
+  <md:uuid>95805c15-3ce6-42f5-a25a-775992a01245</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm1229465520">
+      <title>Preface</title>
+      <section id="import-auto-idm1463232848">
+        <title>Jack O’Grady</title><para id="import-auto-idm1154539520"><emphasis effect="bold"><emphasis effect="italics">Welcome to Biotechnology Foundations, 2</emphasis></emphasis><emphasis effect="bold"><emphasis effect="italics">nd</emphasis></emphasis><emphasis effect="bold"><emphasis effect="italics"> Edition, 2019. </emphasis></emphasis>This textbook was created to provide free open access teaching and learning resources for the Introduction to Biotechnology courses at Austin Community College, Biotechnology Program. This book provides the foundation of chemistry, biology, and microbiology needed to build biotechnology laboratory science workforce skills. The goal of this book is to encourage both faculty and student adoption and active, engaged use in the classroom and provide the resources students need to succeed. This book is available online at the OpenStax CNX platform: <link url="https://cnx.org/contents/XcbB5HTY">https://cnx.org/contents/XcbB5HTY</link></para><para id="import-auto-idm1208329472"><emphasis effect="bold">
+            <emphasis effect="italics">This book has been curated from several open access resources:</emphasis>
+          </emphasis>
+        </para><para id="import-auto-idm1206069840">OpenStax, <link url="https://openstax.org/details/books/biology-2e">https://openstax.org/details/books/biology-2e</link></para>
+        <para id="import-auto-idm170730560">OpenStax, <link url="https://openstax.org/details/books/chemistry-atoms-first">https://openstax.org/details/books/chemistry-atoms-first</link></para>
+        <para id="import-auto-idm231743072">OpenStax, <link url="https://openstax.org/details/books/microbiology">https://openstax.org/details/books/microbiology</link></para>
+        <para id="import-auto-idm1223191920">Dr. Kevin Ahern and Dr. Indira Rajagopal, Oregon State University, <link url="https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy">https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy</link></para>
+        <para id="import-auto-idm1228347136">Jack O’Grady, ACC, Quality Assurance &amp; Regulatory Affairs for the Biosciences, <link url="https://tinyurl.com/Quality-eBook">https://tinyurl.com/Quality-eBook</link></para>
+        <para id="import-auto-idm1128965440">Wikipedia, <link url="https://www.wikipedia.org/">https://www.wikipedia.org/</link></para>
+        <para id="import-auto-idm1174089424">Wikimedia Commons, <link url="https://commons.wikimedia.org/">https://commons.wikimedia.org/</link></para>
+      </section>
+      <section id="import-auto-idm1117462400">
+        <title>Teaching Resources</title>
+        <para id="import-auto-idm171727648">There are free teaching ancillaries for this textbook available <link url="https://tinyurl.com/BF-2-Resources">https://tinyurl.com/BF-2-Resources</link> including digital PowerPoint lectures, a Biotechnology Laboratory Manual, and Class Project Guide. Email suggestions or issues with the resources to <link url="mailto:jack.ogrady@austincc.edu">jack.ogrady@austincc.edu</link>.  </para></section>
+      <section id="import-auto-idm1185468784">
+        <title>Cost</title>
+        <para id="import-auto-idm1229597200">Digital copies of this textbook and teaching resources are available free of cost. <link url="https://tinyurl.com/BF-2-Resources">https://tinyurl.com/BF-2-Resources</link></para>
+      </section>
+      <section id="import-auto-idm1333684768">
+        <title>License</title>
+        <para id="import-auto-idm208436080">Biotechnology Fundamentals Textbook and teaching resources are open source licensed under the Creative Commons Attribution <emphasis effect="bold"><emphasis effect="italics">(CC-BY) 4.0 license</emphasis></emphasis>. <link url="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</link>. Faculty and students are welcome to adopt and adapt this teaching resource to meets the needs of their classroom. </para>
+        <para id="import-auto-idm176152528">This book has been built within the <emphasis effect="bold"><emphasis effect="italics">OpenStax CNX platform</emphasis></emphasis> to encourage other faculty to create a customized experience for their students. <link url="https://cnx.org/">https://cnx.org/</link> Faculty can send students directly to the online book and embed links to provide a curated experience within their LMS. Additionally, PDF copies can be created from this platform (see the button on top right corner) so that it can be freely accessed and shared offline and printed. <emphasis effect="bold"><emphasis effect="italics">Derivates are easily created within the CNX platform, and instructors</emphasis></emphasis><emphasis effect="bold"><emphasis effect="italics"> are encouraged to expand on this work to meet the Biotechnology workforce needs within their community. Please attribute this book to Jack O’Grady</emphasis></emphasis>  and send any suggestions or questions to <link url="mailto:jack.ogrady@austincc.edu">jack.ogrady@austincc.edu</link>. </para>
+      </section>
+      <section id="import-auto-idm1329897664">
+        <title>About OpenStax</title>
+        <para id="import-auto-idm1210479536">OpenStax is a non-profit organization committed to improving student access to quality learning materials. Our free textbooks are developed and peer-reviewed by educators to ensure they are readable, accurate, and meet the scope and sequence requirements of today’s college courses. Unlike traditional textbooks, OpenStax resources live online and are owned by the community of educators using them. Through our partnerships with companies and foundations committed to reducing costs for students, OpenStax is working to improve access to higher education for all. OpenStax is an initiative of Rice University and is made possible through the generous support of several philanthropic foundations.</para>
+      </section>
+      <section id="import-auto-idm1147402304">
+        <title>Contributing Authors</title>
+        <para id="import-auto-idm1465050320"><emphasis effect="bold">Jack O’Grady</emphasis> received his Master of Science degree in Biochemistry from Texas A&amp;M University. He has been a faculty member at Austin Community College for over 15 years teaching in both Biology and Biotechnology Departments. He is currently completing his Doctor of Education (EdD) in Curriculum &amp; Instruction, with a focus on Open Educational Resources.</para>
+        <table id="import-auto-idm1342920880" summary="Senior contributing authors for content used in this book.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Book Resource</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Senior Contributing Authors</emphasis>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Biology, 2e</emphasis>
+                  <link url="https://openstax.org/details/books/biology-2e">https://openstax.org/details/books/biology-2e</link>
+                </entry>
+                <entry>Samantha Fowler, Clayton State University, Rebecca Roush, Sandhills Community College, James Wise, Hampton University. <emphasis effect="underline">Other contributors: </emphasis><link url="https://cnx.org/contents/jVCgr5SL@15.1:2zYFPFKB@15/Preface">https://cnx.org/contents/jVCgr5SL@15.1:2zYFPFKB@15/Preface</link></entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Microbiology, </emphasis>
+                  <link url="https://openstax.org/details/books/microbiology">https://openstax.org/details/books/microbiology</link>
+                </entry>
+                <entry><emphasis effect="bold">Senior Contributing Authors:</emphasis> Nina Parker (Content Lead), Shenandoah University, Mark Schneegurt (Lead Writer), Wichita State University, Anh-Hue Thi Tu (Senior Reviewer), Georgia Southwestern State University, Brian M. Forster, Saint Joseph's University, Philip Lister, Central New Mexico Community College. <emphasis effect="underline">Other contributors: </emphasis><link url="https://cnx.org/contents/5CvTdmJL@5.28:ryt9cF1D@11/Preface">https://cnx.org/contents/5CvTdmJL@5.28:ryt9cF1D@11/Preface</link></entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Chemistry, Atoms First, </emphasis>
+                  <link url="https://openstax.org/details/books/chemistry-atoms-first">https://openstax.org/details/books/chemistry-atoms-first</link>
+                </entry>
+                <entry><emphasis effect="bold">Senior Contributing Authors:</emphasis> Paul Flowers, University of North Carolina–Pembroke, Klaus Theopold, University of Delaware, Richard Langley, Stephen F. Austin State University, Edward J. Neth, University of Connecticut, William R. Robinson, PhD. <emphasis effect="underline">Other contributors: </emphasis><link url="https://cnx.org/contents/RTmuIxzM@9.17:9H-cauk3@19/Preface">https://cnx.org/contents/RTmuIxzM@9.17:9H-cauk3@19/Preface</link></entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Quality Assurance &amp; Regulatory Affairs for the Biosciences, </emphasis>
+                  <link url="https://tinyurl.com/Quality-eBook">https://tinyurl.com/Quality-eBook</link>
+                </entry>
+                <entry><emphasis effect="bold">Jack O’Grady,</emphasis> M.S., Austin Community College, Biotechnology Program</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Biochemistry Free &amp; Easy, </emphasis>
+                  <link url="https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy">https://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy</link>
+                </entry>
+                <entry><emphasis effect="bold">Dr. Kevin Ahern </emphasis>and <emphasis effect="bold">Dr. Indira Rajagopal, </emphasis>Oregon State University</entry>
+              </row>
+            </tbody>
+          
+
+
+
+
+</tgroup><caption>Senior contributing authors for content used in this book. </caption>
+</table></section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Method Validation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71222</md:content-id>
+  <md:title>Method Validation</md:title>
+  <md:abstract>Method validation is the process used to determine the conditions to obtain a result reliably, and the limits of that procedure. Formal validation of test methods is required in GMP compliant laboratories. However, the aspects of validation are appropriate for any research or testing laboratory.</md:abstract>
+  <md:uuid>8350c61a-d660-4a73-97f2-654cf155c421</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm362842032">
+      <title>METHOD VALIDATION</title>
+      <para id="import-auto-idm1604278352">Method validation is the process used to determine the conditions to obtain a result reliably, and the limits of that procedure. Formal validation of test methods is required in GMP compliant laboratories. However, the aspects of validation are appropriate for any research or testing laboratory. </para>
+      <section id="import-auto-idm1865174400">
+        <title>Accuracy</title>
+        <para id="import-auto-idm1553960480">Accuracy is the closeness of a test result to the true or accepted value. Accuracy can be tested by using a reference standard value is known. If it is a method being tested, results are compared to those of a standardized assay. Tests for accuracy are also used to validate equipment. Accuracy is calculated by determining the percent error of the mean (PEM). </para>
+        <para id="import-auto-idm1595871536">
+          <emphasis effect="bold">PEM = (calculated mean – true value) ÷ true value x 100%</emphasis>
+        </para>
+      </section>
+      <section id="import-auto-idm1875577792">
+        <title>Precision</title>
+        <para id="import-auto-idm1825079008">Precision is the degree of agreement between individual test results when the procedure is applied repeatedly. Repeatability is the precision of measurements made under uniform conditions and reproducibility (ruggedness) is the precision of measurements made under non-uniform conditions such as in two different laboratories. When precision is high, there is a high degree of agreement in data. <emphasis effect="bold">Precision is calculated using standard deviation</emphasis>.</para>
+      </section>
+      <section id="import-auto-idm1869174000">
+        <title>Limit of Detection (LOD) </title>
+        <para id="import-auto-idm1563810304">LOD is the lowest concentration of the analyte which can be detected above background by a method. There is always some error associated with any analytical measurement. An important determination that must be made is how significant a signal must be before it can be distinguishable from background. The accepted rule in analytical chemistry is that the signal must be at least three times greater than the background noise. It is important to note that an analytical method can never prove that a substance is not present; rather it can show only the limit which the sample cannot be detected. Interpolate from linear regression to determine the concentration value of LOD. </para>
+        <para id="import-auto-idm1559846576">
+          <emphasis effect="bold">LOD= Instrument Output of the blank + 3xSD of the blank</emphasis>
+        </para>
+      </section>
+      <section id="import-auto-idm376584448">
+        <title>Limit of Quantitation (LOQ) </title>
+        <para id="import-auto-idm1879958480">LOQ is the lowest concentration of the analyte that the method can quantify with acceptable accuracy and precision. Depending on the application, this is 5-10X the standard deviation of the blank. Interpolate from linear regression to determine the concentration value of LOQ. </para>
+        <para id="import-auto-idm1702485792">
+          <emphasis effect="bold">LOQ=Instrument Output of the blank + 10xSD of the blank</emphasis>
+        </para>
+        <figure id="import-auto-idm1736755440"><media id="import-auto-idm1553883632" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-c179.png" height="358" width="624"/>
+          </media>
+        <caption>Illustration of the concept of detection limit and quantitation limit by showing the theoretical normal distributions associated with blank, detection limit, and quantification limit level samples. Image credit: <link url="https://commons.wikimedia.org/wiki/File:LOD.png">https://commons.wikimedia.org/wiki/File:LOD.png</link></caption></figure></section>
+      <section id="import-auto-idm1689127488">
+        <title>Specificity</title>
+        <para id="import-auto-idm398115104">Specificity is a measure of the extent to which a method can identify the presence of a compound in a sample without interference from other materials that are present. This is sometimes referred to as selectivity. A very selective test will only give a positive result for the compound of interest. </para>
+      </section>
+      <section id="import-auto-idm404961392">
+        <title>Linearity</title>
+        <para id="import-auto-idm1740356464">Linearity is the ability of a method to give test results that are directly proportional to the concentration of the material of interest within a given concentration range. The range is defined as the limits of concentrations, from the lowest to the highest, that a method can measure with acceptable results. Tests and Assays have a range in which they exhibit linearity. For example, many assays for proteins display a standard curve that is linear at lower concentrations but flattens out at higher concentrations of the protein. Therefore, a test for protein will be accurate only in the range of lower concentrations when the curve is linear.</para>
+      </section>
+      <section id="import-auto-idm362914000">
+        <title>Robustness</title>
+        <para id="import-auto-idm1844773680">Robustness is a measure of the capacity of a method to remain unaffected when there are small, deliberate variations in method parameters. It indicates the method’s reliability during normal use. </para>
+      </section>
+      <section id="import-auto-idm1853162368">
+        <title>Ruggedness</title>
+        <para id="import-auto-idm1594598064">Ruggedness is the degree of reproducibility of the results obtained by the analysis of the same samples under a variety of conditions. Ruggedness provides a measure of reproducibility across variations of conditions normally expected, such as, from lab to lab and analyst to analyst. </para>
+      </section>
+    </section>
+    <section id="import-auto-idm1746534208">
+      <title>The Clinical Laboratory Improvement Amendments </title>
+      <para id="import-auto-idm1691396480">Content credit: <link url="https://en.wikipedia.org/wiki/Clinical_Laboratory_Improvement_Amendments">https://en.wikipedia.org/wiki/Clinical_Laboratory_Improvement_Amendments</link> and <link url="https://www.cms.gov/">https://www.cms.gov/</link></para><para id="import-auto-idm1712771728">The Clinical Laboratory Improvement Amendments (CLIA) of 1988 are United States federal regulatory standards that apply to all clinical laboratory testing performed on humans in the United States, except clinical trials and basic research. CLIA “defines quality standards for all laboratory testing to ensure accuracy, reliability, and timeliness of patient results regardless of where the test was performed” (CMS.gov). </para>
+      <table id="import-auto-idm1713023408" summary="FDA: Categorizes tests based on complexity, Reviews requests for Waiver by Application, Develops rules/guidance for CLIA complexity categorization CMS: Issues laboratory certificates, Collects user fees, Conducts inspections and enforces regulatory compliance, Approves private accreditation organizations for performing inspections, and approves state exemptions, Monitors laboratory performance on Proficiency Testing (PT) and approves PT programs, Publishes CLIA rules and regulations CDC: Provides analysis, research, and technical assistance, Develops technical standards and laboratory practice guidelines, including standards and guidelines for cytology, Conducts laboratory quality improvement studies, Monitors proficiency testing practices, Develops and distributes professional information and educational resources">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>FDA</entry>
+              <entry>
+                <list id="import-auto-idm1743260096" list-type="bulleted">
+                  <item>Categorizes tests based on the complexity</item>
+                  <item>Reviews requests for Waiver by Application</item>
+                  <item>Develops rules/guidance for CLIA complexity categorization</item>
+                </list>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <link url="http://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/index.html?redirect=/clia/">CMS</link>
+              </entry>
+              <entry>
+                <list id="import-auto-idm396128256" list-type="bulleted">
+                  <item>Issues laboratory certificates</item>
+                  <item>Collects user fees</item>
+                  <item>Conducts inspections and enforces regulatory compliance</item>
+                  <item>Monitors laboratory performance on Proficiency Testing</item>
+                  <item>Publishes CLIA rules and regulations</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://wwwn.cdc.gov/CLIA/Default.aspx">CDC</link>
+              </entry>
+              <entry>
+                <list id="import-auto-idm1709929968" list-type="bulleted">
+                  <item>Provides analysis, research, and technical assistance</item>
+                  <item>Develops technical standards and laboratory practice guidelines</item>
+                  <item>Conducts laboratory quality improvement studies</item>
+                  <item>Monitors proficiency testing practices</item>
+                  <item>Develops and distributes educational resources</item>
+                </list>
+              </entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Three federal agencies are responsible for CLIA, each having a unique role in assuring quality standards: The Food and Drug Administration (FDA), Center for Medicaid Services (CMS) and the Center for Disease Control (CDC).</caption>
+</table><section id="import-auto-idm1701635280">
+        <title>CLIA Program</title>
+        <para id="import-auto-idm381855312">In accord with the CLIA, the CLIA Program sets standards and issues certificates for clinical laboratory testing. CLIA defines a clinical laboratory as any facility which performs laboratory testing on specimens derived from humans to provide information for diagnosis, prevention, or treatment of disease or impairment, and health assessments.</para>
+        <para id="import-auto-idm344139712">An objective of the CLIA is to ensure the accuracy, reliability and timeliness of test results regardless of where the test was performed. Most Laboratory Developed Tests have been regulated under this program. In 2014 the FDA started a public discussion about regulating some LDTs. Per CLIA, each specific laboratory system, assay, examination is graded for level of complexity by assigning scores of 1, 2, or 3 for each of the following seven criteria. A score 1 is the lowest level of complexity and a score of 3 indicates the highest level. Score 2 is assigned when the characteristics for a test are intermediate between the descriptions listed for scores of 1 and 3.</para>
+        <para id="import-auto-idm1548775056">
+          <emphasis effect="bold">Criteria for categorization:</emphasis>
+        </para>
+        <list id="import-auto-idm1737092128" list-type="enumerated" number-style="arabic">
+          <item>Knowledge</item>
+          <item>Training and experience</item>
+          <item>Reagents and materials preparation</item>
+          <item>Characteristics of operational steps</item>
+          <item>Calibration, quality control, and proficiency testing materials</item>
+          <item>Test system troubleshooting and equipment maintenance</item>
+          <item>Interpretation and judgment</item>
+        </list>
+        <para id="import-auto-idm383144688"><emphasis effect="bold"><emphasis effect="italics">Centers for Medicare and Medicaid Services</emphasis></emphasis> (CMS) has the primary responsibility for the operation of the CLIA Program. Within CMS, the program is implemented by the Center for Medicaid and State Operations, Survey and Certification Group, and the Division of Laboratory Services.</para>
+      </section>
+      <section id="import-auto-idm1604173136">
+        <title>CLIA-waived tests</title>
+        <para id="import-auto-idm368067760">Under CLIA, tests and test systems that meet risk, error, and complexity requirements are issued a CLIA certificate of waiver. In November 2007, the CLIA waiver provisions were revised by the United States Congress to make it clear that tests approved by the FDA for home use automatically qualify for CLIA waiver, although many waived tests are not done according to designed protocols – more than 50% of such tests are done incorrectly – and result in medical errors, some with fatal consequences.</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Water Purification</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71221</md:content-id>
+  <md:title>Water Purification</md:title>
+  <md:abstract>There are many different types of contaminants found in water and a variety of methods used to remove these contaminants. Typically, many methods are used in tandem to achieve the highest quality needed.</md:abstract>
+  <md:uuid>c75e98b0-bcd1-42e4-819b-f881c0b0986c</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm1331811488">
+      <title>Water Purification</title>
+      <para id="import-auto-idm1165683504">There are many different types of contaminants found in water and may include dissolved inorganic, dissolved organics, suspended particles, dissolved gasses, microorganisms, and most importantly for pharmaceutical companies, pyrogen, and endotoxins. There are a variety of methods used to remove these contaminants from water, and frequently many methods are used together to achieve the highest quality needed. It is important to note that 100% pure water does not exist. Although the techniques described below do an excellent job of removing contaminants, water is never truly free of all contaminants.</para>
+      <section id="import-auto-idm1180770432">
+        <title>Source water</title>
+        <para id="import-auto-idm1141976832">Most labs and biotechnology industries begin with partially purified tap (municipal) water, the water we drink.  The quality of municipal water varies depending on geographical location and its influence on the water. You may have noticed how water tastes different in different cities.  Due to the high cost of making ultrapure water, some biopharmaceutical industries choose their site depending on the quality of the local water. Although municipal water is drinkable, it needs to be further purified for lab work. </para>
+      </section>
+      <section id="import-auto-idm1143803536">
+        <title>There are five major ways water is purified:</title>
+        <para id="import-auto-idm230018432"><emphasis effect="bold">Distillation </emphasis>is often used to purify water for the lab. Water is heated to boiling; the steam travels through a cooled condenser coil, where it condenses back to liquid form and is collected in a different container. Although distillation removes many contaminants, it is not effective at removing dissolved ionized gasses. One of the main disadvantages of distillation is that it is a relatively expensive and slow process. </para>
+        <para id="import-auto-idm1363075584">In <emphasis effect="bold">ion exchange,</emphasis><emphasis effect="bold"><emphasis effect="italics"/></emphasis>water passes through filters with bead-shaped resins, which remove ions.  Cationic resins remove positive ions, and anionic resins remove negative ions.  It is essential that lab water be deionized. Ions are highly reactive and can ruin experiments, interfere in the production process and contaminate the final product. In Central Texas, we have hard water, water in which many ions, such as, calcium, are dissolved. We can see this hard water in the low sudsing of our soaps and shampoos as well as the tough-to-remove ring around the tub. Water softeners are cationic resins with Na+ loosely attached to them.  As our hard water is passed over the water softener, the hard water Ca<sup>++</sup> ions are exchanged for the Na<sup>+</sup> ions.  Many homes use these water softeners. However, because of the presence of Na+, they are not sufficient for lab purification.</para>
+        <para id="import-auto-idm1450665360"><emphasis effect="bold">Deionization</emphasis> is accomplished using both a cationic exchange column with H+ (instead of Na+) ions as well as an anionic exchange column with OH-.  The positive contaminants are removed by the first column and exchanged with the H+, and the negative contaminants exchanged for the OH-.  The resulting ions combine to form more water molecules, and the water is purified.  It is purer than tap or softened water but still contains many contaminants such as dissolved organics, bacteria, and pyrogens.</para>
+        <para id="import-auto-idm1215418640"><emphasis effect="bold">Carbon Adsorption</emphasis> is very effective in removing dissolved organic compounds from water.  The water is passed over activated charcoal (carbon) made traditionally by burning wood.  Most activated carbon is made from styrene beads today since this produces a purer carbon. The organic contaminants stick to the activated carbon and are removed. Organic removal is usually the preliminary step before deionization.</para>
+        <para id="import-auto-idm1154333776">There are many types of <emphasis effect="bold">filtration methods</emphasis> used in treating water: </para>
+        <list id="import-auto-idm1156713264" list-type="bulleted">
+          <item>The first of these are <emphasis effect="bold">depth filters </emphasis>made of sand or matted fibers.  They are often used at the beginning of the filtration system to remove large debris.  </item>
+          <item><emphasis effect="bold">Microfiltration membrane filters</emphasis> are filters with a pore size of 0.20 um, which filter out bacteria but not smaller dissolved molecules.  </item>
+          <item>Small dissolved molecules, including most organics, are filtered out of the water with an <emphasis effect="bold">ultrafiltration membrane</emphasis> whose pore sizes are smaller than the microfilters. Molecules smaller than most proteins can be separated!</item>
+          <item><emphasis effect="bold">Reverse osmosis (RO)</emphasis> filters are more restrictive than ultrafiltration membranes and with a range of 0.0001 um in diameter and smaller, removes molecules less than 300 Daltons. RO is successful at removing viruses, bacteria, and pyrogens. They also reject ions and polar molecules such as sugars. In RO, water passes through a thin membrane, which retains material based both on their size and on ionic charge. Water is usually under pressure to speed up this slow process. Reverse osmosis is often used to make Type I water.</item>
+          <item><emphasis effect="bold">Nanofiltration </emphasis>is a similar process to RO and can also remove viruses and pyrogens; however, its range is a little smaller at 0.001 um. </item>
+        </list>
+        <para id="import-auto-idm1224078288">There are several other methods used to purify water. Two worth mentioning are <emphasis effect="bold">ultraviolet (UV) oxidation</emphasis> and <emphasis effect="bold">ozone sterilization</emphasis>. In UV oxidation, water is passed for about 30 minutes over a UV lamp with a wavelength of 185 nm. The organic compounds are oxidized to simple compounds such as carbon dioxide.  A wavelength of 245 nm will kill bacteria and is sometimes used to sterilize water. In ozone sterilization, ozone kills bacteria by rupturing their membranes. Ozone is highly reactive and therefore must be removed in subsequent purification steps.</para>
+      </section>
+      <section id="import-auto-idm181833504">
+        <title>WATER PURIFICATION SUMMARY</title>
+        <para id="import-auto-idm1116483648">Each one of these purification methods has their advantages, limitations, and specific applications. It is important to note that <emphasis effect="underline">a combination of these purification procedures is often employed in most labs</emphasis>. For example, Type I water may first be passed through an activated carbon filter and then RO filter to a storage tank.  Finally, a series of ion exchange columns may be used before a final ultrafiltration step. Different labs have different water needs and will choose the standard that is recommended and used in their industry based on their product. Water usage in a biotechnology company follows strict adherence to Standard Operating Procedures (SOPs).  SOPs should explicitly state the source of water required, how it is purified, how the water is monitored and how the purification equipment is to be maintained. </para>
+      </section>
+    </section>
+    <section id="import-auto-idm1331095152">
+      <title>WATER MONITORING</title><para id="import-auto-idm1208655104">Labs must monitor their water purification systems to ensure that the systems are working properly.  Labs usually keep logs of the date, the monitoring system(s) used and the results. The <emphasis effect="bold">maintenance</emphasis> of the water purification systems includes cleaning (usually daily for distillation systems), sanitation and regeneration of ion exchange systems, sanitation and checking for holes of filtration systems, and cleaning and recharging of activated carbon.</para>
+      <section id="import-auto-idm199252992">
+        <title>Five quality parameters are typically used to monitor the water system.</title>
+        <list id="import-auto-idm1210780368" list-type="enumerated" number-style="arabic">
+          <item><emphasis effect="bold">Resistance</emphasis> is a measurement of the electrical current through the water.  Since ions carry the current, water without ion contaminants should have a high resistance.  There is usually an attached meter to read the water resistance of water purification systems. The acceptable value for Type I water is 17.0 megohm-cm.  Resistance is only useful for monitoring ions in water.</item>
+        </list>
+        <list id="import-auto-idm1211661696" list-type="enumerated" number-style="arabic">
+          <item><emphasis effect="bold">Bacterial</emphasis><emphasis effect="bold">counts</emphasis> are used to track levels of microorganisms in water. There are typically three different ways a <emphasis effect="bold">Heterotrophic Plate Count</emphasis> is performed: the pour plate technique, the spread plate technique, and the membrane filtration technique. In all three methods, water samples using various techniques are incubated 25-35<sup>o</sup>C for 48-72 hours on agar plate media. The numbers of colonies growing are counted to give the number of Colony Forming Units (CFU) per mL of water.  Different standards provide the maximum CFU permitted.</item>
+        </list>
+        <list id="import-auto-idm211122416" list-type="enumerated" number-style="arabic">
+          <item>As mentioned in the introduction, <emphasis effect="bold">pyrogens </emphasis>are tested with a Limulus Amebocyte Lysate (LAL) test.  An extract from the blood of a horseshoe crab is mixed with different dilutions of water.  Pyrogens will cause the blood extract to clot.  The results are given in endotoxin units per milliliter (EU/ml).</item>
+        </list>
+        <list id="import-auto-idm1465438000" list-type="enumerated" number-style="arabic">
+          <item><emphasis effect="bold">Organic carbon contaminants</emphasis> are monitored with instruments such as the mass spectrometer, which analyze the carbon compounds.</item>
+        </list>
+        <list id="import-auto-idm225186800" list-type="enumerated" number-style="arabic">
+          <item>The <emphasis effect="bold">pH</emphasis> of ultrapure water exposed to the carbon dioxide in the air is about 5.7.  In a covered container, water has a pH of about 6.0.  The pH is easily monitored with a pH meter.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

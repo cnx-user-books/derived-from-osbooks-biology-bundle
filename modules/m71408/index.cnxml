@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71408</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract>Introduction to measurements section</md:abstract>
+  <md:uuid>29715e7c-910c-4353-84cb-8bcdc6110a70</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm236742912">
+      <title>INTRODUCTION</title>
+      <para id="import-auto-idm462075456"/>
+      <figure id="import-auto-idm608768352"><media id="import-auto-idm484964240" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-01ed.png" height="378" width="361"/>
+        </media>
+      <caption>The SI system after the 2019 redefinition: Dependence of base unit definitions on physical constants with fixed numerical values and other base units. Image credit: By Emilio Pisanty - Own work, CC BY-SA 4.0, <link url="https://commons.wikimedia.org/w/index.php?curid=50713156">https://commons.wikimedia.org/w/index.php?curid=50713156</link></caption></figure><para id="import-auto-idm889795968">In November 2018, the 26th General Conference on Weights and Measures (CGPM) voted unanimously in favor of revised definitions of the SI base units, which the International Committee for Weights and Measures (CIPM) had proposed earlier that year. The new definitions will come into force on May 20<sup>th</sup>, 2019. <emphasis effect="bold"><emphasis effect="italics">The kilogram, ampere, Kelvin, and mole will then </emphasis></emphasis><emphasis effect="bold"><emphasis effect="italics">be defined</emphasis></emphasis><emphasis effect="bold"><emphasis effect="italics"> by setting exact numerical values for the Planck constant (h), the elementary electric charge (e), the Boltzmann constant (k), and the Avogadro constant (NA), respectively</emphasis></emphasis>. The meter and candela <emphasis effect="underline">are already defined</emphasis> by physical constants, subject to correction to their present definitions. The new definitions aim to improve the SI without changing the size of any units, thus ensuring continuity with existing measurements.</para>
+      <para id="import-auto-idm742607776">To learn more: <link url="https://en.wikipedia.org/wiki/2019_redefinition_of_SI_base_units">https://en.wikipedia.org/wiki/2019_redefinition_of_SI_base_units</link></para>
+    </section>
+  </content>
+</document>
