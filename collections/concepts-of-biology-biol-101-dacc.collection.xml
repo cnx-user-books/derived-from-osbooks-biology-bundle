@@ -1,0 +1,134 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11614</md:content-id>
+    <md:title>Concepts of Biology_Biol 101 DACC</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8eec64c3-863d-4520-91de-a2935b94b217</md:uuid>
+<md:slug>concepts-of-biology-biol-101-dacc</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46159"/>
+    <col:subcollection>
+      <md:title>Unit 1. The Cellular Foundation of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Biology</md:title>
+          <col:content>
+            <col:module document="m45418"/>
+            <col:module document="m45419"/>
+            <col:module document="m45421"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cell Structure and Function</md:title>
+          <col:content>
+            <col:module document="m45427"/>
+            <col:module document="m45428"/>
+            <col:module document="m45429"/>
+            <col:module document="m45432"/>
+            <col:module document="m45433"/>
+            <col:module document="m45434"/>
+            <col:module document="m45435"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 2. Cell Division and Genetics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Reproduction at the Cellular Level</md:title>
+          <col:content>
+            <col:module document="m45454"/>
+            <col:module document="m45455"/>
+            <col:module document="m45461"/>
+            <col:module document="m45462"/>
+            <col:module document="m45463"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Cellular Basis of Inheritance</md:title>
+          <col:content>
+            <col:module document="m45464"/>
+            <col:module document="m45465"/>
+            <col:module document="m45466"/>
+            <col:module document="m45467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Patterns of Inheritance</md:title>
+          <col:content>
+            <col:module document="m45468"/>
+            <col:module document="m45469"/>
+            <col:module document="m45470"/>
+            <col:module document="m45471"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 5. Animal Structure and Function</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Animal Reproduction and Development</md:title>
+          <col:content>
+            <col:module document="m45546"/>
+            <col:module document="m45547"/>
+            <col:module document="m45550"/>
+            <col:module document="m45549"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 3. Molecular Biology and Biotechnology</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Molecular Biology</md:title>
+          <col:content>
+            <col:module document="m45472"/>
+            <col:module document="m45473"/>
+            <col:module document="m45475"/>
+            <col:module document="m45476"/>
+            <col:module document="m45479"/>
+            <col:module document="m45480"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Biotechnology</md:title>
+          <col:content>
+            <col:module document="m45481"/>
+            <col:module document="m45482"/>
+            <col:module document="m45483"/>
+            <col:module document="m45485"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 4. Evolution and the Diversity of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Evolution and Its Processes</md:title>
+          <col:content>
+            <col:module document="m45486"/>
+            <col:module document="m45487"/>
+            <col:module document="m45489"/>
+            <col:module document="m45491"/>
+            <col:module document="m45493"/>
+            <col:module document="m45505"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diversity of Life</md:title>
+          <col:content>
+            <col:module document="m45506"/>
+            <col:module document="m45507"/>
+            <col:module document="m45509"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
