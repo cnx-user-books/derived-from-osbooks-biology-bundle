@@ -5,7 +5,7 @@
   <md:content-id>m45444</md:content-id>
   <md:title>Connections to Other Metabolic Pathways</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Discuss the way in which carbohydrate metabolic pathways, glycolysis, and the citric acid cycle interrelate with protein and lipid metabolic pathways</item>
 <item>Explain why metabolic pathways are not considered closed systems</item>
 </list></md:abstract>
@@ -30,7 +30,7 @@
 <para id="fs-id1973636">The lipids that are connected to the glucose pathways are cholesterol and triglycerides. Cholesterol is a lipid that contributes to cell membrane flexibility and is a precursor of steroid hormones. The synthesis of cholesterol starts with acetyl CoA and proceeds in only one direction. The process cannot be reversed, and ATP is not produced.</para>
 <para id="fs-id2596571">Triglycerides are a form of long-term energy storage in animals. Triglycerides store about twice as much energy as carbohydrates. Triglycerides are made of glycerol and three fatty acids. Animals can make most of the fatty acids they need. Triglycerides can be both made and broken down through parts of the glucose catabolism pathways. Glycerol can be phosphorylated and proceeds through glycolysis. Fatty acids are broken into two-carbon units that enter the citric acid cycle.</para>
 <figure id="fig-ch04_05_01"><media id="fs-id2702205" alt="This illustration shows that glycogen, fats, and proteins can be catabolized via aerobic respiration. Glycogen is broken down into glucose, which feeds into glycolysis. Fats are broken down into glycerol, which is processed by glycolysis, and fatty acids, which are converted into acetyl CoA. Proteins are broken down into amino acids, which are processed at various stages of aerobic respiration, including glycolysis, acetyl CoA formation, and the citric acid cycle.">
-<image mime-type="image/jpg" src="../../media/Figure_04_05_01-c4a0.jpg" width="400"/>
+<image mime-type="image/jpg" src="../../media/Figure_04_05_01.jpg" width="400"/>
 </media>
 <caption>Glycogen from the liver and muscles, together with fats, can feed into the catabolic pathways for carbohydrates.
 </caption>
@@ -68,11 +68,11 @@
 </exercise>
 </section>
 
-<section id="fs-id1982753" class="critical-thinking"> <title>Free Response</title>
+<section id="fs-id1982753" class="free-response"> <title>Free Response</title>
 <exercise id="fs-id2336898">
 <problem id="fs-id1298518"><para id="fs-id1778965">Would you describe metabolic pathways as inherently wasteful or inherently economical, and why?</para></problem>
 <solution id="fs-id2021881"><label/> <para id="fs-id1864250">They are very economical. The substrates, intermediates, and products move between pathways and do so in response to finely tuned feedback inhibition loops that keep metabolism overall on an even keel. Intermediates in one pathway may occur in another, and they can move from one pathway to another fluidly in response to the needs of the cell.</para> </solution>
 </exercise>
 </section>
- </content>
+</content>
 </document>
