@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>History of Life and Eukaryotic Origins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48068</md:content-id>
+  <md:title>History of Life and Eukaryotic Origins</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the unifying characteristics of eukaryotes </item>
+<item>Describe what scientists know about the origins of eukaryotes based on the last common ancestor</item>
+<item>Explain endosymbiotic theory</item>
+</list></md:abstract>
+  <md:uuid>c2e50753-078f-4002-8b12-df2ddb7dff42</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp58047360">Living things fall into three large groups: Archaea, Bacteria, and Eukarya. The first two have prokaryotic cells, and the third contains all eukaryotes. A relatively sparse fossil record is available to help discern what the first members of each of these lineages looked like, so it is possible that all the events that led to the last common ancestor of extant eukaryotes will remain unknown. However, comparative biology of extant organisms and the limited fossil record provide some insight into the history of Eukarya.</para>
+<para id="fs-idp194744656">The earliest fossils found appear to be Bacteria, most likely cyanobacteria. They are about 3.5 billion years old and are recognizable because of their relatively complex structure and, for prokaryotes, relatively large cells. Most other prokaryotes have small cells, 1 or 2 µm in size, and would be difficult to pick out as fossils. Most living eukaryotes have cells measuring 10 µm or greater. Structures this size, which might be fossils, appear in the geological record about 2.1 billion years ago.</para>
+<section id="eip-578"><title>Early Life on Earth</title><para id="fs-idm11928784">When and where did life begin? What were the conditions on Earth when life began? Prokaryotes were the first forms of life on Earth, and they existed for billions of years before plants and animals appeared. The Earth and its moon are thought to be about 4.54 billion years old. This estimate is based on evidence from radiometric dating of meteorite material together with other substrate material from Earth and the moon. Early Earth had a very different atmosphere (contained less molecular oxygen) than it does today and was subjected to strong radiation; thus, the first organisms would have flourished where they were more protected, such as in ocean depths or beneath the surface of the Earth. At this time too, strong volcanic activity was common on Earth, so it is likely that these first organisms—the first prokaryotes—were adapted to very high temperatures. Early Earth was prone to geological upheaval and volcanic eruption, and was subject to bombardment by mutagenic radiation from the sun. The first organisms were prokaryotes that could withstand these harsh conditions.</para><para id="fs-idp146818832">Early Earth had a very different atmosphere than it does today. Evidence indicates that during the first 2 billion years of Earth’s existence, the atmosphere was <term>anoxic</term>, meaning that there was no oxygen. Therefore, only those organisms that can grow without oxygen—<term>anaerobic</term> organisms—were able to live. Organisms that convert solar energy into chemical energy are called <term>phototrophs</term>. Phototrophic organisms that required an organic source of carbon appeared within one billion years of the formation of Earth. Then, <term>cyanobacteria</term>, also known as blue-green algae, evolved from these simple phototrophs one billion years later. Cyanobacteria are able to use carbon dioxide as a source of carbon. Cyanobacteria (<link target-id="fig-ch13_01_01" document=""/>) began the oxygenation of the atmosphere. The increase in oxygen concentration allowed the evolution of other life forms.</para>
+<figure id="fig-ch13_01_01"><media id="fs-idp5176480" alt="The photo shows a woman squatting next to a stream of green-colored water.">
+ <image mime-type="image/jpeg" src="../../media/Figure_13_01_01.jpg" width="320"/>
+ </media>   
+    <caption>This hot spring in Yellowstone National Park flows toward the foreground. Cyanobacteria in the spring are green, and as water flows down the heat gradient, the intensity of the color increases because cell density increases. The water is cooler at the edges of the stream than in the center, causing the edges to appear greener. (credit: Graciela Brelles-Mariño)</caption></figure><para id="fs-idm144363408">Microbial mats may represent the earliest forms of life on Earth, and there is fossil evidence of their presence, starting about 3.5 billion years ago. A <term>microbial mat</term> is a large biofilm, a multi-layered sheet of prokaryotes (<link target-id="fig-ch13_01_02ab" document=""/><emphasis effect="bold">a</emphasis>), including mostly bacteria, but also archaea. Microbial mats are a few centimeters thick, and they typically grow on moist surfaces. Their various types of prokaryotes carry out different metabolic pathways, and for this reason, they reflect various colors. Prokaryotes in a microbial mat are held together by a gummy-like substance that they secrete.</para><para id="fs-idp10654784">The first microbial mats likely obtained their energy from hydrothermal vents. A <term>hydrothermal vent</term> is a fissure in Earth’s surface that releases geothermally heated water. With the evolution of photosynthesis about 3 billion years ago, some prokaryotes in microbial mats came to use a more widely available energy source—sunlight—whereas others were still dependent on chemicals from hydrothermal vents for food.</para>
+    <figure id="fig-ch13_01_02ab"><media id="fs-idp87967152" alt="Part a shows a reddish-yellow mound with small chimneys growing out of it. Part b shows rock, marbled white and gray.">
+    <image mime-type="image/jpeg" src="../../media/Figure_13_01_02ab.jpg" width="480"/>
+    </media>
+        <caption>(a) This microbial mat grows over a hydrothermal vent in the Pacific Ocean. Chimneys such as the one indicated by the arrow allow gases to escape. (b) This photo shows stromatolites that are nearly 1.5 billion years old, found in Glacier National Park, Montana. (credit a: modification of work by Dr. Bob Embley, NOAA PMEL; credit b: modification of work by P. Carrara, NPS)</caption></figure><para id="fs-idm31186064">Fossilized microbial mats represent the earliest record of life on Earth. A <term>stromatolite</term> is a sedimentary structure formed when minerals are precipitated from water by prokaryotes in a microbial mat (<link target-id="fig-ch13_01_02ab" document=""/><emphasis effect="bold">b</emphasis>). Stromatolites form layered rocks made of carbonate or silicate. Although most stromatolites are artifacts from the past, there are places on Earth where stromatolites are still forming. For example, living stromatolites have been found in the Anza-Borrego Desert State Park in San Diego County, California.</para><para id="fs-idp131139152">Some prokaryotes are able to thrive and grow under conditions that would kill a plant or animal. Bacteria and archaea that grow under extreme conditions are called <term>extremophiles</term>, meaning “lovers of extremes.” Extremophiles have been found in extreme environments of all kinds, including the depths of the oceans, hot springs, the Arctic and the Antarctic, very dry places, deep inside Earth, harsh chemical environments, and high radiation environments. Extremophiles give us a better understanding of prokaryotic diversity and open up the possibility of the discovery of new therapeutic drugs or industrial applications. They have also opened up the possibility of finding life in other places in the solar system, which have harsher environments than those typically found on Earth. Many of these extremophiles cannot survive in moderate environments.</para>
+<note id="fs-idp4274160" class="interactive non-majors"><label/><title>Concept in Action</title>
+        <media id="fs-idm64393840" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="../../media/extremophiles.png" width="120"/>
+    </media>
+<para id="fs-idp4256336">Watch a <link window="new" url="http://openstaxcollege.org/l/extremophiles">video</link> showing the Director of the Planetary Science Division of NASA discussing the implications that the existence extremophiles on Earth have on the possibility of finding life on other planets in our solar system, such as Mars.</para>
+</note></section><section id="fs-idp178735440">
+<title>Characteristics of Eukaryotes</title>
+<para id="fs-idp77567360">Data from these fossils have led comparative biologists to the conclusion that living eukaryotes are all descendants of a single common ancestor. Mapping the characteristics found in all major groups of eukaryotes reveals that the following characteristics must have been present in the last common ancestor, because these characteristics are present in at least some of the members of each major lineage.</para>
+<list id="fs-idp36156096" list-type="enumerated" number-style="arabic"><item>Cells with nuclei surrounded by a nuclear envelope with nuclear pores. This is the single characteristic that is both necessary and sufficient to define an organism as a eukaryote. All extant eukaryotes have cells with nuclei.</item>
+<item>Mitochondria. Some extant eukaryotes have very reduced remnants of mitochondria in their cells, whereas other members of their lineages have “typical” mitochondria.</item>
+<item>A cytoskeleton containing the structural and motility components called actin microfilaments and microtubules. All extant eukaryotes have these cytoskeletal elements.</item>
+<item>Flagella and cilia, organelles associated with cell motility. Some extant eukaryotes lack flagella and/or cilia, but they are descended from ancestors that possessed them.</item>
+<item>Chromosomes, each consisting of a linear DNA molecule coiled around basic (alkaline) proteins called histones. The few eukaryotes with chromosomes lacking histones clearly evolved from ancestors that had them.</item>
+<item>Mitosis, a process of nuclear division wherein replicated chromosomes are divided and separated using elements of the cytoskeleton. Mitosis is universally present in eukaryotes.</item>
+<item>Sex, a process of genetic recombination unique to eukaryotes in which diploid nuclei at one stage of the life cycle undergo meiosis to yield haploid nuclei and subsequent karyogamy, a stage where two haploid nuclei fuse together to create a diploid zygote nucleus.</item>
+<item>Members of all major lineages have cell walls, and it might be reasonable to conclude that the last common ancestor could make cell walls during some stage of its life cycle. However, not enough is known about eukaryotes’ cell walls and their development to know how much homology exists among them. If the last common ancestor could make cell walls, it is clear that this ability must have been lost in many groups.</item>
+</list></section>
+<section id="fs-idp91775728">
+<title>Endosymbiosis and the Evolution of Eukaryotes</title>
+<para id="fs-idm15580768">In order to understand eukaryotic organisms fully, it is necessary to understand that all extant eukaryotes are descendants of a chimeric organism that was a composite of a host cell and the cell(s) of an alpha-proteobacterium that “took up residence” inside it. This major theme in the origin of eukaryotes is known as <term>endosymbiosis</term>, one cell engulfing another such that the engulfed cell survives and both cells benefit. Over many generations, a symbiotic relationship can result in two organisms that depend on each other so completely that neither could survive on its own. Endosymbiotic events likely contributed to the origin of the last common ancestor of today’s eukaryotes and to later diversification in certain lineages of eukaryotes (<link target-id="fig-ch23_01_04" document=""/>). Before explaining this further, it is necessary to consider metabolism in prokaryotes.</para>
+
+<section id="fs-idm19626000">
+<title>Prokaryotic Metabolism</title>
+<para id="fs-idp58598208">Many important metabolic processes arose in prokaryotes, and some of these, such as nitrogen fixation, are never found in eukaryotes. The process of aerobic respiration is found in all major lineages of eukaryotes, and it is localized in the mitochondria. Aerobic respiration is also found in many lineages of prokaryotes, but it is not present in all of them, and many forms of evidence suggest that such anaerobic prokaryotes never carried out aerobic respiration nor did their ancestors.</para>
+<para id="fs-idp128831424">While today’s atmosphere is about one-fifth molecular oxygen (O<sub>2</sub>), geological evidence shows that it originally lacked O<sub>2</sub>. Without oxygen, aerobic respiration would not be expected, and living things would have relied on fermentation instead. At some point before, about 3.5 billion years ago, some prokaryotes began using energy from sunlight to power anabolic processes that reduce carbon dioxide to form organic compounds. That is, they evolved the ability to photosynthesize. Hydrogen, derived from various sources, was captured using light-powered reactions to reduce fixed carbon dioxide in the Calvin cycle. The group of Gram-negative bacteria that gave rise to cyanobacteria used water as the hydrogen source and released O<sub>2</sub> as a waste product.</para>
+<para id="fs-idp81523472">Eventually, the amount of photosynthetic oxygen built up in some environments to levels that posed a risk to living organisms, since it can damage many organic compounds. Various metabolic processes evolved that protected organisms from oxygen, one of which, aerobic respiration, also generated high levels of ATP. It became widely present among prokaryotes, including in a group we now call alpha-proteobacteria. Organisms that did not acquire aerobic respiration had to remain in oxygen-free environments. Originally, oxygen-rich environments were likely localized around places where cyanobacteria were active, but by about 2 billion years ago, geological evidence shows that oxygen was building up to higher concentrations in the atmosphere. Oxygen levels similar to today’s levels only arose within the last 700 million years.</para>
+<para id="fs-idm22111648">Recall that the first fossils that we believe to be eukaryotes date to about 2 billion years old, so they appeared as oxygen levels were increasing. Also, recall that all extant eukaryotes descended from an ancestor with mitochondria. These organelles were first observed by light microscopists in the late 1800s, where they appeared to be somewhat worm-shaped structures that seemed to be moving around in the cell. Some early observers suggested that they might be bacteria living inside host cells, but these hypotheses remained unknown or rejected in most scientific communities.</para>
+</section>
+<section id="fs-idp100923312">
+<title>Endosymbiotic Theory</title>
+<para id="fs-idp65132464">As cell biology developed in the twentieth century, it became clear that mitochondria were the organelles responsible for producing ATP using aerobic respiration. In the 1960s, American biologist Lynn Margulis developed <term>endosymbiotic theory</term>, which states that eukaryotes may have been a product of one cell engulfing another, one living within another, and evolving over time until the separate cells were no longer recognizable as such. In 1967, Margulis introduced new work on the theory and substantiated her findings through microbiological evidence. Although Margulis’ work initially was met with resistance, this once-revolutionary hypothesis is now widely (but not completely) accepted, with work progressing on uncovering the steps involved in this evolutionary process and the key players involved. Much still remains to be discovered about the origins of the cells that now make up the cells in all living eukaryotes.</para>
+<para id="fs-idp141561456">Broadly, it has become clear that many of our nuclear genes and the molecular machinery responsible for replication and expression appear closely related to those in Archaea. On the other hand, the metabolic organelles and genes responsible for many energy-harvesting processes had their origins in bacteria. Much remains to be clarified about how this relationship occurred; this continues to be an exciting field of discovery in biology. For instance, it is not known whether the endosymbiotic event that led to mitochondria occurred before or after the host cell had a nucleus. Such organisms would be among the extinct precursors of the last common ancestor of eukaryotes.</para>
+</section>
+<section id="fs-idp142122160">
+<title>Mitochondria</title>
+<para id="fs-idm36769520">One of the major features distinguishing prokaryotes from eukaryotes is the presence of mitochondria. Eukaryotic cells may contain anywhere from one to several thousand mitochondria, depending on the cell’s level of energy consumption. Each mitochondrion measures 1 to 10 or greater micrometers in length and exists in the cell as an organelle that can be ovoid to worm-shaped to intricately branched (<link target-id="fig-ch23_01_01" document=""/>). Mitochondria arise from the division of existing mitochondria; they may fuse together; and they may be moved around inside the cell by interactions with the cytoskeleton. However, mitochondria cannot survive outside the cell. As the atmosphere was oxygenated by photosynthesis, and as successful aerobic prokaryotes evolved, evidence suggests that an ancestral cell with some membrane compartmentalization engulfed a free-living aerobic prokaryote, specifically an alpha-proteobacterium, thereby giving the host cell the ability to use oxygen to release energy stored in nutrients. Alpha-proteobacteria are a large group of bacteria that includes species symbiotic with plants, disease organisms that can infect humans via ticks, and many free-living species that use light for energy. Several lines of evidence support that mitochondria are derived from this endosymbiotic event. Most mitochondria are shaped like alpha-proteobacteria and are surrounded by two membranes, which would result when one membrane-bound organism was engulfed into a vacuole by another membrane-bound organism. The mitochondrial inner membrane is extensive and involves substantial infoldings called cristae that resemble the textured, outer surface of alpha-proteobacteria. The matrix and inner membrane are rich with the enzymes necessary for aerobic respiration.</para>
+<figure id="fig-ch23_01_01"><media id="fs-idp143932448" alt="This micrograph shows two round, membrane-bound organelles inside a cell. The organelles are about 400 microns across and have membranes running through the middle of them.">
+<image mime-type="image/jpg" src="../../media/Figure_23_01_01.jpg" width="300"/>
+</media>
+<caption>In this transmission electron micrograph of mitochondria in a mammalian lung cell, the cristae, infoldings of the mitochondrial inner membrane, can be seen in cross-section. (credit: Louise Howard)</caption></figure><para id="fs-idp179803632">Mitochondria divide independently by a process that resembles binary fission in prokaryotes. Specifically, mitochondria are not formed from scratch (de novo) by the eukaryotic cell; they reproduce within it and are distributed with the cytoplasm when a cell divides or two cells fuse. Therefore, although these organelles are highly integrated into the eukaryotic cell, they still reproduce as if they are independent organisms within the cell. However, their reproduction is synchronized with the activity and division of the cell. Mitochondria have their own (usually) circular DNA chromosome that is stabilized by attachments to the inner membrane and carries genes similar to genes expressed by alpha-proteobacteria. Mitochondria also have special ribosomes and transfer RNAs that resemble these components in prokaryotes. These features all support that mitochondria were once free-living prokaryotes.</para>
+<para id="fs-idm20647360">Mitochondria that carry out aerobic respiration have their own genomes, with genes similar to bacteria. However, many of the genes for proteins that are required in aerobic respiration are located in the nucleus. Additionally, in some eukaryotic groups, such genes are found in the mitochondria, whereas in other groups, they are found in the nucleus. This has been interpreted as evidence that genes have been transferred from the endosymbiont chromosome to the host genome. This loss of genes by the endosymbiont is probably one explanation why mitochondria cannot live without a host.</para></section>
+<section id="fs-idm20932768">
+<title>Plastids</title>
+<para id="fs-idm22814400">Some groups of eukaryotes are photosynthetic. Their cells contain, in addition to the standard eukaryotic organelles, another kind of organelle called a <term>plastid</term>. When such cells are carrying out photosynthesis, their plastids are rich in the pigment chlorophyll <emphasis effect="italics">a</emphasis> and a range of other pigments, called accessory pigments, which are involved in harvesting energy from light. Photosynthetic plastids are called chloroplasts (<link target-id="fig-ch23_01_02" document=""/>).</para>
+<figure id="fig-ch23_01_02"><media id="fs-idm19363552" alt="The illustration A shows a green, oval chloroplast with an outer membrane and an inner membrane. Thylakoids are disk-shaped and stack together like poker chips. Image B is a micrograph showing rectangular shapes that have small green spheres within.">
+<image mime-type="image/jpg" src="../../media/Figure_23_01_02.jpg" width="520"/>
+</media>
+<caption>(a) This chloroplast cross-section illustrates its elaborate inner membrane organization. Stacks of thylakoid membranes compartmentalize photosynthetic enzymes and provide scaffolding for chloroplast DNA. (b) In this micrograph of <emphasis effect="italics">Elodea </emphasis>sp., the chloroplasts can be seen as small green spheres. (credit b: modification of work by Brandon Zierer; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp137232896">Like mitochondria, plastids appear to have an endosymbiotic origin. This hypothesis was also championed by Lynn Margulis. Plastids are derived from cyanobacteria that lived inside the cells of an ancestral, aerobic, heterotrophic eukaryote. This is called primary endosymbiosis, and plastids of primary origin are surrounded by two membranes. </para><para id="fs-idm79167008">There is also, as with the case of mitochondria, strong evidence that many of the genes of the endosymbiont were transferred to the nucleus. Plastids, like mitochondria, cannot live independently outside the host. In addition, like mitochondria, plastids are derived from the division of other plastids and never built from scratch. Researchers have suggested that the endosymbiotic event that led to Archaeplastida occurred 1 to 1.5 billion years ago, at least 5 hundred million years after the fossil record suggests that eukaryotes were present.</para>
+<note id="fs-idp212057328" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idp58528784"><figure id="fig-ch23_01_04" class=" "><media id="fs-idm171337104" alt="The illustration shows steps that, according to the endosymbiotic theory, gave rise to eukaryotic organisms. In step 1, infoldings in the plasma membrane of an ancestral prokaryote gave rise to endomembrane components, including a nucleus and endoplasmic reticulum. In step 2, the first endosymbiotic event occurred: The ancestral eukaryote consumed aerobic bacteria that evolved into mitochondria. In a second endosymbiotic event, the early eukaryote consumed photosynthetic bacteria that evolved into chloroplasts.">
+<image mime-type="image/png" src="../../media/Figure_23_01_04.png" width="520"/>
+</media>
+<caption>The first eukaryote may have originated from an ancestral prokaryote that had undergone membrane proliferation, compartmentalization of cellular function (into a nucleus, lysosomes, and an endoplasmic reticulum), and the establishment of endosymbiotic relationships with an aerobic prokaryote, and, in some cases, a photosynthetic prokaryote, to form mitochondria and chloroplasts, respectively.</caption></figure></para>
+<para id="fs-idp9378256">What evidence is there that mitochondria were incorporated into the ancestral eukaryotic cell before chloroplasts?</para>
+<!--<para><link target-id="fig-ch23_01_04" document=""/>All eukaryotic cells have mitochondria, but not all eukaryotic cells have chloroplasts.</para>-->
+</note></section>
+</section>
+<section id="fs-idp197708144" class="summary">
+<title>Section Summary</title><para id="fs-idp59046768">The oldest fossil evidence of eukaryotes is about 2 billion years old. Fossils older than this all appear to be prokaryotes. It is probable that today’s eukaryotes are descended from an ancestor that had a prokaryotic organization. The last common ancestor of today’s Eukarya had several characteristics, including cells with nuclei that divided mitotically and contained linear chromosomes where the DNA was associated with histones, a cytoskeleton and endomembrane system, and the ability to make cilia/flagella during at least part of its life cycle. It was aerobic because it had mitochondria that were the result of an aerobic alpha-proteobacterium that lived inside a host cell. Whether this host had a nucleus at the time of the initial symbiosis remains unknown. The last common ancestor may have had a cell wall for at least part of its life cycle, but more data are needed to confirm this hypothesis. Today’s eukaryotes are very diverse in their shapes, organization, life cycles, and number of cells per individual.</para>
+</section>
+    <section id="fs-idm15655632" class="art-exercise">
+        <title>Art Connections</title>
+<exercise id="fs-idp126858320">
+    <problem id="fs-idm46243952"><para id="fs-idp18528464"><link target-id="fig-ch23_01_04" document=""/> What evidence is there that mitochondria were incorporated into the ancestral eukaryotic cell before chloroplasts?</para></problem>
+<solution id="fs-idm33648512"><label/><para id="fs-idm20314336"><link target-id="fig-ch23_01_04" document=""/> All eukaryotic cells have mitochondria, but not all eukaryotic cells have chloroplasts.</para></solution>
+</exercise>
+    </section>
+<section id="fs-idp69210128" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp86366592">
+<problem id="fs-idp70109536"><para id="fs-idp57213488">What event is thought to have contributed to the evolution of eukaryotes?</para>
+<list id="fs-idp20064304" list-type="enumerated" number-style="lower-alpha">
+<item>global warming</item>
+<item>glaciation</item>
+<item>volcanic activity</item>
+<item>oxygenation of the atmosphere</item>
+</list>
+</problem>
+<solution id="fs-idp2129296">
+<label/>
+<para id="fs-idp94264048">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp48251952">
+<problem id="fs-idp16961072"><para id="fs-idm41468864">Which characteristic is shared by prokaryotes and eukaryotes?</para>
+<list id="fs-idp26266144" list-type="enumerated" number-style="lower-alpha">
+<item>cytoskeleton</item>
+<item>nuclear envelope</item>
+<item>DNA-based genome</item>
+<item>mitochondria</item>
+</list>
+</problem>
+<solution id="fs-idp38777248">
+<label/>
+<para id="fs-idp17157984">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm128928">
+<problem id="fs-idp38355360"><para id="fs-idp19941312">Mitochondria most likely evolved by _____________.</para>
+<list id="fs-idp52542016" list-type="enumerated" number-style="lower-alpha">
+<item>a photosynthetic cyanobacterium</item>
+<item>cytoskeletal elements</item>
+<item>endosymbiosis</item>
+<item>membrane proliferation</item>
+</list>
+</problem>
+<solution id="fs-idm19455712">
+<label/>
+<para id="fs-idp14361824">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp17275648">
+<problem id="fs-idp103056704"><para id="fs-idp230169328">Which of these protists is believed to have evolved following a secondary endosymbiosis?</para>
+<list id="fs-idm15533184" list-type="enumerated" number-style="lower-alpha">
+<item>green algae</item>
+<item>cyanobacteria</item>
+<item>red algae</item>
+<item>chlorarachniophytes</item>
+</list>
+</problem>
+<solution id="fs-idm18716032">
+<label/>
+<para id="fs-idp52543824">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp133535040" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp2026496">
+<problem id="fs-idm22060848"><para id="fs-idp38761008">Describe the hypothesized steps in the origin of eukaryotic cells.</para></problem>
+<solution id="fs-idp101876784"><label/>
+<para id="fs-idp22067248">Eukaryotic cells arose through endosymbiotic events that gave rise to the energy-producing organelles within the eukaryotic cells such as mitochondria and chloroplasts. The nuclear genome of eukaryotes is related most closely to the Archaea, so it may have been an early archaean that engulfed a bacterial cell that evolved into a mitochondrion. Mitochondria appear to have originated from an alpha-proteobacterium, whereas chloroplasts originated as a cyanobacterium. There is also evidence of secondary endosymbiotic events. Other cell components may also have resulted from endosymbiotic events.</para></solution>
+</exercise>
+</section>
+    </content>
+<glossary>
+<definition id="fs-idp90498592"><term>endosymbiosis</term> <meaning id="fs-idp98444640">engulfment of one cell within another such that the engulfed cell survives, and both cells benefit; the process responsible for the evolution of mitochondria and chloroplasts in eukaryotes</meaning></definition>
+<definition id="fs-idp66963344"><term>endosymbiotic theory</term> <meaning id="fs-idp4535888">theory that states that eukaryotes may have been a product of one cell engulfing another, one living within another, and evolving over time until the separate cells were no longer recognizable as such</meaning></definition>
+<definition id="fs-idp19302432"><term>plastid</term> <meaning id="fs-idp15801296">one of a group of related organelles in plant cells that are involved in the storage of starches, fats, proteins, and pigments</meaning></definition>
+</glossary>
+</document>

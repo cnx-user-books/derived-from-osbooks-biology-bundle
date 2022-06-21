@@ -1,0 +1,405 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Systematics and the Tree of Life</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48046</md:content-id>
+  <md:title>Systematics and the Tree of Life</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the need for a comprehensive classification system</item>
+<item>List the different levels of the taxonomic classification system</item>
+<item>Describe how systematics and taxonomy relate to phylogeny</item>
+<item>Discuss the components and purpose of a phylogenetic tree</item>
+<item>Compare homologous and analogous traits</item>
+<item>Discuss the purpose of cladistics</item>
+<item>Describe maximum parsimony</item>
+</list></md:abstract>
+  <md:uuid>101237ec-e041-4b90-b798-85a8cfcbacc7</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-742"><title>Introduction</title><figure id="fig-ch20_00_01" class="splash"><media id="fs-idm85766432" alt=" Photo shows a bee collecting nectar from a flower.">
+<image mime-type="image/jpg" src="../../media/Figure_20_00_01.jpg" width="600"/>
+</media>
+<caption>The life of a bee is very different from the life of a flower, but the two organisms are related. Both are members the domain Eukarya and have cells containing many similar organelles, genes, and proteins. (credit: modification of work by John Beetham)</caption></figure><para id="eip-238">
+This bee and <emphasis effect="italics">Echinacea</emphasis> flower (<link target-id="fig-ch20_00_01" document=""/>) could not look more different, yet they are related, as are all living organisms on Earth. By following pathways of similarities and changes—both visible and genetic—scientists seek to map the evolutionary past of how life developed from single-celled organisms to the tremendous collection of creatures that have germinated, crawled, floated, swam, flown, and walked on this planet.
+</para></section><para id="fs-idp16257248">In scientific terms, the evolutionary history and relationship of an organism or group of organisms is called phylogeny. <term>Phylogeny</term> describes the relationships of an organism, such as from which organisms it is thought to have evolved, to which species it is most closely related, and so forth. Phylogenetic relationships provide information on shared ancestry but not necessarily on how organisms are similar or different.</para>
+<section id="fs-idm3522544">
+<title>Phylogenetic Trees</title>
+<para id="fs-idp113710944">Scientists use a tool called a phylogenetic tree to show the evolutionary pathways and connections among organisms. A <term>phylogenetic tree</term> is a diagram used to reflect evolutionary relationships among organisms or groups of organisms. Scientists consider phylogenetic trees to be a hypothesis of the evolutionary past since one cannot go back to confirm the proposed relationships. In other words, a “tree of life” can be constructed to illustrate when different organisms evolved and to show the relationships among different organisms (<link target-id="fig-ch20_01_01" document=""/>).</para>
+<para id="fs-idm25303200">Unlike a taxonomic classification diagram, a phylogenetic tree can be read like a map of evolutionary history. Many phylogenetic trees have a single lineage at the base representing a common ancestor. Scientists call such trees <term>rooted</term>, which means there is a single ancestral lineage (typically drawn from the bottom or left) to which all organisms represented in the diagram relate. Notice in the rooted phylogenetic tree that the three domains— Bacteria, Archaea, and Eukarya—diverge from a single point and branch off. The small branch that plants and animals (including humans) occupy in this diagram shows how recent and miniscule these groups are compared with other organisms. Unrooted trees don’t show a common ancestor but do show relationships among species.</para>
+<figure id="fig-ch20_01_01"><media id="fs-idp124090880" alt="The phylogenetic tree in part a is rooted and resembles a living tree, with a common ancestor indicated as the base of the trunk. Two branches form from the trunk. The left branch leads to the domain Bacteria. The right branch branches again, giving rise to Archaea and Eukarya. Smaller branches within each domain indicate the groups present in that domain. The phylogenetic tree in part B is unrooted. It does not resemble a living tree; rather, groups of organisms within the Archaea, Eukarya, and Bacteria domains are arranged in a circle. Lines connect the groups within each domain. The groups within Archaea and Eukarya are then connected together. A line from the Archaea/ Eukarya domains, and another from the Bacteria meet in the center of the circle. There is no root, and therefore no indication of which domain arose first.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_01.jpg" width="500"/>
+</media>
+
+<caption>Both of these phylogenetic trees shows the relationship of the three domains of life—Bacteria, Archaea, and Eukarya—but the (a) rooted tree attempts to identify when various species diverged from a common ancestor while the (b) unrooted tree does not. (credit a: modification of work by Eric Gaba)</caption></figure><para id="fs-idp119151024">The diagrams above can serve as a pathway to understanding evolutionary history. The pathway can be traced from the origin of life to any individual species by navigating through the evolutionary branches between the two points.  Also, by starting with a single species and tracing back towards the "trunk" of the tree, one can discover that species' ancestors, as well as where lineages share a common ancestry. In addition, the tree can be used to study entire groups of organisms.</para><para id="fs-idp51522928">Another point to mention on phylogenetic tree structure is that rotation at branch points does not change the information. For example, if a branch point was rotated and the taxon order changed, this would not alter the information because the evolution of each taxon from the branch point was independent of the other.</para>
+<para id="fs-idp20620384">Many disciplines within the study of biology contribute to understanding how past and present life evolved over time; these disciplines together contribute to building, updating, and maintaining the “tree of life.” Information is used to organize and classify organisms based on evolutionary relationships in a scientific field called <term>systematics</term>. Data may be collected from fossils, from studying the structure of body parts or molecules used by an organism, and by DNA analysis. By combining data from many sources, scientists can put together the phylogeny of an organism; since phylogenetic trees are hypotheses, they will continue to change as new types of life are discovered and new information is learned.</para>
+</section>
+<section id="fs-idp66539744">
+<title>Limitations of Phylogenetic Trees</title>
+<para id="fs-idp15260000">It may be easy to assume that more closely related organisms look more alike, and while this is often the case, it is not always true. If two closely related lineages evolved under significantly varied surroundings or after the evolution of a major new adaptation, it is possible for the two groups to appear more different than other groups that are not as closely related. For example, the phylogenetic tree in <link target-id="fig-ch20_01_03" document=""/> shows that lizards and rabbits both have amniotic eggs, whereas frogs do not; yet lizards and frogs appear more similar than lizards and rabbits.</para>
+<figure id="fig-ch20_01_03">
+<media id="fs-idp25733600" alt="The ladder-like phylogenetic tree starts with a trunk at the left. A question next to the trunk asks whether a vertebral column is present. If the answer is no, a branch leads downward to lancelet. If the answer is yes, a branch leads upward to another question: is a hinged jaw present? If the answer is no, a branch leads downward to lamprey. If the answer is yes, a branch leads upward to another question: are legs present? If the answer is no, a branch leads downward to fish. If the answer is yes, a branch leads upward to another question: does the egg have amnion? If the answer is no, the branch leads downward to frog. If the answer is yes, the branch leads upward to another question: is hair present? If the answer is no, the branch leads downward to lizard. If the answer is yes, the branch leads upward to rabbit.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_03.jpg" width="350"/>
+</media>
+<caption>This ladder-like phylogenetic tree of vertebrates is rooted by an organism that lacked a vertebral column. At each branch point, organisms with different characters are placed in different groups based on the characteristics they share.</caption>
+</figure>
+<para id="fs-idm65714400">Another aspect of phylogenetic trees is that, unless otherwise indicated, the branches do not account for length of time, only the evolutionary order. In other words, the length of a branch does not typically mean more time passed, nor does a short branch mean less time passed— unless specified on the diagram. For example, in <link target-id="fig-ch20_01_03" document=""/>, the tree does not indicate how much time passed between the evolution of amniotic eggs and hair. What the tree does show is the order in which things took place. Again using <link target-id="fig-ch20_01_03" document=""/>, the tree shows that the oldest trait is the vertebral column, followed by hinged jaws, and so forth. Remember that any phylogenetic tree is a part of the greater whole, and like a real tree, it does not grow in only one direction after a new branch develops. So, for the organisms in <link target-id="fig-ch20_01_03" document=""/>, just because a vertebral column evolved does not mean that invertebrate evolution ceased, it only means that a new branch formed. Also, groups that are not closely related, but evolve under similar conditions, may appear more phenotypically similar to each other than to a close relative.</para>
+<note id="fs-idp21663728" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp95692752" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/tree_of_life.png" width="120"/>
+</media>
+<para id="fs-idm44792448">Head to this <link window="new" url="http://openstaxcollege.org/l/tree_of_life">website</link> to see interactive exercises that allow you to explore the evolutionary relationships among species.</para>
+</note></section>
+<section id="eip-967"><title>Building Phylogenetic Trees</title><para id="eip-794">The concepts of phylogenetic modeling are constantly changing. It is one of the most dynamic fields of study in all of biology. Over the last several decades, new research has challenged scientists’ ideas about how organisms are related. New models of these relationships have been proposed for consideration by the scientific community.</para><para id="eip-349">Many phylogenetic trees have been shown as models of the evolutionary relationship among species. Phylogenetic trees originated with Charles Darwin, who sketched the first phylogenetic tree in 1837 (<link target-id="fig-ch20_03_01" document=""/><emphasis effect="bold">a</emphasis>), which served as a pattern for subsequent studies for more than a century. The concept of a phylogenetic tree with a single trunk representing a common ancestor, with the branches representing the divergence of species from this ancestor, fits well with the structure of many common trees, such as the oak (<link target-id="fig-ch20_03_01" document=""/><emphasis effect="bold">b</emphasis>). </para><para id="eip-372"><figure id="fig-ch20_03_01"><media id="fs-idm68369888" alt=" Image a shows Charles Darwin’s sketch of lines branching, like those on a tree. Photo b shows a photo of an oak tree with many branches.">
+<image mime-type="image/jpg" src="../../media/Figure_20_03_01ab.jpg" width="500"/>
+</media>
+<caption>The (a) concept of the “tree of life” goes back to an 1837 sketch by Charles Darwin. Like an (b) oak tree, the “tree of life” has a single trunk and many branches. (credit b: modification of work by "Amada44"/Wikimedia Commons)</caption></figure></para><para id="fs-idp47865664">How do scientists construct phylogenetic trees? After the homologous and analogous traits are sorted, scientists often organize the homologous traits using a system called <term>cladistics</term>. This system sorts organisms into clades: groups of organisms that descended from a single ancestor. For example, in <link target-id="fig-ch20_02_04" document=""/>, all of the organisms in the orange region evolved from a single ancestor that had amniotic eggs. Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a <term>monophyletic group</term>. Clades must include all of the descendants from a branch point.</para>
+<note id="fs-idp98199440" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch20_02_04">
+<media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lancelets, lampreys, fish, lizards, rabbits, and humans. Lancelets are at the left tip of the V, and humans are at the right tip. Four more lines are drawn parallel to the lancelet line; each of these lines starts further up the right arm of the V than the next. At the end of each line, from left to right, are lampreys, fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_04.png" width="350"/>
+</media>
+<caption>Lizards, rabbits, and humans all descend from a common ancestor that had an amniotic egg. Thus, lizards, rabbits, and humans all belong to the clade Amniota. Vertebrata is a larger clade that also includes fish and lamprey.</caption>
+</figure>
+<para id="fs-idm3428944">Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>
+<!--<para><link target-id="fig-ch20_01_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>-->
+</note><para id="fs-idp86169680">Clades can vary in size depending on which branch point is being referenced. The important factor is that all of the organisms in the clade or monophyletic group stem from a single point on the tree. This can be remembered because monophyletic breaks down into “mono,” meaning one, and “phyletic,” meaning evolutionary relationship. <link target-id="fig-ch20_02_05" document=""/> shows various examples of clades. Notice how each clade comes from a single point, whereas the non-clade groups show branches that do not share a single point.</para>
+<note id="fs-idp34398416" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch20_02_05">
+<media id="fs-idp15258080" alt="Illustrations show a phylogenetic tree that includes eukaryotic species. A central line represents the trunk of the tree. From this trunk, various groups branch. In order from the bottom, these are diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, and ciliates. At the top of the tree, animals, fungi and plants all branch from the same point and are shaded to show that they belong in the same clade. Flagellates are on a branch by themselves, and they also form their own clade and are shaded to show this. In another image, Flagellates and ciliates are shaded to show that they branch from different points on the tree and are not considered clades. Likewise, a grouping of animals and plants but not fungi would not be considered a clade cannot exclude a branch originating at the same point as the others.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_05.png" width="400"/>
+</media>
+<caption>All the organisms within a clade stem from a single point on the tree. A clade may contain multiple groups, as in the case of animals, fungi and plants, or a single group, as in the case of flagellates. Groups that diverge at a different branch point, or that do not include all groups in a single branch point, are not considered clades.</caption>
+</figure>
+<para id="fs-idp84420976">What is the largest clade in this diagram?</para>
+<!--<para><link target-id="fig-ch20_01_05" document=""/> The largest clade encompasses the entire tree.</para>-->
+</note><section id="fs-idp178110608">
+<title>Shared Characteristics</title>
+<para id="fs-idp183475232">Organisms evolve from common ancestors and then diversify. Scientists use the phrase “descent with modification” because even though related organisms have many of the same characteristics and genetic codes, changes occur. This pattern repeats over and over as one goes through the phylogenetic tree of life:</para>
+<list id="fs-idp96580912" list-type="enumerated" number-style="arabic">
+<item>A change in the genetic makeup of an organism leads to a new trait which becomes prevalent in the group.</item>
+<item>Many organisms descend from this point and have this trait.</item>
+<item>New variations continue to arise: some are adaptive and persist, leading to new traits.</item>
+<item>With new traits, a new branch point is determined (go back to step 1 and repeat).</item>
+</list>
+<para id="fs-idp34154656">If a characteristic is found in the ancestor of a group, it is considered a <term>shared ancestral character</term> because all of the organisms in the taxon or clade have that trait. The vertebrate in <link target-id="fig-ch20_02_04" document=""/> is a shared ancestral character. Now consider the amniotic egg characteristic in the same figure. Only some of the organisms in <link target-id="fig-ch20_02_04" document=""/> have this trait, and to those that do, it is called a <term>shared derived character</term> because this trait derived at some point but does not include all of the ancestors in the tree.</para><para id="fs-idm6671824">The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative. The same trait can be considered one or the other depending on the particular diagram being used. Returning to <link target-id="fig-ch20_02_04" document=""/>, note that the amniotic egg is a shared ancestral character for the Amniota clade, while having hair is a shared derived character for some organisms in this group. These terms help scientists distinguish between clades in the building of phylogenetic trees.</para><section id="eip-898"><title>Two Options for Similarities</title><para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures (<link target-id="fig-ch20_02_01" document=""/>).</para>
+<figure id="fig-ch20_02_01" class=" "><media id="fs-idp86426144" alt=" Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_01.jpg" width="440"/>
+</media>
+
+<caption>Bat and bird wings are homologous structures, indicating that bats and birds share a common evolutionary past. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM)</caption></figure><para id="fs-idp55123216">Notice it is not simply a single bone, but rather a grouping of several bones arranged in a similar way. The more complex the feature, the more likely any kind of overlap is due to a common evolutionary past. Imagine two people from different countries both inventing a car with all the same parts and in exactly the same arrangement without any previous or shared knowledge. That outcome would be highly improbable. However, if two people both invented a hammer, it would be reasonable to conclude that both could have the original idea without the help of the other. The same relationship between complexity and shared evolutionary history is true for homologous structures in organisms.</para>
+<section id="fs-idm9365056">
+<title>Misleading Appearances</title>
+<para id="fs-idp88564512">Some organisms may be very closely related, even though a minor genetic change caused a major morphological difference to make them look quite different. Similarly, unrelated organisms may be distantly related, but appear very much alike. This usually happens because both organisms were in common adaptations that evolved within similar environmental conditions. When similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is called an <term>analogy</term> or homoplasy. For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin is completely different. These are called analogous structures (<link target-id="fig-ch20_02_02abc" document=""/>).</para>
+<para id="fs-idp46122432">Similar traits can be either homologous or analogous. Homologous structures share a similar embryonic origin; analogous organs have a similar function. For example, the bones in the front flipper of a whale are homologous to the bones in the human arm. These structures are not analogous. The wings of a butterfly and the wings of a bird are analogous but not homologous. Some structures are both analogous and homologous: the wings of a bird and the wings of a bat are both homologous and analogous. Scientists must determine which type of similarity a feature exhibits to decipher the phylogeny of the organisms being studied.</para>
+<figure id="fig-ch20_02_02abc"><media id="fs-idp100913104" alt=" Photo a shows a bat wing, photo b shows a bird wing, and photo c shows a honeybee wing, and all three are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The honeybee wing is made of a thin, membranous material rather than bone.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_02.jpg" width="450"/>
+</media>
+
+<caption>The (c) wing of a honeybee is similar in shape to a (b) bird wing and (a) bat wing, and it serves the same function. However, the honeybee wing is not composed of bones and has a distinctly different structure and embryonic origin. These wing types (insect versus bat and bird) illustrate an analogy—similar structures that do not share an evolutionary history. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM; credit c: modification of work by Jon Sullivan)</caption></figure><note id="fs-idp112720384" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp31179696" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/relationships.png" width="120"/>
+</media>
+<para id="fs-idp122959616">This <link window="new" url="http://openstaxcollege.org/l/relationships">website</link> has several examples to show how appearances can be misleading in understanding the phylogenetic relationships of organisms.</para>
+</note></section>
+<section id="fs-idp17189680">
+<title>Molecular Comparisons</title>
+<para id="fs-idp82199280">With the advancement of DNA technology, the area of <term>molecular systematics</term>, which describes the use of information on the molecular level including DNA analysis, has blossomed. New computer programs not only confirm many earlier classified organisms, but also uncover previously made errors. As with physical characteristics, even the DNA sequence can be tricky to read in some cases. For some situations, two very closely related organisms can appear unrelated if a mutation occurred that caused a shift in the genetic code. An insertion or deletion mutation would move each nucleotide base over one place, causing two similar codes to appear unrelated.</para>
+<para id="fs-idp96201360">Sometimes two segments of DNA code in distantly related organisms randomly share a high percentage of bases in the same locations, causing these organisms to appear closely related when they are not. For both of these situations, computer technologies have been developed to help identify the actual relationships, and, ultimately, the coupled use of both morphologic and molecular information is more effective in determining phylogeny.</para>
+</section>
+</section><section id="fs-idp120153744">
+<title>Choosing the Right Relationships</title>
+<para id="fs-idm2067904">Imagine being the person responsible for organizing all of the items in a department store properly—an overwhelming task. Organizing the evolutionary relationships of all life on Earth proves much more difficult: scientists must span enormous blocks of time and work with information from long-extinct organisms. Trying to decipher the proper connections, especially given the presence of homologies and analogies, makes the task of building an accurate tree of life extraordinarily difficult. Add to that the advancement of DNA technology, which now provides large quantities of genetic sequences to be used and analyzed. Taxonomy is a subjective discipline: many organisms have more than one connection to each other, so each taxonomist will decide the order of connections.</para>
+<para id="fs-idp136027872">To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called <term>maximum parsimony</term>, which means that events occurred in the simplest, most obvious way. For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones.</para>
+<para id="fs-idp121336368">For scientists deciphering evolutionary pathways, the same idea is used: the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand. Starting with all of the homologous traits in a group of organisms, scientists look for the most obvious and simple order of evolutionary events that led to the occurrence of those traits.</para>
+<note id="fs-idp43830592" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp41621760" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/using_parsimony.png" width="120"/>
+</media>
+<para id="fs-idp56872384">Head to this <link window="new" url="http://openstaxcollege.org/l/using_parsimony">website</link> to learn how maximum parsimony is used to create phylogenetic trees.</para>
+<para id="fs-idp103388288">These tools and concepts are only a few of the strategies scientists use to tackle the task of revealing the evolutionary history of life on Earth. Recently, newer technologies have uncovered surprising discoveries with unexpected relationships, such as the fact that people seem to be more closely related to fungi than fungi are to plants. Sound unbelievable? As the information about DNA sequences grows, scientists will become closer to mapping the evolutionary history of all life on Earth.</para>
+</note></section>
+</section>
+</section><section id="fs-idm96444544">
+<title>Taxonomy</title><para id="fs-idp20465712"><term>Taxonomy</term> (which literally means “arrangement law”) is the science of classifying organisms to construct internationally shared classification systems with each organism placed into more and more inclusive groupings. Think about how a grocery store is organized. One large space is divided into departments, such as produce, dairy, and meats. Then each department further divides into aisles, then each aisle into categories and brands, and then finally a single product. This organization from larger to smaller, more specific categories is called a hierarchical system.</para>
+<para id="fs-idp56936704">The taxonomic classification system (also called the Linnaean system after its inventor, Carl Linnaeus, a Swedish botanist, zoologist, and physician) uses a hierarchical model. Moving from the point of origin, the groups become more specific, until one branch ends as a single species. For example, after the common beginning of all life, scientists divide organisms into three large categories called a domain: Bacteria, Archaea, and Eukarya. Within each domain is a second category called a <term>kingdom</term>. After kingdoms, the subsequent categories of increasing specificity are: <term>phylum</term>, <term>class</term>, <term>order</term>, <term>family</term>, <term>genus</term>, and <term>species</term> (<link target-id="fig-ch20_01_04" document=""/>).</para>
+<figure id="fig-ch20_01_04"><media id="fs-idp58064352" alt="The illustration shows the classification of a dog, which belongs in the domain Eukarya, kingdom Animalia, phylum Chordata, class Mammalia, order Carnivore, family Canidae, genus Canis, species Canis lupus, and the subspecies is Canis lupus familiaris.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_04ab.jpg" width="350"/>
+</media>
+
+<caption>The taxonomic classification system uses a hierarchical model to organize living organisms into increasingly specific categories. The common dog, <emphasis effect="italics">Canis lupus familiaris</emphasis>, is a subspecies of <emphasis effect="italics">Canis lupus</emphasis>, which also includes the wolf and dingo. (credit “dog”: modification of work by Janneke Vreugdenhil)</caption></figure><para id="fs-idm41635904">The kingdom Animalia stems from the Eukarya domain. For the common dog, the classification levels would be as shown in <link target-id="fig-ch20_01_04" document=""/>. Therefore, the full name of an organism technically has eight terms. For the dog, it is: Eukarya, Animalia, Chordata, Mammalia, Carnivora, Canidae, <emphasis effect="italics">Canis, </emphasis>and<emphasis effect="italics"> lupus</emphasis>. Notice that each name is capitalized except for species, and the genus and species names are italicized. Scientists generally refer to an organism only by its genus and species, which is its two-word scientific name, in what is called <term>binomial nomenclature</term>. Therefore, the scientific name of the dog is <emphasis effect="italics">Canis lupus</emphasis>. The name at each level is also called a <term>taxon</term>. In other words, dogs are in order Carnivora. Carnivora is the name of the taxon at the order level; Canidae is the taxon at the family level, and so forth. Organisms also have a common name that people typically use, in this case, dog. Note that the dog is additionally a subspecies: the “<emphasis effect="italics">familiaris</emphasis>” in <emphasis effect="italics">Canis lupus familiaris. </emphasis>Subspecies are members of the same species that are capable of mating and reproducing viable offspring, but they are considered separate subspecies due to geographic or behavioral isolation or other factors.</para>
+<para id="fs-idp96825280"><link target-id="fig-ch20_01_05" document=""/> shows how the levels move toward specificity with other organisms. Notice how the dog shares a domain with the widest diversity of organisms, including plants and butterflies. At each sublevel, the organisms become more similar because they are more closely related. Historically, scientists classified organisms using characteristics, but as DNA technology developed, more precise phylogenies have been determined.</para>
+<note id="fs-idp84739360" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch20_01_05">
+<media id="fs-idp24152896" alt="Illustration shows the taxonomic groups shared by various species. All of the organisms shown are in the domain Eukarya: plants, insects, fish, rabbits, cats, foxes, jackals wolves, and dogs. Of theses, insects, fish, rabbits, cats, foxes, jackals, wolves and dogs are in the kingdom Animalia. Within the kingdom Animalia, fish, rabbits, cats, foxes, jackals, wolves, and dogs are in the phylum Chordata. Rabbits, cats, foxes, jackals, wolves, and dogs are in the class Mammalia. Cats, foxes, jackals, wolves, and dogs are in the order Carnivora. Foxes, jackals, wolves, and dogs are in the family Canidae. Jackals, wolves and dogs are in the genus Canis. Wolves and Dogs and have the species name Canis lupus. Dogs have the subspecies name Canis lupus familiaris.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_05-4e14.png" width="500"/>
+</media>
+<caption>At each sublevel in the taxonomic classification system, organisms become more similar. Dogs and wolves are the same species because they can breed and produce viable offspring, but they are different enough to be classified as different subspecies. (credit “plant”: modification of work by "berduchwal"/Flickr; credit “insect”: modification of work by Jon Sullivan; credit “fish”: modification of work by Christian Mehlführer; credit “rabbit”: modification of work by Aidan Wojtas; credit “cat”: modification of work by Jonathan Lidbeck; credit “fox”: modification of work by Kevin Bacher, NPS; credit “jackal”: modification of work by Thomas A. Hermann, NBII, USGS; credit “wolf”: modification of work by Robert Dewar; credit “dog”: modification of work by "digital_image_fan"/Flickr)</caption>
+</figure>
+<para id="fs-idp132205104">At what levels are cats and dogs considered to be part of the same group?</para>
+<!--<para><link target-id="fig-ch20_01_05" document=""/> Cats and dogs are part of the same group at five levels: both are in the domain Eukarya, the kingdom Animalia, the phylum Chordata, the class Mammalia, and the order Carnivora.]</para>-->
+</note><note id="fs-idp51250272" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-idp32472192" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/classify_life.png" width="120"/>
+</media>
+<para id="fs-idp40663360">Visit this <link window="new" url="http://openstaxcollege.org/l/classify_life">website</link> to classify three organisms—bear, orchid, and sea cucumber—from kingdom to species. To launch the game, under Classifying Life, click the picture of the bear or the Launch Interactive button.</para>
+</note><para id="fs-idp58609344">Recent genetic analysis and other advancements have found that some earlier phylogenetic classifications do not align with the evolutionary past; therefore, changes and updates must be made as new discoveries occur. Recall that phylogenetic trees are hypotheses and are modified as data becomes available. In addition, classification historically has focused on grouping organisms mainly by shared characteristics and does not necessarily illustrate how the various groups relate to each other from an evolutionary perspective. For example, despite the fact that a hippopotamus resembles a pig more than a whale, the hippopotamus may be the closest living relative of the whale.</para>
+</section>
+<section id="fs-idp61619840" class="summary">
+<title>Section Summary</title><para id="fs-idp22877040">Scientists continually gain new information that helps understand the evolutionary history of life on Earth. Each group of organisms went through its own evolutionary journey, called its phylogeny. Each organism shares relatedness with others, and based on morphologic and genetic evidence, scientists attempt to map the evolutionary pathways of all life on Earth. Historically, organisms were organized into a taxonomic classification system. However, today many scientists build phylogenetic trees to illustrate evolutionary relationships.</para><para id="eip-823">To build phylogenetic trees, scientists must collect accurate information that allows them to make evolutionary connections between organisms. Using morphologic and molecular data, scientists work to identify homologous characteristics and genes. Similarities between organisms can stem either from shared evolutionary history (homologies) or from separate evolutionary paths (analogies). Newer technologies can be used to help distinguish homologies from analogies. After homologous information is identified, scientists use cladistics to organize these events as a means to determine an evolutionary timeline. Scientists apply the concept of maximum parsimony, which states that the order of events probably occurred in the most obvious and simple way with the least amount of steps. For evolutionary events, this would be the path with the least number of major divergences that correlate with the evidence.</para>
+</section>
+<section id="fs-idm28779856" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="eip-677"><problem id="fs-idp76704672">
+<para id="fs-idm16685584"><link target-id="fig-ch20_02_04" document=""/> Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>
+</problem>
+<solution id="fs-idp76697264">
+<label/>
+<para id="fs-idp136016608"><link target-id="fig-ch20_02_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>
+</solution>
+</exercise><exercise id="eip-36"><problem id="fs-idp103973984">
+<para id="fs-idp45005152"><link target-id="fig-ch20_02_05" document=""/> What is the largest clade in this diagram?</para>
+</problem>
+<solution id="fs-idp94882464">
+<label/>
+<para id="fs-idm1822720"><link target-id="fig-ch20_02_05" document=""/> The largest clade encompasses the entire tree.</para></solution>
+</exercise><exercise id="fs-idp32012832">
+<problem id="fs-idp32823056">
+<para id="fs-idp62662384"><link target-id="fig-ch20_01_05" document=""/> At what levels are cats and dogs considered to be part of the same group?</para>
+</problem>
+<solution id="fs-idm66867936">
+<para id="fs-idp15491728"><link target-id="fig-ch20_01_05" document=""/> Cats and dogs are part of the same group at five levels: both are in the domain Eukarya, the kingdom Animalia, the phylum Chordata, the class Mammalia, and the order Carnivora.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm44172800" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp28640208">
+<problem id="fs-idm67245056">
+<para id="fs-idm45710816">What is used to determine phylogeny?</para>
+<list id="fs-idp61245520" list-type="enumerated" number-style="lower-alpha">
+<item>mutations</item>
+<item>DNA</item>
+<item>evolutionary history</item>
+<item>organisms on earth</item>
+</list>
+</problem>
+<solution id="fs-idp16316864">
+<label/>
+<para id="fs-idp71574272">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp40672624">
+<problem id="fs-idp32718560">
+<para id="fs-idp148582672">What do scientists in the field of systematics accomplish?</para>
+<list id="fs-idm92845312" list-type="enumerated" number-style="lower-alpha">
+<item>discover new fossil sites</item>
+<item>organize and classify organisms</item>
+<item>name new species</item>
+<item>communicate among field biologists</item>
+</list>
+</problem>
+<solution id="fs-idm106085824">
+<label/>
+<para id="fs-idm39969168">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp177641920">
+<problem id="fs-idm43494848">
+<para id="fs-idp111516384">Which statement about the taxonomic classification system is correct?</para>
+<list id="fs-idm91803984" list-type="enumerated" number-style="lower-alpha">
+<item>There are more domains than kingdoms.</item>
+<item>Kingdoms are the top category of classification.</item>
+<item>Classes are divisions of orders.</item>
+<item>Subspecies are the most specific category of classification.</item>
+</list>
+</problem>
+<solution id="fs-idp40685008">
+<label/>
+<para id="fs-idm16458112">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp32779440">
+<problem id="fs-idm39978512">
+<para id="fs-idm9146784">On a phylogenetic tree, which term refers to lineages that diverged from the same place?</para>
+<list id="fs-idm75638496" list-type="enumerated" number-style="lower-alpha">
+<item>sister taxa</item>
+<item>basal taxa</item>
+<item>rooted taxa</item>
+<item>dichotomous taxa</item>
+</list>
+</problem>
+<solution id="fs-idp55764736">
+<label/>
+<para id="fs-idp54256656">A</para>
+</solution>
+</exercise><exercise id="eip-653"><problem id="fs-idp81939712">
+<para id="fs-idm18304">Which statement about analogies is correct?</para>
+<list id="fs-idm8119424" list-type="enumerated" number-style="lower-alpha">
+<item>They occur only as errors.</item>
+<item>They are synonymous with homologous traits.</item>
+<item>They are derived by similar environmental constraints.</item>
+<item>They are a form of mutation.</item>
+</list>
+</problem>
+<solution id="fs-idm5462240">
+<label/>
+<para id="fs-idp47773552">C</para>
+</solution>
+</exercise><exercise id="eip-237"><problem id="fs-idp82308912">
+<para id="fs-idp103364128">What do scientists use to apply cladistics?</para>
+<list id="fs-idp146716800" list-type="enumerated" number-style="lower-alpha">
+<item>homologous traits</item>
+<item>homoplasies</item>
+<item>analogous traits</item>
+<item>monophyletic groups</item>
+</list>
+</problem>
+<solution id="fs-idp30774704">
+<label/>
+<para id="fs-idm5991216">A</para>
+</solution>
+</exercise><exercise id="eip-306"><problem id="fs-idp101373040">
+<para id="fs-idm9403376">What is true about organisms that are a part of the same clade?</para>
+<list id="fs-idp20143040" list-type="enumerated" number-style="lower-alpha">
+<item>They all share the same basic characteristics.</item>
+<item>They evolved from a shared ancestor.</item>
+<item>They usually fall into the same classification taxa.</item>
+<item>They have identical phylogenies.</item>
+</list>
+</problem>
+<solution id="fs-idp132474336">
+<label/>
+<para id="fs-idm1850000">B</para>
+</solution>
+</exercise><exercise id="eip-353"><problem id="fs-idp181248496">
+<para id="fs-idm8991824">Why do scientists apply the concept of maximum parsimony?</para>
+<list id="fs-idp35470032" list-type="enumerated" number-style="lower-alpha">
+<item>to decipher accurate phylogenies</item>
+<item>to eliminate analogous traits</item>
+<item>to identify mutations in DNA codes</item>
+<item>to locate homoplasies</item>
+</list>
+</problem>
+<solution id="fs-idp122872272">
+<label/>
+<para id="fs-idp28903024">A</para>
+</solution>
+</exercise><exercise id="eip-249"><problem id="fs-idm32593968">
+<para id="fs-idm21201808">What does the trunk of the classic phylogenetic tree represent?</para>
+<list id="fs-idm38096752" list-type="enumerated" number-style="lower-alpha">
+<item>single common ancestor</item>
+<item>pool of ancestral organisms</item>
+<item>new species</item>
+<item>old species</item>
+</list>
+</problem>
+<solution id="fs-idm14080560">
+<label/>
+<para id="fs-idp145627360">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp55870480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp34994416">
+<problem id="fs-idm55011056">
+<para id="fs-idm8879904">How does a phylogenetic tree relate to the passing of time?</para>
+</problem>
+<solution id="fs-idp28580736">
+<label/>
+<para id="fs-idp58701136">The phylogenetic tree shows the order in which evolutionary events took place and in what order certain characteristics and organisms evolved in relation to others. It does not relate to time.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20454112">
+<problem id="fs-idm7369728">
+<para id="fs-idp32221040">Some organisms that appear very closely related on a phylogenetic tree may not actually be closely related. Why is this?</para>
+</problem>
+<solution id="fs-idm3644144">
+<label/>
+<para id="fs-idm14123312">In most cases, organisms that appear closely related actually are; however, there are cases where organisms evolved through convergence and appear closely related but are not.</para>
+</solution>
+</exercise>
+<exercise id="eip-975"><problem id="fs-idp181377280">
+<para id="fs-idm14985776">Why is it so important for scientists to distinguish between homologous and analogous characteristics before building phylogenetic trees?</para>
+</problem>
+<solution id="fs-idp60761648">
+<label/>
+<para id="fs-idp60795280">Phylogenetic trees are based on evolutionary connections. If an analogous similarity were used on a tree, this would be erroneous and, furthermore, would cause the subsequent branches to be inaccurate.</para>
+</solution>
+</exercise><exercise id="fs-idp59927904">
+<problem id="fs-idm9069152">
+<para id="fs-idp63534368">List the different levels of the taxonomic classification system.</para>
+</problem>
+<solution id="fs-idm102392448">
+<label/>
+<para id="fs-idp60281632">domain, kingdom, phylum, class, order, family, genus, species</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm53349056">
+<term>binomial nomenclature</term> <meaning id="fs-idm17524768">system of two-part scientific names for an organism, which includes genus and species names</meaning>
+</definition>
+<definition id="fs-idm1036832">
+<term>branch point</term> <meaning id="fs-idp40698912">node on a phylogenetic tree where a single lineage splits into distinct new ones</meaning></definition>
+<definition id="fs-idm36263008">
+<term>class</term> <meaning id="fs-idm80010320">division of phylum in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm86588096">
+<term>family</term> <meaning id="fs-idm19395792">division of order in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm102065936">
+<term>genus</term> <meaning id="fs-idp17932272">division of family in the taxonomic classification system; the first part of the binomial scientific name</meaning>
+</definition>
+<definition id="fs-idp85464784">
+<term>kingdom</term> <meaning id="fs-idm70995216">division of domain in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm105293104">
+<term>order</term> <meaning id="fs-idm68532368">division of class in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idp209954400">
+<term>phylogenetic tree</term> <meaning id="fs-idp29667184">diagram used to reflect the evolutionary relationships among organisms or groups of organisms</meaning>
+</definition>
+<definition id="fs-idm43062240">
+<term>phylogeny</term> <meaning id="fs-idp32720544">evolutionary history and relationship of an organism or group of organisms</meaning>
+</definition>
+<definition id="fs-idm4716128">
+<term>phylum</term> <meaning id="fs-idm40007312">(plural: phyla) division of kingdom in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm3629840">
+<term>rooted</term> <meaning id="fs-idp44914240">single ancestral lineage on a phylogenetic tree to which all organisms represented in the diagram relate</meaning>
+</definition>
+<definition id="fs-idm99536784">
+<term>systematics</term> <meaning id="fs-idm43516112">field of organizing and classifying organisms based on evolutionary relationships</meaning>
+</definition>
+<definition id="fs-idm25913024">
+<term>taxon</term> <meaning id="fs-idm34659680">(plural: taxa) single level in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm66472720">
+<term>taxonomy</term> <meaning id="fs-idm19466576">science of classifying organisms</meaning>
+</definition>
+<definition id="fs-idp32047264">
+<term>analogy</term> <meaning id="fs-idp35619808">(also, homoplasy) characteristic that is similar between organisms by convergent evolution, not due to the same evolutionary path</meaning>
+</definition>
+<definition id="fs-idp27309136">
+<term>cladistics</term> <meaning id="fs-idp195599616">system used to organize homologous traits to describe phylogenies</meaning>
+</definition>
+<definition id="fs-idp55211200">
+<term>maximum parsimony</term> <meaning id="fs-idp150918656">applying the simplest, most obvious way with the least number of steps</meaning>
+</definition>
+<definition id="fs-idp29655616">
+<term>molecular systematics</term> <meaning id="fs-idp97120208">technique using molecular evidence to identify phylogenetic relationships</meaning>
+</definition>
+<definition id="fs-idp60769824">
+<term>monophyletic group</term> <meaning id="fs-idp55550400">(also, clade) organisms that share a single ancestor</meaning>
+</definition>
+<definition id="fs-idp48289568">
+<term>shared ancestral character</term> <meaning id="fs-idp182517392">describes a characteristic on a phylogenetic tree that is shared by all organisms on the tree</meaning>
+</definition>
+<definition id="fs-idp105098576">
+<term>shared derived character</term> <meaning id="fs-idp60676960">describes a characteristic on a phylogenetic tree that is shared only by a certain clade of organisms</meaning>
+</definition>
+</glossary>
+</document>

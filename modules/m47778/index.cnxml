@@ -1,0 +1,134 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Population Demographics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47778</md:content-id>
+  <md:title>Population Demographics</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how ecologists measure population size and density</item>
+<item>Describe three different patterns of population distribution</item>
+<item>Describe the three types of survivorship curves and relate them to specific populations</item>
+</list></md:abstract>
+  <md:uuid>166d173e-2e1d-456a-827a-075d80203cce</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-277"><title>Introduction to Population Ecology</title><media id="fs-idm43059184" alt="Main photo shows fish jumping out of the water, and inset photo shows a pile of dead fish in a container.">
+<image mime-type="image/jpeg" src="../../media/Figure_45_00_01.jpg" width="600"/>
+</media><para id="eip-32">Imagine sailing down a river in a small motorboat on a weekend afternoon; the water is smooth and you are enjoying the warm sunshine and cool breeze when suddenly you are hit in the head by a 20-pound silver carp. This is a risk now on many rivers and canal systems in Illinois and Missouri because of the presence of Asian carp.</para><para id="eip-456">This fish—actually a group of species including the silver, black, grass, and big head carp—has been farmed and eaten in China for over 1000 years. It is one of the most important aquaculture food resources worldwide. In the United States, however, Asian carp is considered a dangerous invasive species that disrupts community structure and composition to the point of threatening native species.</para><para id="eip-612">Populations are dynamic entities. Populations consist all of the species living within a specific area, and populations fluctuate based on a number of factors: seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species. The statistical study of population dynamics, <term>demography</term>, uses a series of mathematical tools to investigate how populations respond to changes in their biotic and abiotic environments. Many of these tools were originally designed to study human populations. For example, <term>life tables</term>, which detail the life expectancy of individuals within a population, were initially developed by life insurance companies to set insurance rates. In fact, while the term “demographics” is commonly used when discussing humans, all living populations can be studied using this approach.</para></section><section id="fs-idp198531136">
+<title>Population Size and Density</title>
+<para id="fs-idp53097968">The study of any population usually begins by determining how many individuals of a particular species exist, and how closely associated they are with each other. Within a particular habitat, a population can be characterized by its <term>population size (<emphasis effect="italics">N</emphasis>)</term>, the total number of individuals, and its <term>population density</term>, the number of individuals within a specific area or volume. Population size and density are the two main characteristics used to describe and understand populations. For example, populations with more individuals may be more stable than smaller populations based on their genetic variability, and thus their potential to adapt to the environment. Alternatively, a member of a population with low population density (more spread out in the habitat), might have more difficulty finding a mate to reproduce compared to a population of higher density. </para><section id="fs-idp180537520">
+<title>Population Research Methods</title>
+<para id="fs-idp160552816">The most accurate way to determine population size is to simply count all of the individuals within the habitat. However, this method is often not logistically or economically feasible, especially when studying large habitats. Thus, scientists usually study populations by sampling a representative portion of each habitat and using this data to make inferences about the habitat as a whole. A variety of methods can be used to sample populations to determine their size and density. For immobile organisms such as plants, or for very small and slow-moving organisms, a <term>quadrat</term> may be used (<link target-id="fig-ch45_01_02" document=""/>). A quadrat is a way of marking off square areas within a habitat, either by staking out an area with sticks and string, or by the use of a wood, plastic, or metal square placed on the ground. After setting the quadrats, researchers then count the number of individuals that lie within their boundaries. Multiple quadrat samples are performed throughout the habitat at several random locations. All of this data can then be used to estimate the population size and population density within the entire habitat. The number and size of quadrat samples depends on the type of organisms under study and other factors, including the density of the organism. For example, if sampling daffodils, a 1 m<sup>2</sup> quadrat might be used whereas with giant redwoods, which are larger and live much further apart from each other, a larger quadrat of 100 m<sup>2</sup> might be employed. This ensures that enough individuals of the species are counted to get an accurate sample that correlates with the habitat, including areas not sampled.</para><figure id="fig-ch45_01_02" class=" "><media id="fs-idp203745456" alt="Photo shows a person looking down at a grid set on a patch of grass.">
+    <image mime-type="image/jpeg" src="../../media/Figure_45_01_02.jpg" width="300"/>
+</media>
+<caption>A scientist uses a quadrat to measure population size and density. (credit: NPS Sonoran Desert Network)</caption></figure><para id="fs-idp122746800">For mobile organisms, such as mammals, birds, or fish, a technique called <term>mark and recapture</term> is often used. This method involves marking a sample of captured animals in some way (such as tags, bands, paint, or other body markings), and then releasing them back into the environment to allow them to mix with the rest of the population; later, a new sample is collected, including some individuals that are marked (recaptures) and some individuals that are unmarked (<link target-id="fig-ch45_01_03" document=""/>).</para>
+<figure id="fig-ch45_01_03" class=" "><media id="fs-idp282030704" alt="Photo A shows two bighorn sheep, one with a collar around its neck. Photo B shows a condor in flight with a tag on its wing. Photo C shows a man holding a salmon with a tag on its back.">
+        <image mime-type="image/jpeg" src="../../media/Figure_45_01_03abc.jpg" width="495"/>
+    </media>
+<caption>Mark and recapture is used to measure the population size of mobile animals such as (a) bighorn sheep, (b) the California condor, and (c) salmon. (credit a: modification of work by Neal Herbert, NPS; credit b: modification of work by Pacific Southwest Region USFWS; credit c: modification of work by Ingrid Taylar)</caption></figure><para id="fs-idp109874224">Using the ratio of marked and unmarked individuals, scientists determine how many individuals are in the sample. From this, calculations are used to estimate the total population size. This method assumes that the larger the population, the lower the percentage of tagged organisms that will be recaptured since they will have mixed with more untagged individuals. For example, if 80 deer are captured, tagged, and released into the forest, and later 100 deer are captured and 20 of them are already marked, we can determine the population size (<emphasis effect="italics">N</emphasis>) using the following equation:</para>
+<equation id="eip-704"><m:math display="block">
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mtext>(number marked first catch x total number of second catch)</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>number marked second catch</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = </m:mtext><m:mi>N</m:mi>
+ </m:mrow>
+</m:math></equation><para id="fs-idp57976128">Using our example, the population size would be estimated at 400.</para>
+<equation id="eip-989"><m:math display="block">
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mtext>(80 x 100)</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>20</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = 400</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp256343120">Therefore, there are an estimated 400 total individuals in the original population.</para>
+<para id="fs-idp50673072">There are some limitations to the mark and recapture method. Some animals from the first catch may learn to avoid capture in the second round, thus inflating population estimates. Alternatively, animals may preferentially be retrapped (especially if a food reward is offered), resulting in an underestimate of population size. Also, some species may be harmed by the marking technique, reducing their survival. A variety of other techniques have been developed, including the electronic tracking of animals tagged with radio transmitters and the use of data from commercial fishing and trapping operations to estimate the size and health of populations and communities.</para>
+</section>
+</section>
+<section id="fs-idp220428160">
+<title>Species Distribution</title>
+<para id="fs-idm4757008">In addition to measuring simple density, further information about a population can be obtained by looking at the distribution of the individuals. <term>Species dispersion patterns</term> (or distribution patterns) show the spatial relationship between members of a population within a habitat at a particular point in time. In other words, they show whether members of the species live close together or far apart, and what patterns are evident when they are spaced apart.</para>
+<para id="fs-idp91292448">Individuals in a population can be more or less equally spaced apart, dispersed randomly with no predictable pattern, or clustered in groups. These are known as uniform, random, and clumped dispersion patterns, respectively (<link target-id="fig-ch45_01_04" document=""/>). Uniform dispersion is observed in plants that secrete substances inhibiting the growth of nearby individuals (such as the release of toxic chemicals by the sage plant <emphasis effect="italics">Salvia leucophylla, </emphasis>a phenomenon called allelopathy) and in animals like the penguin that maintain a defined territory. An example of random dispersion occurs with dandelion and other plants that have wind-dispersed seeds that germinate wherever they happen to fall in a favorable environment. A clumped dispersion may be seen in plants that drop their seeds straight to the ground, such as oak trees, or animals that live in groups (schools of fish or herds of elephants). Clumped dispersions may also be a function of habitat heterogeneity. Thus, the dispersion of the individuals within a population provides more information about how they interact with each other than does a simple density measurement. Just as lower density species might have more difficulty finding a mate, solitary species with a random distribution might have a similar difficulty when compared to social species clumped together in groups.</para>
+<figure id="fig-ch45_01_04" class=" "><media id="fs-idp26004688" alt="Photo (a) shows penguins, which maintain a defined territory and therefore have a uniform distribution. Photo (b) shows a field of dandelions whose seeds are dispersed by wind, resulting in a random distribution patter. Photo (c) shows elephants, which travel in herds resulting in a clumped distribution pattern.">
+    <image mime-type="image/jpeg" src="../../media/Figure_45_01_04.jpg" width="550"/>
+</media>
+<caption>Species may have uniform, random, or clumped distribution. Territorial birds such as penguins tend to have uniform distribution. Plants such as dandelions with wind-dispersed seeds tend to be randomly distributed. Animals such as elephants that travel in groups exhibit clumped distribution. (credit a: modification of work by Ben Tubby; credit b: modification of work by Rosendahl; credit c: modification of work by Rebecca Wood)</caption></figure></section>
+<section id="fs-idm34830448">
+<title>Demography</title>
+<para id="fs-idp119485552">While population size and density describe a population at one particular point in time, scientists must use demography to study the dynamics of a population. Demography is the statistical study of population changes over time: birth rates, death rates, and life expectancies. Each of these measures, especially birth rates, may be affected by the population characteristics described above. For example, a large population size results in a higher birth rate because more potentially reproductive individuals are present. In contrast, a large population size can also result in a higher death rate because of competition, disease, and the accumulation of waste. Similarly, a higher population density or a clumped dispersion pattern results in more potential reproductive encounters between individuals, which can increase birth rate. Lastly, a female-biased sex ratio (the ratio of males to females) or age structure (the proportion of population members at specific age ranges) composed of many individuals of reproductive age can increase birth rates.</para>
+<para id="fs-idp37440880">In addition, the demographic characteristics of a population can influence how the population grows or declines over time. If birth and death rates are equal, the population remains stable. However, the population size will increase if birth rates exceed death rates; the population will decrease if birth rates are less than death rates. Life expectancy is another important factor; the length of time individuals remain in the population impacts local resources, reproduction, and the overall health of the population. These demographic characteristics are often displayed in the form of a life table.</para><section id="fs-idp59499808">
+<title>Survivorship Curves</title>
+<para id="fs-idm33092432">Another tool used by population ecologists is a <term>survivorship curve</term>, which is a graph of the number of individuals surviving at each age interval plotted versus time (usually with data compiled from a life table). These curves allow us to compare the life histories of different populations (<link target-id="fig-ch45_01_05" document=""/>). Humans and most primates exhibit a Type I survivorship curve because a high percentage of offspring survive their early and middle years—death occurs predominantly in older individuals. These types of species usually have small numbers of offspring at one time, and they give a high amount of parental care to them to ensure their survival. Birds are an example of an intermediate or Type II survivorship curve because birds die more or less equally at each age interval. These organisms also may have relatively few offspring and provide significant parental care. Trees, marine invertebrates, and most fishes exhibit a Type III survivorship curve because very few of these organisms survive their younger years; however, those that make it to an old age are more likely to survive for a relatively long period of time. Organisms in this category usually have a very large number of offspring, but once they are born, little parental care is provided. Thus these offspring are “on their own” and vulnerable to predation, but their sheer numbers assure the survival of enough individuals to perpetuate the species.</para>
+<figure id="fig-ch45_01_05" class=" "><media id="fs-idp204919408" alt="Graph plots the log of number of individuals surviving versus time. Three curves are shown, representing Type I, Type II, and Type III survivorship patterns. Birds exhibit a Type II survivorship curve, which decreases linearly with time. Humans show a Type I survivorship curve, which starts with a gentle slope that becomes increasingly steep with time. Trees show a Type III survivorship pattern, which starts with a steep slope that becomes less steep with time.">
+        <image mime-type="image/jpg" src="../../media/Figure_45_01_05.jpg" width="280"/>
+    </media>
+<caption>Survivorship curves show the distribution of individuals in a population according to age. Humans and most mammals have a Type I survivorship curve because death primarily occurs in the older years. Birds have a Type II survivorship curve, as death at any age is equally probable. Trees have a Type III survivorship curve because very few survive the younger years, but after a certain age, individuals are much more likely to survive.</caption></figure></section>
+</section>
+<section id="fs-idm24281920" class="summary">
+<title>Section Summary</title><para id="fs-idp16535568">Populations are individuals of a species that live in a particular habitat. Ecologists measure characteristics of populations: size, density, dispersion pattern, age structure, and sex ratio.  Survivorship curves show the number of individuals surviving at each age interval plotted versus time.</para></section>
+<section id="fs-idp199586720" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp107793584">
+<problem id="fs-idp133350720"><para id="fs-idm45041856">Which of the following methods will tell an ecologist about both the size and density of a population?</para>
+<list id="fs-idp8399056" list-type="enumerated" number-style="lower-alpha">
+<item>mark and recapture</item>
+<item>mark and release</item>
+<item>quadrat</item>
+<item>life table</item>
+</list>
+</problem>
+<solution id="fs-idp11064352">
+<label/>
+<para id="fs-idp205543984">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp82590032">
+<problem id="fs-idp82627648"><para id="fs-idm4484896">Humans have which type of survivorship curve?</para>
+<list id="fs-idp173466432" list-type="enumerated" number-style="lower-alpha">
+<item>Type I</item>
+<item>Type II</item>
+<item>Type III</item>
+<item>Type IV</item>
+</list>
+</problem>
+<solution id="fs-idm23221344">
+<label/>
+<para id="fs-idp78810832">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp49286576" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-idp39153568">
+    <problem id="fs-idm17099008">
+        <para id="fs-idm42853184">Describe how a researcher would determine the size of a penguin population in Antarctica using the mark and release method.</para>
+    </problem>
+<solution id="fs-idp29029760">
+    <label/>
+    <para id="fs-idm3931824">The researcher would mark a certain number of penguins with a tag, release them back into the population, and, at a later time, recapture penguins to see what percentage of the recaptured penguins was tagged. This percentage would allow an estimation of the size of the penguin population.</para>
+</solution></exercise>
+</section>
+</content>
+    <glossary>
+<definition id="fs-idm58874384"><term>demography</term> <meaning id="fs-idm5176016">statistical study of changes in populations over time</meaning></definition>
+<definition id="fs-idp139106400"><term>life table</term> <meaning id="fs-idp124670672">table showing the life expectancy of a population member based on its age</meaning></definition>
+<definition id="fs-idp135955376"><term>mark and recapture</term> <meaning id="fs-idp38325344">technique used to determine population size in mobile organisms</meaning></definition>
+<definition id="fs-idp150183936"><term>mortality rate</term> <meaning id="fs-idp232972688">proportion of population surviving to the beginning of an age interval that die during the age interval</meaning></definition>
+<definition id="fs-idp44707920"><term>population density</term> <meaning id="fs-idp4186352">number of population members divided by the area or volume being measured</meaning></definition>
+<definition id="fs-idp176461744"><term>population size (<emphasis effect="italics">N</emphasis>)</term> <meaning id="fs-idm48188752">number of population members in a habitat at the same time</meaning></definition>
+<definition id="fs-idp272304480"><term>quadrat</term> <meaning id="fs-idp139726480">square made of various materials used to determine population size and density in slow moving or stationary organisms</meaning></definition>
+<definition id="fs-idp96719440"><term>species dispersion pattern</term> <meaning id="fs-idp73093216">(also, species distribution pattern) spatial location of individuals of a given species within a habitat at a particular point in time</meaning></definition>
+<definition id="fs-idp187955776"><term>survivorship curve</term> <meaning id="fs-idp85777664">graph of the number of surviving population members versus the relative age of the member</meaning></definition>
+</glossary>
+</document>

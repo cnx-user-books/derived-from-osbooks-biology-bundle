@@ -1,0 +1,245 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Growth Rates and Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47780</md:content-id>
+  <md:title>Growth Rates and Regulation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the characteristics of and differences between exponential and logistic growth patterns</item>
+<item>Give examples of exponential and logistic growth in natural populations</item>
+<item>Describe how natural selection and environmental adaptation led to the evolution of particular life history patterns</item>
+<item>Give examples of how the carrying capacity of a habitat may change</item>
+<item>Compare and contrast density-dependent growth regulation and density-independent growth regulation, giving examples</item>
+<item>Give examples of exponential and logistic growth in wild animal populations</item>
+<item>Describe how natural selection and environmental adaptation leads to the evolution of particular life-history patterns</item>
+</list></md:abstract>
+  <md:uuid>cc582546-72a9-4280-baca-69671b2de6e9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm126310480">Although life histories describe the way many characteristics of a population (such as their age structure) change over time in a general way, population ecologists make use of a variety of methods to model population dynamics mathematically. These more precise models can then be used to accurately describe changes occurring in a population and better predict future changes. Certain models that have been accepted for decades are now being modified or even abandoned due to their lack of predictive ability, and scholars strive to create effective new models.</para>
+<section id="fs-idm165508688">
+<title>Exponential Growth</title>
+<para id="fs-idm142026480">Charles Darwin, in his theory of natural selection, was greatly influenced by the English clergyman Thomas Malthus. Malthus published a book in 1798 stating that populations with unlimited natural resources grow very rapidly, and then population growth decreases as resources become depleted. This accelerating pattern of increasing population size is called <term>exponential growth</term>.</para>
+<para id="fs-idm256913536">The best example of exponential growth is seen in bacteria. Bacteria are prokaryotes that reproduce by prokaryotic fission. This division takes about an hour for many bacterial species. If 1000 bacteria are placed in a large flask with an unlimited supply of nutrients (so the nutrients will not become depleted), after an hour, there is one round of division and each organism divides, resulting in 2000 organisms—an increase of 1000. In another hour, each of the 2000 organisms will double, producing 4000, an increase of 2000 organisms. After the third hour, there should be 8000 bacteria in the flask, an increase of 4000 organisms. The important concept of exponential growth is that the <term>population growth rate</term>—the number of organisms added in each reproductive generation—is accelerating; that is, it is increasing at a greater and greater rate. After 1 day and 24 of these cycles, the population would have increased from 1000 to more than 16 billion. When the population size, <emphasis effect="italics">N</emphasis>, is plotted over time, a <term>J-shaped growth curve</term> is produced (<link target-id="fig-ch45_03_01" document=""/>).</para><para id="fs-idm137193024">The bacteria example is not representative of the real world where resources are limited. Furthermore, some bacteria will die during the experiment and thus not reproduce, lowering the growth rate. Therefore, when calculating the <term>growth rate (<emphasis effect="italics">r</emphasis>)</term> of a population, the <term>death rate (<emphasis effect="italics">d</emphasis>)</term> (number organisms that die during a particular time interval) is subtracted from the <term>birth rate (<emphasis effect="italics">b</emphasis>)</term> (number organisms that are born during that interval). This is shown in the following formula:</para><equation id="eip-596"><m:math display="block">
+ <m:mrow>
+    <m:mtext/><m:mi>r</m:mi><m:mtext> (growth rate) = </m:mtext><m:mi>b</m:mi><m:mtext> (birth rate) - </m:mtext><m:mi>d</m:mi><m:mtext> (death rate)</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idm235893264">The value “<emphasis effect="italics">r”</emphasis> can be positive, meaning the population is increasing in size; or negative, meaning the population is decreasing in size; or zero, where the population’s size is unchanging, a condition known as <term>zero population growth</term>. A further refinement of the formula recognizes that different species have inherent differences in their intrinsic rate of increase (often thought of as the potential for reproduction), even under ideal conditions. Obviously, a bacterium can reproduce more rapidly and have a higher intrinsic rate of growth than a human. The maximal growth rate for a species is its <term>biotic potential, or <emphasis effect="italics">r<sub>max</sub></emphasis></term>.</para><section id="eip-18"><title>Predicting Population Growth</title><para id="eip-192">
+Population growth (G) is the number of individuals that are added to a population in a given period of time. It can be determined using growth rate (r):
+</para><equation id="eip-965"><m:math display="block">
+ <m:mrow>
+    <m:mtext/><m:mi>G</m:mi><m:mtext> (population growth) = </m:mtext><m:mi>r</m:mi><m:mtext> (growth rate) x </m:mtext><m:mi>N</m:mi><m:mtext> (total population size)</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="eip-399">Take the example of a population of 1,000 rats, and this population has 150 births every month, along with 50 deaths each month. To predict how quickly this population would grow over the course of several months, the following calculations would be performed:</para><equation id="eip-219"><m:math>
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mi>150</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mi>1,000</m:mi>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = </m:mtext><m:mi>0.15</m:mi><m:mtext> (birth rate)</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="eip-299">Birth rate takes into account the number of births that occur in a given month,</para><equation id="eip-724"><m:math display="block">
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mi>50</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mi>1,000</m:mi>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = </m:mtext><m:mi>0.05</m:mi><m:mtext> (death rate)</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="eip-702">Death rate takes into account the number of births that occur in a given month,</para><equation id="eip-833"><m:math display="block">
+    <m:apply>
+      <m:eq/>
+      <m:apply>
+        <m:minus/>
+          <m:cn>0.15</m:cn>
+          <m:cn>0.05</m:cn>
+        </m:apply>
+      <m:cn>0.10<m:mtext> (growth rate)</m:mtext></m:cn>
+    </m:apply>
+  </m:math></equation><para id="eip-97">Growth rate takes into account both the births and deaths that occur, giving us an overall rate of growth for the population,</para><equation id="eip-16"><m:math display="block">
+    <m:apply>
+      <m:eq/>
+      <m:apply>
+        <m:times/>
+          <m:cn>0.10</m:cn>
+          <m:cn>1,0000</m:cn>
+        </m:apply>
+      <m:cn>100<m:mtext> (population growth)</m:mtext></m:cn>
+    </m:apply>
+  </m:math></equation><para id="eip-886">And population growth is the number of individuals added to the population in a given month. </para><para id="eip-670">Simply put, the above calculations tell us that in one month, 100 rats were added into the original population of 1,000. To predict the next month's growth apply the population growth calculation again, using the new population size of 1,100. This method of prediction does make a couple of assumptions, however. First, migration patterns are not taken into account. Movement in and out of a population can have significant effects on actual population size. And second, this assumes a constant growth rate throughout time. Growth rate is rarely constant, because the environment is rarely unchanging. Birth and death rates can be significantly affected by random events that happen in the environment, affecting these rates. </para><para id="eip-439">In (<link target-id="fig-ch45_03_01" document=""/>) below, the graph on the left indicates the type of growth pattern when growth rate is constant and there are no limits placed on how fast a population can grow, such as with the rat population from the previous example. The graph on the left however, is a more accurate depiction of how population growth occurs in a natural setting where resources are limiting, and competition for resources almost always exist. This type of growth is called logistic growth. </para></section><figure id="fig-ch45_03_01" class=" "><media id="fs-idp114915296" alt="Both graphs (a) and (b) plot population size versus time. In graph (a), exponential growth results in a curve that gets increasingly steep, resulting in a J-shape. In graph (b), logistic growth results in a curve that gets increasingly steep, then levels off when the carrying capacity is reached, resulting in an S-shape">
+            <image mime-type="image/jpg" src="../../media/Figure_45_03_01.jpg" width="480"/>
+        </media>
+    <caption>When resources are unlimited, populations exhibit exponential growth, resulting in a J-shaped curve. When resources are limited, populations exhibit logistic growth. In logistic growth, population expansion decreases as resources become scarce, and it levels off when the carrying capacity of the environment is reached, resulting in an S-shaped curve.</caption></figure></section>
+<section id="fs-idm166886608">
+<title>Logistic Growth</title>
+<para id="fs-idm178752016">Exponential growth is possible only when infinite natural resources are available; this is not the case in the real world. Charles Darwin recognized this fact in his description of the “struggle for existence,” which states that individuals will compete (with members of their own or other species) for limited resources. The successful ones will survive to pass on their own characteristics and traits (which we know now are transferred by genes) to the next generation at a greater rate (natural selection). To model the reality of limited resources, population ecologists developed the <term>logistic growth</term> model.</para>
+<section id="fs-idm262936464">
+<title>Carrying Capacity and the Logistic Model</title>
+<para id="fs-idm165983232">In the real world, with its limited resources, exponential growth cannot continue indefinitely. Exponential growth may occur in environments where there are few individuals and plentiful resources, but when the number of individuals gets large enough, resources will be depleted, slowing the growth rate. Eventually, the growth rate will plateau or level off (<link target-id="fig-ch45_03_01" document=""/>). This population size, which represents the maximum population size that a particular environment can support, is called the <term>carrying capacity, or <emphasis effect="italics">K</emphasis></term>.</para><para id="fs-idm33644512">A graph demonstrating logistic growth yields an <term>S-shaped curve</term> (<link target-id="fig-ch45_03_01" document=""/>), and it is a more realistic model of population growth than exponential growth. There are three different sections to an S-shaped curve. Initially, growth is exponential because there are few individuals and ample resources available. Then, as resources begin to become limited, the growth rate decreases. Finally, growth levels off at the carrying capacity of the environment, with little change in population size over time.</para></section>
+<section id="fs-idm75674912">
+<title>Role of Intraspecific Competition</title>
+<para id="fs-idm37604320">The logistic model assumes that every individual within a population will have equal access to resources and, thus, an equal chance for survival. For plants, the amount of water, sunlight, nutrients, and the space to grow are the important resources, whereas in animals, important resources include food, water, shelter, nesting space, and mates.</para>
+<para id="fs-idm178436096">In the real world, phenotypic variation among individuals within a population means that some individuals will be better adapted to their environment than others. The resulting competition between population members of the same species for resources is termed <emphasis effect="bold"><term>intraspecific competition</term> </emphasis>(intra- = “within”; -specific = “species”). Intraspecific competition for resources may not affect populations that are well below their carrying capacity—resources are plentiful and all individuals can obtain what they need. However, as population size increases, this competition intensifies. In addition, the accumulation of waste products can reduce an environment’s carrying capacity.</para>
+</section>
+<section id="fs-idm69230000">
+<title>Examples of Logistic Growth</title>
+<para id="fs-idm32635216">Yeast, a microscopic fungus used to make bread and alcoholic beverages, exhibits the classical S-shaped curve when grown in a test tube (<link target-id="fig-ch45_03_02" document=""/><emphasis effect="bold">a</emphasis>). Its growth levels off as the population depletes the nutrients that are necessary for its growth. In the real world, however, there are variations to this idealized curve. Examples in wild populations include sheep and harbor seals (<link target-id="fig-ch45_03_02" document=""/><emphasis effect="bold">b</emphasis>). In both examples, the population size exceeds the carrying capacity for short periods of time and then falls below the carrying capacity afterwards. This fluctuation in population size continues to occur as the population oscillates around its carrying capacity. Still, even with this oscillation, the logistic model is confirmed.</para>
+<note id="fs-idm203363056" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch45_03_02" class=" "><media id="fs-idp5246112" alt="Graph (a) plots amount of yeast versus time of growth in hours. The curve rises steeply, and then plateaus at the carrying capacity. Data points tightly follow the curve. Graph (b) plots the number of harbor seals versus time in years. Again, the curve rises steeply then plateaus at the carrying capacity, but this time there is much more scatter in the data. A micrograph of yeast cells, which are oval in shape, and a photo of a harbor seal are shown.">
+        <image mime-type="image/png" src="../../media/Figure_45_03_02.png" width="500"/>
+    </media>
+<caption>(a) Yeast grown in ideal conditions in a test tube show a classical S-shaped logistic growth curve, whereas (b) a natural population of seals shows real-world fluctuation.</caption></figure><!--<para><link target-id="fig-ch45_03_02" document=""/><emphasis effect="bold">b</emphasis>Answer: A</para>-->
+</note></section>
+</section>
+<section id="fs-idm170017328" class="summary">
+<title>Factors that Regulate Growth</title><para id="fs-idm41957168">The logistic model of population growth, while valid in many natural populations and a useful model, is a simplification of real-world population dynamics. Implicit in the model is that the carrying capacity of the environment does not change, which is not the case. The carrying capacity varies annually: for example, some summers are hot and dry whereas others are cold and wet. In many areas, the carrying capacity during the winter is much lower than it is during the summer. Also, natural events such as earthquakes, volcanoes, and fires can alter an environment and hence its carrying capacity. Additionally, populations do not usually exist in isolation. They engage in <term>interspecific competition</term>: that is, they share the environment with other species, competing with them for the same resources. These factors are also important to understanding how a specific population will grow.</para>
+<para id="fs-idm114798496">Nature regulates population growth in a variety of ways. These are grouped into <term>density-dependent</term> factors, in which the density of the population at a given time affects growth rate and mortality, and <term>density-independent</term> factors, which influence mortality in a population regardless of population density. Note that in the former, the effect of the factor on the population depends on the density of the population at onset. Conservation biologists want to understand both types because this helps them manage populations and prevent extinction or overpopulation.</para>
+<section id="fs-idp139426256">
+<title>Density-Dependent Regulation</title><para id="fs-idm87430832">Most density-dependent factors are biological in nature (biotic), and include predation, inter- and intraspecific competition, accumulation of waste, and diseases such as those caused by parasites. Usually, the denser a population is, the greater its mortality rate. For example, during intra- and interspecific competition, the reproductive rates of the individuals will usually be lower, reducing their population’s rate of growth. In addition, low prey density increases the mortality of its predator because it has more difficulty locating its food source.</para>
+<para id="fs-idm21187472">An example of density-dependent regulation is shown in <link target-id="fig-ch45_04_01" document=""/> with results from a study focusing on the giant intestinal roundworm (<emphasis effect="italics">Ascaris lumbricoides</emphasis>), a parasite of humans and other mammals.<sup><footnote id="fs-idm16051536">N.A. Croll et al., “The Population Biology and Control of <emphasis effect="italics">Ascaris lumbricoides</emphasis> in a Rural Community in Iran.” <emphasis effect="italics">Transactions of the Royal Society of Tropical Medicine and Hygiene</emphasis> 76, no. 2 (1982): 187-197, doi:10.1016/0035-9203(82)90272-3.</footnote></sup> Denser populations of the parasite exhibited lower fecundity: they contained fewer eggs. One possible explanation for this is that females would be smaller in more dense populations (due to limited resources) and that smaller females would have fewer eggs. This hypothesis was tested and disproved in a 2009 study which showed that female weight had no influence.<sup><footnote id="fs-idm92850624">Martin Walker et al., “Density-Dependent Effects on the Weight of Female <emphasis effect="italics">Ascaris lumbricoides</emphasis> Infections of Humans and its Impact on Patterns of Egg Production.” <emphasis effect="italics">Parasites &amp; Vectors</emphasis> 2, no. 11 (February 2009), doi:10.1186/1756-3305-2-11.</footnote></sup> The actual cause of the density-dependence of fecundity in this organism is still unclear and awaiting further investigation.</para><figure id="fig-ch45_04_01"><media id="fs-idm14808384" alt="Graph of fecundity as a function of population plots number of eggs per female versus number of worms. The number of eggs decreases rapidly at first, then levels off between 30 to 50 worms.">
+        <image mime-type="image/jpeg" src="../../media/Figure_45_04_01.jpg" width="320"/>
+    </media>
+    <caption>In this population of roundworms, fecundity (number of eggs) decreases with population density.<sup><footnote id="fs-idm216780800">N.A. Croll et al., “The Population Biology and Control of <emphasis effect="italics">Ascaris lumbricoides</emphasis> in a Rural Community in Iran.” <emphasis effect="italics">Transactions of the Royal Society of Tropical Medicine and Hygiene</emphasis> 76, no. 2 (1982): 187-197, doi:10.1016/0035-9203(82)90272-3.</footnote></sup></caption></figure></section>   
+ <section id="fs-idm149989872"><title>Density-Independent Regulation and Interaction with Density-Dependent Factors</title><para id="fs-idm212800768">Many factors, typically physical or chemical in nature (abiotic), influence the mortality of a population regardless of its density, including weather, natural disasters, and pollution. An individual deer may be killed in a forest fire regardless of how many deer happen to be in that area. Its chances of survival are the same whether the population density is high or low. The same holds true for cold winter weather.</para>
+        <para id="fs-idm180301888">In real-life situations, population regulation is very complicated and density-dependent and independent factors can interact. A dense population that is reduced in a density-independent manner by some environmental factor(s) will be able to recover differently than a sparse population. For example, a population of deer affected by a harsh winter will recover faster if there are more deer remaining to reproduce.</para>
+        <note id="fs-idm197701584" class="evolution"><label/><title>Evolution Connection</title>
+
+<para id="eip-idp131740656">            <title>Why Did the Woolly Mammoth Go Extinct?</title>
+            <figure id="fig-ch45_04_02" orient="horizontal"><subfigure id="fig-ch45_04_02a">
+ <media id="eip-idp53381200" alt="Photo (a) shows a painting of mammoths walking in the snow.">
+                    <image mime-type="image/jpeg" src="../../media/Figure_45_04_02a.jpg" width="255"/>
+</media>
+</subfigure>
+<subfigure id="fig-ch45_04_02b">
+ <media id="eip-idp68210752" alt="Photo (b) shows a stuffed mammoth sitting in a museum display case.">
+                    <image mime-type="image/jpeg" src="../../media/Figure_45_04_02b.jpg" width="137"/>
+</media>
+</subfigure>
+<subfigure id="fig-ch45_04_02c">
+ <media id="eip-idp69145984" alt="Photo (c) shows a mummified baby mammoth, also in a display case.">
+                    <image mime-type="image/jpeg" src="../../media/Figure_45_04_02c.jpg" width="108"/>
+</media>
+</subfigure> 
+                
+            <caption>The three photos include: (a) 1916 mural of a mammoth herd from the American Museum of Natural History, (b) the only stuffed mammoth in the world, from the Museum of Zoology located in St. Petersburg, Russia, and (c) a one-month-old baby mammoth, named Lyuba, discovered in Siberia in 2007. (credit a: modification of work by Charles R. Knight; credit b: modification of work by “Tanapon”/Flickr; credit c: modification of work by Matt Howry)</caption></figure></para>
+        <para id="eip-322">It's easy to get lost in the discussion of dinosaurs and theories about why they went extinct 65 million years ago. Was it due to a meteor slamming into Earth near the coast of modern-day Mexico, or was it from some long-term weather cycle that is not yet understood? One hypothesis that will never be proposed is that humans had something to do with it. Mammals were small, insignificant creatures of the forest 65 million years ago, and no humans existed.</para><para id="fs-idm258113408">Woolly mammoths, however, began to go extinct about 10,000 years ago, when they shared the Earth with humans who were no different anatomically than humans today (<link target-id="fig-ch45_04_02" document=""/>). Mammoths survived in isolated island populations as recently as 1700 BC. We know a lot about these animals from carcasses found frozen in the ice of Siberia and other regions of the north. Scientists have sequenced at least 50 percent of its genome and believe mammoths are between 98 and 99 percent identical to modern elephants.</para><para id="fs-idm224130976">It is commonly thought that climate change and human hunting led to their extinction. A 2008 study estimated that climate change reduced the mammoth’s range from 3,000,000 square miles 42,000 years ago to 310,000 square miles 6,000 years ago.<sup><footnote id="fs-idm14756560">David Nogués-Bravo et al., “Climate Change, Humans, and the Extinction of the Woolly Mammoth.” <emphasis effect="italics">PLoS Biol</emphasis> 6 (April 2008): e79, doi:10.1371/journal.pbio.0060079.</footnote></sup>  It is also well documented that humans hunted these animals. A 2012 study showed that no single factor was exclusively responsible for the extinction of these magnificent creatures.<sup><footnote id="fs-idm118270592">G.M. MacDonald et al., “Pattern of Extinction of the Woolly Mammoth in Beringia.” <emphasis effect="italics">Nature Communications</emphasis> 3, no. 893 (June 2012), doi:10.1038/ncomms1881.</footnote></sup>  In addition to human hunting, climate change, and reduction of habitat, these scientists demonstrated another important factor in the mammoth’s extinction was the migration of humans across the Bering Strait to North America during the last ice age 20,000 years ago.</para>
+        <para id="fs-idm151815536">The maintenance of stable populations was and is very complex, with many interacting factors determining the outcome. It is important to remember that humans are also part of nature. Once we contributed to a species’ decline using primitive hunting technology only.</para>
+</note></section>
+<section id="eip-501"><title>Section Summary</title><para id="fs-idp26879408">Populations with unlimited resources grow exponentially, with an accelerating growth rate. When resources become limiting, populations follow a logistic growth curve. The population of a species will level off at the carrying capacity of its environment. Populations are regulated by a variety of density-dependent and density-independent factors. </para></section><section id="fs-idm178440064" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idp14262368">
+    <problem id="fs-idm144912832">
+    <para id="fs-idm220101920"><link target-id="fig-ch45_03_02" document=""/><emphasis effect="bold">b</emphasis> If the major food source of the seals declines due to pollution or overfishing, which of the following would likely occur?</para>
+<list id="fs-idm214315136" list-type="enumerated" number-style="lower-alpha">
+<item>The carrying capacity of seals would decrease, as would the seal population.</item>
+<item>The carrying capacity of seals would decrease, but the seal population would remain the same.</item>
+<item>The number of seal deaths would increase but the number of births would also increase, so the population size would remain the same.</item>
+<item>The carrying capacity of seals would remain the same, but the population of seals would decrease.</item>
+</list>
+</problem>
+<solution id="fs-idm70156576">
+    <label/>
+    <para id="fs-idm250760080"><link target-id="fig-ch45_03_02" document=""/><emphasis effect="bold">b</emphasis> A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm192991952" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm150035168">
+<problem id="fs-idm244719568"><para id="fs-idm113367184">Species with limited resources usually exhibit a(n) ________ growth curve.</para>
+<list id="fs-idm205266432" list-type="enumerated" number-style="lower-alpha">
+<item>logistic</item>
+<item>logical</item>
+<item>experimental</item>
+<item>exponential</item>
+</list>
+</problem>
+<solution id="fs-idm139420096">
+<label/>
+<para id="fs-idm78609248">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm266378560">
+<problem id="fs-idm106262496"><para id="fs-idm194740880">The maximum rate of increased characteristic of a species is called its ________.</para>
+<list id="fs-idm79676448" list-type="enumerated" number-style="lower-alpha">
+<item>limit</item>
+<item>carrying capacity</item>
+<item>biotic potential</item>
+<item>exponential growth pattern</item>
+</list>
+</problem>
+<solution id="fs-idm175281040">
+<label/>
+<para id="fs-idm215428720">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm257702896">
+<problem id="fs-idm211035712"><para id="fs-idm253460064">The population size of a species capable of being supported by the environment is called its ________.</para>
+<list id="fs-idm259886464" list-type="enumerated" number-style="lower-alpha">
+<item>limit</item>
+<item>carrying capacity</item>
+<item>biotic potential</item>
+<item>logistic growth pattern</item>
+</list>
+</problem>
+<solution id="fs-idm219770016">
+<label/>
+<para id="fs-idm181686624">B</para>
+</solution>
+</exercise><exercise id="eip-489"><problem id="fs-idm108625216"><para id="fs-idm231518096">A forest fire is an example of ________ regulation.</para>
+<list id="fs-idm196962768" list-type="enumerated" number-style="lower-alpha"><item>density-dependent</item>
+<item>density-independent</item>
+<item>interspecific</item>
+<item>intraspecific</item>
+</list></problem>
+<solution id="fs-idm110541280">
+<label/>
+<para id="fs-idm125088768">B</para>
+</solution>
+</exercise>
+    </section>
+<section id="fs-idm94075120" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-idm161415696">
+<problem id="fs-idm176153584"><para id="fs-idm219011872">Describe the rate of population growth that would be expected at various parts of the S-shaped curve of logistic growth.</para></problem>
+<solution id="fs-idm40634304">
+    <label/>
+    <para id="fs-idm93193776">In the first part of the curve, when few individuals of the species are present and resources are plentiful, growth is exponential, similar to a J-shaped curve. Later, growth slows due to the species using up resources. Finally, the population levels off at the carrying capacity of the environment, and it is relatively stable over time.</para>
+</solution>
+    </exercise><exercise id="eip-200"><problem id="fs-idp77240400">
+    <para id="fs-idm93968400">Give an example of how density-dependent and density-independent factors might interact.</para>
+</problem>
+<solution id="fs-idm85193248">
+    <label/>
+    <para id="fs-idp17862032">If a natural disaster such as a fire happened in the winter, when populations are low, it would have a greater effect on the overall population and its recovery than if the same disaster occurred during the summer, when population levels are high.</para>
+</solution></exercise>
+</section>
+    </section></content>
+    <glossary>
+    <definition id="fs-idm228437408"><term>biotic potential (r<sub>max</sub>)</term><meaning id="fs-idm34594272"> maximal potential growth rate of a species</meaning></definition>
+<definition id="fs-idm191450064"><term>birth rate (<emphasis effect="italics">b</emphasis>)</term> <meaning id="fs-idm161779488">number of births within a population at a specific point in time</meaning></definition>
+<definition id="fs-idm128281968"><term>carrying capacity (<emphasis effect="italics">K</emphasis>)</term> <meaning id="fs-idm210544848">number of individuals of a species that can be supported by the limited resources of a habitat</meaning></definition>
+<definition id="fs-idm112732416"><term>death rate (<emphasis effect="italics">d</emphasis>)</term> <meaning id="fs-idm52234336">number of deaths within a population at a specific point in time</meaning></definition>
+<definition id="fs-idm193609536"><term>exponential growth</term> <meaning id="fs-idm84896992">accelerating growth pattern seen in species under conditions where resources are not limiting</meaning></definition>
+<definition id="fs-idp57750448"><term>intraspecific competition</term> <meaning id="fs-idm163100224">competition between members of the same species</meaning></definition>
+<definition id="fs-idm91441936"><term>J-shaped growth curve</term> <meaning id="fs-idm356643440">shape of an exponential growth curve</meaning></definition>
+<definition id="fs-idm210710896"><term>logistic growth</term> <meaning id="fs-idm162174224">leveling off of exponential growth due to limiting resources</meaning></definition>
+<definition id="fs-idm125522224"><term>population growth rate</term> <meaning id="fs-idm180570768">number of organisms added in each reproductive generation</meaning></definition>
+<definition id="fs-idm209549264"><term>S-shaped growth curve</term> <meaning id="fs-idm79429616">shape of a logistic growth curve</meaning></definition>
+<definition id="fs-idp10002256"><term>zero population growth</term> <meaning id="fs-idm123741312">steady population size where birth rates and death rates are equal</meaning></definition>
+<definition id="fs-idm223662560"><term>demographic-based population model</term> <meaning id="fs-idm179949104">modern model of population dynamics incorporating many features of the <emphasis effect="italics">r</emphasis>- and <emphasis effect="italics">K</emphasis>-selection theory</meaning></definition>
+<definition id="fs-idm28319072"><term>density-dependent regulation</term> <meaning id="fs-idp133213104">regulation of population that is influenced by population density, such as crowding effects; usually involves biotic factors</meaning></definition>
+<definition id="fs-idm158550112"><term>density-independent regulation</term> <meaning id="fs-idm216265424">regulation of populations by factors that operate independent of population density, such as forest fires and volcanic eruptions; usually involves abiotic factors</meaning></definition>
+<definition id="fs-idm135679952"><term>interspecific competition</term> <meaning id="fs-idm240887360">competition between species for resources in a shared habitat or environment</meaning></definition>
+
+    </glossary>
+</document>

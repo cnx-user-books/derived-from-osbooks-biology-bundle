@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Characteristics of Fungi</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48078</md:content-id>
+  <md:title>Characteristics of Fungi</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the characteristics of fungi</item>
+<item>Describe the composition of the mycelium</item>
+<item>Describe the mode of nutrition of fungi</item>
+<item>Explain sexual and asexual reproduction in fungi</item>
+</list></md:abstract>
+  <md:uuid>58f18ef4-a390-40c9-8534-52759ce7efc8</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-258"><title>Introduction</title><figure id="fig-ch24_00_01" class="splash"><media id="fs-idp1900192" alt="Left photo shows a cluster of mushrooms with bell-like domes attached to slender stalks. Middle photo shows a yellowish-orange fungus that grows in a cluster and is lobe-shaped. Right photo is a micrograph that shows a long, slender stalk that branches into long chains of spores that look like a string of beads.">
+<image mime-type="image/jpg" src="../../media/Figure_24_00_01abcf.jpg" width="600"/>
+</media>
+<caption>Many species of fungus produce the familiar mushroom (a) which is a reproductive structure. This (b) coral fungus displays brightly colored fruiting bodies. This electron micrograph shows (c) the spore-bearing structures of <emphasis effect="italics">Aspergillus</emphasis>, a type of toxic fungi found mostly in soil and plants. (credit “mushroom”: modification of work by Chris Wee; credit “coral fungus”: modification of work by Cory Zanker; credit “<emphasis effect="italics">Aspergillus</emphasis>”: modification of work by Janice Haney Carr, Robert Simmons, CDC; scale-bar data from Matt Russell)</caption></figure><para id="eip-609">The word <emphasis effect="italics">fungus</emphasis> comes from the Latin word for mushrooms.  Indeed, the familiar mushroom is a reproductive structure used by many types of fungi. However, there are also many fungi species that don't produce mushrooms at all. Being eukaryotes, a typical fungal cell contains a true nucleus and many membrane-bound organelles. The kingdom Fungi includes an enormous variety of living organisms collectively referred to as Eucomycota, or true Fungi. While scientists have identified about 100,000 species of fungi, this is only a fraction of the 1.5 million species of fungus likely present on Earth. Edible mushrooms, yeasts, black mold, and the producer of the antibiotic penicillin, <emphasis effect="italics">Penicillium notatum</emphasis>, are all members of the kingdom Fungi, which belongs to the domain Eukarya.</para><para id="eip-708">Fungi, once considered plant-like organisms, are more closely related to animals than plants. Fungi are not capable of photosynthesis: they are heterotrophic because they use complex organic compounds as sources of energy and carbon. Some fungal organisms multiply only asexually, whereas others undergo both asexual reproduction and sexual reproduction with alternation of generations. Most fungi produce a large number of <term>spores</term>, which are haploid cells that can undergo mitosis to form multicellular,  haploid individuals. Like bacteria, fungi play an essential role in ecosystems because they are decomposers and participate in the cycling of nutrients by breaking down organic materials to simple molecules.</para><para id="eip-41">Fungi often interact with other organisms, forming beneficial or mutualistic associations. For example most terrestrial plants form symbiotic relationships with fungi. The roots of the plant connect with the underground parts of the fungus forming <term>mycorrhizae</term>. Through mycorrhizae, the fungus and plant exchange nutrients and water, greatly aiding the survival of both species Alternatively, lichens are an association between a fungus and its photosynthetic partner (usually an alga). Fungi also cause serious infections in plants and animals. For example, Dutch elm disease, which is caused by the fungus<emphasis effect="italics"> Ophiostoma ulmi</emphasis>, is a particularly devastating type of fungal infestation that destroys many native species of elm (<emphasis effect="italics">Ulmus</emphasis> sp.) by infecting the tree’s vascular system. The elm bark beetle acts as a vector,  transmitting the disease from tree to tree. Accidentally introduced in the 1900s, the fungus decimated elm trees across the continent. Many European and Asiatic elms are less susceptible to Dutch elm disease than American elms.</para><para id="eip-349">In humans, fungal infections are generally considered challenging to treat. Unlike bacteria, fungi do not respond to traditional antibiotic therapy, since they are eukaryotes. Fungal infections may prove deadly for individuals with compromised immune systems.</para><para id="eip-629">Fungi have many commercial applications. The food industry uses yeasts in baking, brewing, and cheese and wine making. Many industrial compounds are byproducts of fungal fermentation. Fungi are the source of many commercial enzymes and antibiotics.</para></section><para id="fs-idp34354240">Although humans have used yeasts and mushrooms since prehistoric times, until recently, the biology of fungi was poorly understood. Up until the mid-20th century, many scientists classified fungi as plants. Fungi, like plants, arose mostly sessile and seemingly rooted in place. They possess a stem-like structure similar to plants, as well as having a root-like fungal mycelium in the soil. In addition, their mode of nutrition was poorly understood. Progress in the field of fungal biology was the result of <term>mycology</term>: the scientific study of fungi. Based on fossil evidence, fungi appeared in the pre-Cambrian era, about 450 million years ago. Molecular biology analysis of the fungal genome demonstrates that fungi are more closely related to animals than plants. They are a polyphyletic group of organisms that share characteristics, rather than sharing a single common ancestor.</para>
+<note id="fs-idm32494528" class="career"><label/><title>Career Connection</title>
+
+<para id="fs-idm43547024"><title>Mycologist</title>Mycologists are biologists who study fungi. Mycology is a branch of microbiology, and many mycologists start their careers with a degree in microbiology. To become a mycologist, a bachelor's degree in a biological science (preferably majoring in microbiology) and a master's degree in mycology are minimally necessary. Mycologists can specialize in taxonomy and fungal genomics, molecular and cellular biology, plant pathology, biotechnology, or biochemistry. Some medical microbiologists concentrate on the study of infectious diseases caused by fungi (mycoses). Mycologists collaborate with zoologists and plant pathologists to identify and control difficult fungal infections, such as the devastating chestnut blight, the mysterious decline in frog populations in many areas of the world, or the deadly epidemic called white nose syndrome, which is decimating bats in the Eastern United States.</para>
+<para id="fs-idp89147440">Government agencies hire mycologists as research scientists and technicians to monitor the health of crops, national parks, and national forests. Mycologists are also employed in the private sector by companies that develop chemical and biological control products or new agricultural products, and by companies that provide disease control services. Because of the key role played by fungi in the fermentation of alcohol and the preparation of many important foods, scientists with a good understanding of fungal physiology routinely work in the food technology industry. Oenology, the science of wine making, relies not only on the knowledge of grape varietals and soil composition, but also on a solid understanding of the characteristics of the wild yeasts that thrive in different wine-making regions. It is possible to purchase yeast strains isolated from specific grape-growing regions. The great French chemist and microbiologist, Louis Pasteur, made many of his essential discoveries working on the humble brewer’s yeast, thus discovering the process of fermentation.</para>
+</note><section id="fs-idp33278112">
+<title>Cell Structure and Function</title>
+<para id="fs-idp69724528">Fungi are eukaryotes, and as such, have a complex cellular organization. As eukaryotes, fungal cells contain a membrane-bound nucleus. The DNA in the nucleus is wrapped around histone proteins, as is observed in other eukaryotic cells. A few types of fungi have structures comparable to bacterial plasmids (loops of DNA); however, the horizontal transfer of genetic information from one mature bacterium to another rarely occurs in fungi. Fungal cells also contain mitochondria and a complex system of internal membranes, including the endoplasmic reticulum and Golgi apparatus.</para>
+<para id="fs-idm5758496">Unlike plant cells, fungal cells do not have chloroplasts or chlorophyll. Many fungi display bright colors arising from other cellular pigments, ranging from red to green to black. The poisonous <emphasis effect="italics">Amanita muscaria </emphasis>(fly agaric) is recognizable by its bright red cap with white patches (<link target-id="fig-ch24_01_01" document=""/>). Pigments in fungi are associated with the cell wall and play a protective role against ultraviolet radiation. Some fungal pigments are toxic.</para>
+<figure id="fig-ch24_01_01"><media id="fs-idm25530240" alt=" Photo shows two large mushrooms, each with a wide white base and a bright red cap. The caps are dotted with small white protrusions.">
+<image mime-type="image/jpg" src="../../media/Figure_24_01_01.jpg" width="275"/>
+</media>
+<caption>The poisonous <emphasis effect="italics">Amanita muscaria</emphasis> is native to temperate and boreal regions of North America. (credit: Christine Majul)</caption></figure><para id="fs-idp74771648">Like plant cells, fungal cells have a thick cell wall. The rigid layers of fungal cell walls contain complex polysaccharides called chitin and glucans. Chitin, also found in the exoskeleton of insects, gives structural strength to the cell walls of fungi. The wall protects the cell from desiccation and predators. Fungi have plasma membranes similar to other eukaryotes, except that the structure is stabilized by ergosterol: a steroid molecule that replaces the cholesterol found in animal cell membranes. Most members of the kingdom Fungi are nonmotile. Flagella are produced only by the gametes in the primitive Phylum Chytridiomycota.</para>
+<section id="fs-idm39979312">
+<title>Growth</title>
+<para id="fs-idm22733216">Fungi can be unicellular or multicellular. Some fungi can change from the unicellular to multicellular state depending on environmental conditions. Unicellular fungi are generally referred to as <term>yeasts</term>. <emphasis effect="italics">Saccharomyces cerevisiae</emphasis> (baker’s yeast) and <emphasis effect="italics">Candida</emphasis> species (the agents of thrush, a common fungal infection) are examples of unicellular fungi (<link target-id="fig-ch24_01_02" document=""/>).</para><figure id="fig-ch24_01_02"><media id="fs-idp19823744" alt="Micrograph shows clumps of small blue spheres. Each sphere is about 5 microns across.">
+<image mime-type="image/jpg" src="../../media/Figure_24_01_02.jpg" width="325"/>
+</media>
+<caption><emphasis effect="italics">Candida albicans</emphasis> is a yeast cell and the agent of candidiasis and thrush. This organism has a similar morphology to coccus bacteria; however, yeast is a eukaryotic organism (note the nucleus). (credit: modification of work by Dr. Godon Roberstad, CDC; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp3321616">Most fungi are multicellular organisms. They display two distinct morphological stages: the vegetative and reproductive. The vegetative stage consists of a tangle of slender thread-like structures called <term>hyphae</term> (singular, <term>hypha</term>), whereas the reproductive stage can be more conspicuous. The mass of hyphae is a <term>mycelium</term> (<link target-id="fig-ch24_01_03" document=""/>). It can grow on a surface, in soil or decaying material, in a liquid, or even on living tissue. Although individual hyphae must be observed under a microscope, the mycelium of a fungus can be very large, with some species truly being “the fungus humongous.” The giant <emphasis effect="italics">Armillaria solidipes</emphasis> (honey mushroom) is considered the largest organism on Earth, spreading across more than 2,000 acres of underground soil in eastern Oregon; it is estimated to be at least 2,400 years old.</para>
+<figure id="fig-ch24_01_03"><media id="fs-idp1791712" alt=" Photo depicts a light brown fungus growing in a Petri dish. The fungus, which is about 8 centimeters in diameter, has the appearance of wrinkled round skin surrounded by powdery residue. A hub-like indentation exists at the center of the fungus. Extending from this hub are folds that resemble spokes on a wheel.">
+<image mime-type="image/jpg" src="../../media/Figure_24_01_03.jpg" width="300"/>
+</media>
+<caption>The mycelium of the fungus <emphasis effect="italics">Neotestudina rosati</emphasis> can be pathogenic to humans. The fungus enters through a cut or scrape and develops a mycetoma, a chronic subcutaneous infection. (credit: CDC)</caption></figure><para id="fs-idp12724784">Most fungal hyphae are divided into separate cells by endwalls called <term>septa</term> (singular, <term>septum</term>) (<link target-id="fig-ch24_01_04" document=""/><emphasis effect="bold">a, c</emphasis>). In most phyla of fungi, tiny holes in the septa allow for the rapid flow of nutrients and small molecules from cell to cell along the hypha. </para><figure id="fig-ch24_01_04"><media id="fs-idp19793584" alt=" Part A is an illustration of septated hyphae. Cells within the septated hyphae are rectangular.  Each cell has its own nucleus, and connects to other cells end-to-end in a long strand. Two branches occur in the hyphae. Part B is an illustration of coenocytic hyphae. Like the septated hyphae, the coenocytic hyphae consist of long, branched fibers. However, in coenocytic hyphae, there is no separation between the cells or nuclei. Part C is a light micrograph of septated hyphae from Phialophora richardsiae. The hyphae consists of a long chain of cells with multiple branches. Each branch is about 3 µm wide and varies from 3 to 20 µm in length.">
+<image mime-type="image/jpg" src="../../media/Figure_24_01_04abcf.jpg" width="450"/>
+</media>
+
+<caption>Fungal hyphae may be (a) septated or (b) coenocytic (coeno- = "common"; -cytic = "cell") with many nuclei present in a single hypha. A bright field light micrograph of (c) <emphasis effect="italics">Phialophora richardsiae</emphasis> shows septa that divide the hyphae. (credit c: modification of work by Dr. Lucille Georg, CDC; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm9979136">Fungi thrive in environments that are moist and slightly acidic, and can grow with or without light. They vary in their oxygen requirement. Most fungi are <term>obligate aerobes</term>, requiring oxygen to survive. Other species, such as the Chytridiomycota that reside in the rumen of cattle, are are <term>obligate anaerobes</term>, in that they only use anaerobic respiration because oxygen will disrupt their metabolism or kill them.  Yeasts are intermediate, being <term>faculative anaerobes</term>. This means that they grow best in the presence of oxygen using aerobic respiration, but can survive using anaerobic respiration when oxygen is not available. The alcohol produced from yeast fermentation is used in wine and beer production.</para></section>
+<section id="fs-idm29406576">
+<title>Nutrition</title>
+<para id="fs-idp60630640">Like animals, fungi are heterotrophs; they use complex organic compounds as a source of carbon, rather than fix carbon dioxide from the atmosphere as do some bacteria and most plants. In addition, fungi do not fix nitrogen from the atmosphere. Like animals, they must obtain it from their diet. However, unlike most animals, which ingest food and then digest it internally in specialized organs, fungi perform these steps in the reverse order; digestion precedes ingestion. First, exoenzymes are transported out of the hyphae, where they process nutrients in the environment. Then, the smaller molecules produced by this external digestion are absorbed through the large surface area of the mycelium. As with animal cells, the polysaccharide of storage is glycogen, rather than starch, as found in plants.</para>
+<para id="fs-idp87932768">Fungi are mostly <term>saprobes</term> (saprophyte is an equivalent term): organisms that derive nutrients from decaying organic matter. They obtain their nutrients from dead or decomposing organic matter: mainly plant material. Fungal exoenzymes are able to break down insoluble polysaccharides, such as the cellulose and lignin of dead wood, into readily absorbable glucose molecules. The carbon, nitrogen, and other elements are thus released into the environment. Because of their varied metabolic pathways, fungi fulfill an important ecological role and are being investigated as potential tools in bioremediation. For example, some species of fungi can be used to break down diesel oil and polycyclic aromatic hydrocarbons (PAHs). Other species take up heavy metals, such as cadmium and lead.</para>
+<para id="fs-idm25626032">Some fungi are parasitic, infecting either plants or animals. Smut and Dutch elm disease affect plants, whereas athlete’s foot and candidiasis (thrush) are medically important fungal infections in humans. In environments poor in nitrogen, some fungi resort to predation of nematodes (small non-segmented roundworms). Species of <emphasis effect="italics">Arthrobotrys</emphasis> fungi have a number of mechanisms to trap nematodes. One mechanism involves constricting rings within the network of hyphae. The rings swell when they touch the nematode, gripping it in a tight hold. The fungus penetrates the tissue of the worm by extending specialized hyphae called <term>haustoria</term>. Many parasitic fungi possess haustoria, as these structures penetrate the tissues of the host, release digestive enzymes within the host's body, and absorb the digested nutrients.   </para></section>
+</section>
+<section id="fs-idp39504688">
+<title>Reproduction</title>
+<para id="fs-idp75104432">Fungi reproduce sexually and/or asexually. In both sexual and asexual reproduction, fungi produce spores that disperse from the parent organism by either floating on the wind or hitching a ride on an animal. Fungal spores are smaller and lighter than plant seeds. The giant puffball mushroom bursts open and releases trillions of spores. The huge number of spores released increases the likelihood of landing in an environment that will support growth (<link target-id="fig-ch24_01_05" document=""/>).</para><figure id="fig-ch24_01_05"><media id="eip-idp192277408" alt="Part A is a photo of a puffball mushroom, which is round and white. Part B is an illustration of a puffball mushroom releasing spores through its exploded top.">
+<image mime-type="image/jpg" src="../../media/Figure_24_01_05abf.jpg" width="400"/>
+</media><caption>The (a) giant puff ball mushroom releases (b) a cloud of spores when it reaches maturity. (credit a: modification of work by Roger Griffith; credit b: modification of work by Pearson Scott Foresman, donated to the Wikimedia Foundation)</caption></figure><note id="eip-711"><label/><title>Link to Learning</title>
+<media id="fs-idp32587264" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/fungi_kingdom.png" width="130"/>
+</media>
+<para id="fs-idp99428832">Review the characteristics of fungi by visiting this <link window="new" url="http://openstaxcollege.org/l/fungi_kingdom">interactive site</link> from Wisconsin-online.</para></note></section>
+<section id="eip-509"><title>Importance to Humans</title><para id="eip-172">Although we often think of fungi as organisms that cause disease and rot food, fungi are important to human life on many levels. As we have seen, they influence the well-being of human populations on a large scale because they are part of the nutrient cycle in ecosystems. They have other ecosystem roles as well. As animal pathogens, fungi help to control the population of damaging pests. These fungi are very specific to the insects they attack, and do not infect animals or plants. Fungi are currently under investigation as potential microbial insecticides, with several already on the market. For example, the fungus <emphasis effect="italics">Beauveria bassiana</emphasis> is a pesticide being tested as a possible biological control agent for the recent spread of emerald ash borer. It has been released in Michigan, Illinois, Indiana, Ohio, West Virginia and Maryland (<link target-id="fig-ch24_05_01" document=""/>).</para><figure id="fig-ch24_05_01"><media id="fs-idm16417088" alt=" Photo shows a green, stump-shaped ash borer jutting from the bark of a tree.">
+<image mime-type="image/jpg" src="../../media/Figure_24_05_01.jpg" width="350"/>
+</media>
+<caption>The emerald ash borer is an insect that attacks ash trees. It is in turn parasitized by a pathogenic fungus that holds promise as a biological insecticide. The parasitic fungus appears as white fuzz on the body of the insect. (credit: Houping Liu, USDA Agricultural Research Service)</caption></figure><para id="eip-152">The mycorrhizal relationship between fungi and plant roots is essential for the productivity of farm land. Without the fungal partner in root systems, 80–90 percent of trees and grasses would not survive. Mycorrhizal fungal inoculants are available as soil amendments from gardening supply stores and are promoted by supporters of organic agriculture.</para><para id="eip-221">We also eat some types of fungi. Mushrooms figure prominently in the human diet. Morels, shiitake mushrooms, chanterelles, and truffles are considered delicacies (<link target-id="fig-ch24_05_02" document=""/>). The humble meadow mushroom, <emphasis effect="italics">Agaricus campestris</emphasis>, appears in many dishes. Molds of the genus <emphasis effect="italics">Penicillium</emphasis> ripen many cheeses. They originate in the natural environment such as the caves of Roquefort, France, where wheels of sheep milk cheese are stacked in order to capture the molds responsible for the blue veins and pungent taste of the cheese.</para><para id="eip-800"><figure id="fig-ch24_05_02"><media id="fs-idp29515712" alt=" Photo shows a mushroom with a convoluted black cap.">
+<image mime-type="image/jpg" src="../../media/Figure_24_05_02.jpg" width="250"/>
+</media>
+<caption>The morel mushroom is an ascomycete much appreciated for its delicate taste. (credit: Jason Hollinger)</caption></figure></para><para id="eip-655">Fermentation—of grains to produce beer, and of fruits to produce wine—is an ancient art that humans in most cultures have practiced for millennia. Wild yeasts are acquired from the environment and used to ferment sugars into CO<sub>2</sub> and ethyl alcohol under anaerobic conditions. It is now possible to purchase isolated strains of wild yeasts from different wine-making regions. Louis Pasteur was instrumental in developing a reliable strain of brewer’s yeast, <emphasis effect="italics">Saccharomyces cerevisiae</emphasis>, for the French brewing industry in the late 1850s. This was one of the first examples of biotechnology patenting.</para><para id="eip-555">Many secondary metabolites of fungi are of great commercial importance. Antibiotics are naturally produced by fungi to kill or inhibit the growth of bacteria, limiting their competition in the natural environment. Important antibiotics, such as penicillin and the cephalosporins, are isolated from fungi. Valuable drugs isolated from fungi include the immunosuppressant drug cyclosporine (which reduces the risk of rejection after organ transplant), the precursors of steroid hormones, and ergot alkaloids used to stop bleeding. Psilocybin is a compound found in fungi such as <emphasis effect="italics">Psilocybe semilanceata </emphasis>and <emphasis effect="italics">Gymnopilus junonius, </emphasis>which have been used for their hallucinogenic properties by various cultures for thousands of years.</para><para id="eip-24">As simple eukaryotic organisms, fungi are important model research organisms. Many advances in modern genetics were achieved by the use of the red bread mold <emphasis effect="italics">Neurospora crassa</emphasis>. Additionally, many important genes originally discovered in <emphasis effect="italics">S. cerevisiae</emphasis> served as a starting point in discovering analogous human genes. As a eukaryotic organism, the yeast cell produces and modifies proteins in a manner similar to human cells, as opposed to the bacterium <emphasis effect="italics">Escherichia coli,</emphasis> which lacks the internal membrane structures and enzymes to tag proteins for export. This makes yeast a much better organism for use in recombinant DNA technology experiments. Like bacteria, yeasts grow easily in culture, have a short generation time, and are amenable to genetic modification.</para></section><section id="fs-idp7561744" class="summary">
+<title>Section Summary</title><para id="fs-idp28404224">Fungi are eukaryotic organisms that appeared on land more than 450 million years ago. They are heterotrophs and contain neither photosynthetic pigments such as chlorophyll, nor organelles such as chloroplasts. Because fungi feed on decaying and dead matter, they are saprobes. Fungi are important decomposers that release essential elements into the environment. External enzymes digest nutrients that are absorbed by the body of the fungus, which is called a thallus. A thick cell wall made of chitin surrounds the cell. Fungi can be unicellular as yeasts, or develop a network of filaments called a mycelium, which is often described as mold. Most species multiply by asexual and sexual reproductive cycles and display an alternation of generations. Such fungi are called perfect fungi. Imperfect fungi do not have a sexual cycle. Sexual reproduction involves plasmogamy (the fusion of the cytoplasm), followed by karyogamy (the fusion of nuclei). Meiosis regenerates haploid individuals, resulting in haploid spores.</para><para id="eip-463">Fungi are important to everyday human life. Fungi are important decomposers in most ecosystems. Mycorrhizal fungi are essential for the growth of most plants. Fungi, as food, play a role in human nutrition in the form of mushrooms, and also as agents of fermentation in the production of bread, cheeses, alcoholic beverages, and numerous other food preparations. Secondary metabolites of fungi are used as medicines, such as antibiotics and anticoagulants. Fungi are model organisms for the study of eukaryotic genetics and metabolism.</para>
+</section>
+<section id="fs-idp8307728" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp69376608">
+<problem id="fs-idm5976048"><para id="fs-idm9988576">Which polysaccharide is usually found in the cell wall of fungi?</para>
+<list id="fs-idm28247248" list-type="enumerated" number-style="lower-alpha">
+<item>starch</item>
+<item>glycogen</item>
+<item>chitin</item>
+<item>cellulose</item>
+</list>
+</problem>
+<solution id="fs-idm23479968">
+<label/>
+<para id="fs-idm2817696">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm11390416">
+<problem id="fs-idp92752240"><para id="fs-idm25405792">Which of these organelles is not found in a fungal cell?</para>
+<list id="fs-idm31559152" list-type="enumerated" number-style="lower-alpha">
+<item>chloroplast</item>
+<item>nucleus</item>
+<item>mitochondrion</item>
+<item>Golgi apparatus</item>
+</list>
+</problem>
+<solution id="fs-idp138744272">
+<label/>
+<para id="fs-idp60789568">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp69580656">
+<problem id="fs-idp74794880"><para id="fs-idp34178912">The wall dividing individual cells in a fungal filament is called a</para>
+<list id="fs-idp35036864" list-type="enumerated" number-style="lower-alpha">
+<item>thallus</item>
+<item>hypha</item>
+<item>mycelium</item>
+<item>septum</item>
+</list>
+</problem>
+<solution id="fs-idp7968368">
+<label/>
+<para id="fs-idp75350896">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm41599056">
+<problem id="fs-idm62260208"><para id="fs-idp34049280">During sexual reproduction, a homothallic mycelium contains</para>
+<list id="fs-idp3195712" list-type="enumerated" number-style="lower-alpha">
+<item>all septated hyphae</item>
+<item>all haploid nuclei</item>
+<item>both mating types</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idm2199648">
+<label/>
+<para id="fs-idm53597936">C</para>
+</solution>
+</exercise><exercise id="eip-133"><problem id="fs-idp56905792"><para id="fs-idp35828768">Yeast is a facultative anaerobe. This means that alcohol fermentation takes place only if:</para>
+<list id="fs-idp92862048" list-type="enumerated" number-style="lower-alpha">
+<item>the temperature is close to 37°C</item>
+<item>the atmosphere does not contain oxygen</item>
+<item>sugar is provided to the cells</item>
+<item>light is provided to the cells</item>
+</list>
+</problem>
+<solution id="fs-idm4463024">
+<label/>
+<para id="fs-idp34842336">B</para>
+</solution>
+</exercise><exercise id="eip-529"><problem id="fs-idp15287536"><para id="fs-idm18115904">The advantage of yeast cells over bacterial cells to express human proteins is that:</para>
+<list id="fs-idp46757840" list-type="enumerated" number-style="lower-alpha">
+<item>yeast cells grow faster</item>
+<item>yeast cells are easier to manipulate genetically</item>
+<item>yeast cells are eukaryotic and modify proteins similarly to human cells</item>
+<item>yeast cells are easily lysed to purify the proteins</item>
+</list>
+</problem>
+<solution id="fs-idm4065104">
+<label/>
+<para id="fs-idp83206064">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp62610624" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm3674368">
+<problem id="fs-idm7512192"><para id="fs-idm57333792">What are the evolutionary advantages for an organism to reproduce both asexually and sexually?</para>
+</problem>
+<solution id="fs-idm58621312">
+<label/>
+<para id="fs-idp42420000">Asexual reproduction is fast and best under favorable conditions. Sexual reproduction allows the recombination of genetic traits and increases the odds of developing new adaptations better suited to a changed environment.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp52114640"><problem id="fs-idp60680384">
+<para id="fs-idp41325568">Compare plants, animals, and fungi, considering these components: cell wall, chloroplasts, plasma membrane, food source, and polysaccharide storage. Be sure to indicate fungi’s similarities and differences to plants and animals.</para>
+</problem>
+<solution id="fs-idp57991344">
+<label/>
+<para id="eip-idm15411472">Animals have no cell walls; fungi have cell walls containing chitin; plants have cell walls containing cellulose. Chloroplasts are absent in both animals and fungi but are present in plants. Animal plasma membranes are stabilized with cholesterol, while fungi plasma membranes are stabilized with ergosterol, and plant plasma membranes are stabilized with phytosterols. Animals obtain N and C from food sources via internal digestion. Fungi obtain N and C from food sources via external digestion. Plants obtain organic N from the environment or through symbiotic N-fixing bacteria; they obtain C from photosynthesis. Animals and fungi store polysaccharides as glycogen, while plants store them as starch.</para>
+</solution>
+</exercise><exercise id="eip-496"><problem id="fs-idp19466400"><para id="fs-idp130849488">Historically, artisanal breads were produced by capturing wild yeasts from the air. Prior to the development of modern yeast strains, the production of artisanal breads was long and laborious because many batches of dough ended up being discarded. Can you explain this fact?</para></problem>
+<solution id="fs-idm6442528">
+<label/>
+<para id="fs-idp30145664">The dough is often contaminated by toxic spores that float in the air. It was one of Louis Pasteur’s achievements to purify reliable strains of baker’s yeast to produce bread consistently.</para>
+</solution>
+</exercise></section>
+</content>
+<glossary>
+<definition id="fs-id8995988"><term>faculative anaerobes</term><meaning id="fs-id7924040">organisms that can perform both aerobic and anaerobic respiration and can survive in oxygen-rich and oxygen-poor environment</meaning></definition>
+<definition id="fs-idp6712128"><term>haustoria</term> <meaning id="fs-idm23656288">modified hyphae on many parasitic fungi that penetrate the tissues of their hosts, release digestive enzymes, and/or absorb nutrients from the host</meaning></definition>
+<definition id="fs-idm44074976"><term>hypha</term> <meaning id="fs-idp17753776">fungal filament composed of one or more cells</meaning></definition>
+<definition id="fs-idp34007872"><term>mycelium</term> <meaning id="fs-idp25725056">mass of fungal hyphae</meaning></definition>
+<definition id="fs-idp10079664"><term>mycology</term> <meaning id="fs-idp15765344">scientific study of fungi</meaning></definition>
+<definition id="fs-id1172590264979"><term>mycorrhizae</term><meaning id="fs-id1172592176630">a mutualistic relationship between a plant and a fungus. Mycorrhizae are connections between fungal hyphae, which provide soil minerals to the plant, and plant roots, which provide carbohydrates to the fungus</meaning></definition>
+<definition id="fs-id1171735456786"><term>obligate aerobes</term><meaning id="fs-id1171735993417">organisms, such as humans, that must perform aerobic respiration to survive</meaning></definition>
+<definition id="fs-id7929332"><term>obligate anaerobes</term><meaning id="fs-id7920998">organisms that only perform anaerobic respiration and often cannot survive in the presence of oxygen</meaning></definition>
+<definition id="fs-idp82143840"><term>saprobe</term> <meaning id="fs-idm3326384">organism that derives nutrients from decaying organic matter; also saprophyte</meaning></definition>
+<definition id="fs-idp100934592"><term>septa</term> <meaning id="fs-idm25296688">cell wall division between hyphae</meaning></definition>
+<definition id="fs-idm55111072"><term>sporangium</term> <meaning id="fs-idm62253280">reproductive sac that contains spores</meaning></definition>
+<definition id="fs-id1172592824476"><term>spore</term><meaning id="fs-id1172591783279">a haploid cell that can undergo mitosis to form a multicellular,  haploid individua</meaning></definition>
+<definition id="fs-idm56506480"><term>thallus</term> <meaning id="fs-idm22858352">vegetative body of a fungus</meaning></definition>
+<definition id="fs-idp55918352"><term>yeast</term> <meaning id="fs-idp4350560">general term used to describe unicellular fungi</meaning></definition>
+</glossary>
+</document>

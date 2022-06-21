@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Human Impact on Fresh Water Sources</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47831</md:content-id>
+  <md:title>Human Impact on Fresh Water Sources</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>understand the principles controlling groundwater resources and how they also can affect surface water resources</item>
+<item>know the causes and effects of depletion in different water reservoirs</item>
+<item>understand how we can work toward solving the water supply crisis</item>
+</list></md:abstract>
+  <md:uuid>d40ff5a4-4803-4348-95fd-ee18245ffdba</md:uuid>
+</metadata>
+
+<content>
+      <section id="id7253752">
+        <title>Primary Fresh Water Resources: Precipitation</title>
+        <para id="id5903806">Precipitation is a major control of fresh water availability, and it is unevenly distributed around the globe (see <link target-id="id1167359659507" document=""/>). More precipitation falls near the equator, and landmasses there are characterized by a tropical rainforest climate. Less precipitation tends to fall near 20–30° north and south latitude, where the world’s largest deserts are located. These rainfall and climate patterns are related to global wind circulation cells. The intense sunlight at the equator heats air, causing it to rise and cool, which decreases the ability of the air mass to hold water vapor and results in frequent rainstorms. Around 30° north and south latitude, descending air conditions produce warmer air, which increases its ability to hold water vapor and results in dry conditions. Both the dry air conditions and the warm temperatures of these latitude belts favor evaporation. Global precipitation and climate patterns are also affected by the size of continents, major ocean currents, and mountains.</para><figure id="id1167359659507" type="Figure">
+					
+					<title id="id8130310"/>
+					<media id="id1167359659507_media" alt="map showing amount of rain that falls around the world" longdesc="map showing amount of rain that falls around the world">
+            <image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id1167359659507__onlineimage" height="385" width="694"/>
+          </media>
+          <caption><emphasis effect="bold">World Rainfall Map</emphasis> The false-color map above shows the amount of rain that falls around the world. Areas of high rainfall include Central and South America, western Africa, and Southeast Asia. Since these areas receive so much rainfall, they are where most of the world's rainforests grow. Areas with very little rainfall usually turn into deserts. The desert areas include North Africa, the Middle East, western North America, and Central Asia. <emphasis effect="italics">Source: <link url="http://ga.water.usgs.gov/edu/watercyclesummary.html" window="new">United States Geological Survey</link> Earth Forum, Houston Museum Natural Science</emphasis></caption></figure>
+      </section>
+      <section id="id1167350650892">
+        <title>Surface Water Resources: Rivers, Lakes, Glaciers</title>
+        <para id="id1167367434619">Flowing water from rain and melted snow on land enters river channels by surface runoff (see <link target-id="id1167354475447" document=""/>) and groundwater seepage (see <link target-id="id8394797" document=""/>). <term target-id="id1167362173198">River discharge</term> describes the volume of water moving through a river channel over time (see <link target-id="id1167354675608" document=""/>). The relative contributions of surface runoff vs. groundwater seepage to river discharge depend on precipitation patterns, vegetation, topography, land use, and soil characteristics. Soon after a heavy rainstorm, river discharge increases due to surface runoff. The steady normal flow of river water is mainly from groundwater that discharges into the river. Gravity pulls river water downhill toward the ocean. Along the way the moving water of a river can erode soil particles and dissolve minerals, creating the river’s load of moving sediment grains and dissolved ions. Groundwater also contributes a large amount of the dissolved ions in river water. The geographic area drained by a river and its tributaries is called a <term target-id="id1167348182384">drainage basin</term>. The Mississippi River drainage basin includes approximately 40% of the U.S., a measure that includes the smaller drainage basins (also called watersheds), such as the Ohio River and Missouri River that help to comprise it. Rivers are an important water resource for irrigation and many cities around the world. Some of the world’s rivers that have had international disputes over water supply include the Colorado (Mexico, southwest U.S.), Nile (Egypt, Ethiopia, Sudan), Euphrates (Iraq, Syria, Turkey), Ganges (Bangladesh, India), and Jordan (Israel, Jordan, Syria).</para><figure id="id1167354475447" type="Figure">
+					
+					<media id="id1167354475447_media" alt="a photograph of surface runoff" longdesc="a photograph of water flowing across a lawn and into a storm drain.">
+            <image mime-type="image/jpg" src="../../media/graphics4.jpg" id="id1167354475447__onlineimage" height="342" width="233"/>
+          </media>
+					<caption><emphasis effect="bold">Surface Runoff</emphasis> Surface runoff, part of overland flow in the water cycle <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Runoff.jpg" window="new">James M. Pease</link> at Wikimedia Commons</emphasis></caption></figure>
+        <figure id="id8394797" type="Figure">
+					
+					<media id="id8394797_media" alt="photograph of groundwater seepage" longdesc="a photograph of a canyon wall with a pool of water at the base of the headwall">
+              <image mime-type="image/jpg" src="../../media/graphics5.jpg" id="id8394797__onlineimage" height="353" width="471"/>
+          </media>
+					<caption><emphasis effect="bold">Groundwater Seepage</emphasis> Groundwater seepage can be seen in Box Canyon in Idaho, where approximately 10 cubic meters per second of seepage emanates from its vertical headwall. <emphasis effect="italics">Source: <link url="http://astrobiology.nasa.gov/articles/erosion-on-earth-and-mars-mere-seepage-or-megaflood/" window="new">NASA</link></emphasis></caption>
+				</figure>
+        <figure id="id1167354675608" type="Figure">
+					
+					<media id="id1167354675608_media" alt="a photograph of river discharge" longdesc="a photograph overlooking  the Colorado River in the Grand Canyon"><image mime-type="image/jpg" src="../../media/graphics6.jpg" id="id1167354675608__onlineimage" height="350" width="534"/></media>
+					<caption><emphasis effect="bold">River Discharge</emphasis> Colorado River, U.S.. Rivers are part of overland flow in the water cycle and an important surface water resource. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Overlook_over_the_Colorado.JPG" window="new">Gonzo fan2007</link> at Wikimedia Commons</emphasis></caption>
+				</figure>
+        <para id="id1167370954969">Lakes can also be an excellent source of fresh water for human use. They usually receive water from surface runoff and groundwater discharge. They tend to be short-lived on a geological time-scale because they are constantly filling in with sediment supplied by rivers. Lakes form in a variety of ways including glaciation (Great Lakes, North America, See <link target-id="id1167354633877" document=""/>), recent tectonic uplift (Lake Tanganyika, Africa), and volcanic eruptions (Crater Lake, Oregon). People also create artificial lakes (<term target-id="id1167354612767">reservoirs</term>) by damming rivers. Large changes in climate can result in major changes in a lake’s size. As Earth was coming out of the last Ice Age about fifteen thousand years ago, the climate in the western U.S. changed from cool and moist to warm and arid, which caused more than100 large lakes to disappear. The Great Salt Lake in Utah is a remnant of a much larger lake called Lake Bonneville.</para><figure id="id1167354633877" type="Figure">
+					
+					<media id="id1167354633877_media" alt="photograph of the great lakes" longdesc="a photograph of the great lakes from space."><image mime-type="image/jpg" src="../../media/graphics7.jpg" id="id1167354633877__onlineimage" height="394" width="650"/></media>
+					<caption><emphasis effect="bold">Great Lakes from Space</emphasis> The Great Lakes hold 21% of the world's surface fresh water. Lakes are an important surface water resource. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Great_Lakes_from_space.jpg" window="new">SeaWiFS Project, NASA/Goddard Space Flight Center, and ORBIMAGE</link></emphasis></caption>
+				</figure>
+        <para id="id1167362905634">Although glaciers represent the largest reservoir of fresh water, they generally are not used as a water source because they are located too far from most people (see <link target-id="id1167354904981" document=""/>). Melting glaciers do provide a natural source of river water and groundwater. During the last Ice Age there was as much as 50% more water in glaciers than there is today, which caused sea level to be about 100 m lower. Over the past century, sea level has been rising in part due to melting glaciers. If Earth’s climate continues to warm, the melting glaciers will cause an additional rise in sea level.</para><figure id="id1167354904981" type="Figure">
+						
+						<media id="id1167354904981_media" alt="photograph of a glacier" longdesc="photograph of a large glacier in Patagonia, Argentina"><image mime-type="image/jpg" src="../../media/graphics8.jpg" id="id1167354904981__onlineimage" height="433" width="650"/></media>
+						<caption><emphasis effect="bold">Mountain Glacier in Argentina</emphasis> Glaciers are the largest reservoir of fresh water but they are not used much as a water resource directly by society because of their distance from most people. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG" window="new">Luca Galuzzi - www.galuzzi.it</link></emphasis></caption>
+					</figure>
+      </section>
+      <section id="id1167354585830">
+        <title>Groundwater Resources</title>
+        <para id="id1167367718626">Although most people in the U.S. and the world use surface water, groundwater is a much larger reservoir of usable fresh water, containing more than 30 times more water than rivers and lakes combined. Groundwater is a particularly important resource in arid climates, where surface water may be scarce. In addition, groundwater is the primary water source for rural homeowners, providing 98% of that water demand in the U.S.. <term target-id="id1167347468703">Groundwater</term> is water located in small spaces, called <term target-id="id6202539">pore space</term>, between mineral grains and fractures in subsurface earth materials (rock or sediment, i.e., loose grains). Groundwater is not located in underground rivers or lakes except where there are caves, which are relatively rare. Between the land surface and the depth where there is groundwater is the <term target-id="id1167360920106">unsaturated zone</term>, where pore spaces contain only air and water films on mineral grains (see <link target-id="id1167365145120" document=""/>).<footnote id="id1167361778279">Groundwater is the name for water in the saturated zone and <term target-id="id1167359420599">soil moisture</term> describes water in the unsaturated zone. Therefore, groundwater is the underground water resource used by society but soil moisture is the principal water supply for most plants and is an important factor in agricultural productivity. </footnote> Below the unsaturated zone is the <term target-id="id7369139">saturated zone</term>, where groundwater completely fills pore spaces in earth materials. The interface between the unsaturated zone and saturated zone is the <term target-id="id1167358916073">water table</term>. Most groundwater originates from rain or snowmelt, which infiltrates the ground and moves downward until it reaches the saturated zone. Other sources of groundwater include seepage from surface water (lakes, rivers, reservoirs, and swamps), surface water deliberately pumped into the ground, irrigation, and underground wastewater treatment systems, i.e., septic tanks. <term target-id="id1167355817606">Recharge areas</term> are locations where surface water infiltrates the ground rather than running off into rivers or evaporating. Wetlands and flat vegetated areas in general are excellent recharge areas.</para><figure id="id1167365145120" type="Figure">
+					
+					<media id="id1167365145120_media" alt="illustration of various subsurface water terminology" longdesc="an illustration of the following terms: Unsaturated zone, Land surface, Water Table, Surface water, Saturated zone, Ground water, creviced rock, gravel."><image mime-type="image/png" src="../../media/graphics9.png" id="id1167365145120__onlineimage" height="377" width="650"/></media>
+					<caption><emphasis effect="bold">Subsurface Water Terminology</emphasis> Groundwater in pore spaces and fractures of earth materials, saturated zone, unsaturated zone, and water table, which follows land surface but in a more subdued way. <emphasis effect="italics">Source: <link url="http://ga.water.usgs.gov/edu/gwhowtofind.html" window="new">United States Geological Survey</link></emphasis> </caption>
+				</figure>
+        <para id="id1167359243001">Groundwater is in constant motion due to interconnection between pore spaces. <term target-id="id1167357238194">Porosity</term> is the percentage of pore space in an earth material and it gives a measure of how much groundwater an earth material can hold. <term target-id="id1167359365731">Permeability</term> is a measure of the speed that groundwater can flow through an earth material, and it depends on the size and degree of interconnection among pores. An earth material that is capable of supplying groundwater from a well at a useful rate—i.e., it has relatively high permeability and medium to high porosity—is called an <term target-id="id1167361643441">aquifer</term>. Examples of aquifers are earth materials with abundant, large, well-connected pore spaces such as sand, gravel, uncemented sandstone, and any highly fractured rock. </para><para id="id1167354936930">Most shallow water wells are drilled into unconfined aquifers. These are called <term target-id="id7340395">water table wells</term> because the water level in the well coincides with the water table . 90% of all aquifers for water supply are unconfined aquifers composed of sand or gravel. To produce water from a well, you simply need to drill a hole that reaches the saturated zone and then pump water to the surface. Attempting to pump water from the unsaturated zone is like drinking root beer with a straw immersed only in the foam at the top.</para></section>
+      <section id="id1167370057073">
+        <title>Water Supply Problems: Resource Depletion</title>
+        <para id="id7751071">As groundwater is pumped from water wells, there usually is a localized drop in the water table around the well called a <term target-id="id1167366332588">cone of depression</term> (see  <link target-id="id2512461" document=""/>). When there are a large number of wells that have been pumping water for a long time, the regional water table can drop significantly. This is called <term target-id="id8704436">groundwater mining</term>, which can force the drilling of deeper, more expensive wells that commonly encounter more saline groundwater. The occurrence of mining does not mean that groundwater will <emphasis effect="italics">never</emphasis> be recharged, but in many cases the recharge rate is negligible on a human time-scale. </para><figure id="id2512461" type="Figure">
+					
+					<media id="id2512461_media" alt="diagram of a cone of depression in the water table"><image mime-type="image/jpg" src="../../media/graphics18.jpg" id="id2512461__onlineimage" height="455" width="650"/></media>
+					<caption><emphasis effect="bold">Formation of a Cone of Depression around a Pumping Water Well</emphasis> <emphasis effect="italics">Source: <link url="http://www.fayettecountygroundwater.com/educational_info.htm" window="new">Fayette County Groundwater Conservation District, TX</link></emphasis> </caption>
+				</figure>
+        <para id="id1167361912912">Another water resource problem associated with groundwater mining is <term target-id="id1167354589548">saltwater intrusion</term>, where overpumping of fresh water aquifers near ocean coastlines causes saltwater to enter fresh water zones. Saltwater intrusion is a significant problem in many coastal areas of the U.S. including Long Island, New York; Cape Cod, Massachusetts; and southeastern and Gulf Coastal states. The drop of the water table around a cone of depression in an unconfined aquifer can change the regional groundwater flow direction, which could send nearby pollution toward the pumping well instead of away from it. Finally, problems of subsidence (gradual sinking of the land surface over a large area) and sinkholes (rapid sinking of the land surface over a small area) can develop due to a drop in the water table.</para>
+      </section>
+      <section id="id1167362924771">
+        <title>The Water Supply Crisis</title>
+        <para id="id1167359578250">The <term target-id="id1167355426813">water crisis</term> refers to a global situation where people in many areas lack access to sufficient water or clean water or both. This section describes the global situation involving water shortages, also called water stress. The next section covers the water crisis involving water pollution. <link target-id="id1167360498546" document=""/> shows areas of the world experiencing water stress as defined by a high percentage of water withdrawal compared to total available water. Due to population growth the 2025 projection for global water stress is significantly worse than water stress levels in 1995. In general, water stress is greatest in areas with very low precipitation (major deserts) or large population density (e.g., India) or both. Future global warming could worsen the water crisis by shifting precipitation patterns away from humid areas and by melting mountain glaciers that recharge rivers downstream. Melting glaciers will also contribute to rising sea level, which will worsen saltwater intrusion in aquifers near ocean coastlines. Compounding the water crisis is the issue of social injustice; poor people generally get less access to clean water and commonly pay more for water than wealthy people.</para><figure id="id1167360498546" type="Figure">
+					
+					<media id="id1167360498546_media" alt="Map of Countries Facing Water Stress in 1995 and Projected in 2025" longdesc=""><image mime-type="image/jpg" src="../../media/graphics20.jpg" id="id1167360498546__onlineimage" height="270" width="658"/></media>
+					<caption><emphasis effect="bold">Countries Facing Water Stress in 1995 and Projected in 2025</emphasis> Water stress is defined as having a high percentage of water withdrawal compared to total available water in the area. <emphasis effect="italics">Source: <link url="http://maps.grida.no/go/graphic/increased-global-water-stress" window="new">Philippe Rekacewicz</link> (Le Monde diplomatique), February 2006</emphasis></caption>
+				</figure>
+        </section>
+      <section id="id8099284">
+        <title>Sustainable Solutions to the Water Supply Crisis?</title>
+        <para id="id1167363275609">The current and future water crisis described above requires multiple approaches to extending our fresh water supply and moving towards sustainability. Some of the longstanding traditional approaches include <term target-id="id1167354452931">dams</term> and <term target-id="id1167371638484">aqueducts</term>. Reservoirs that form behind dams in rivers can collect water during wet times and store it for use during dry spells (see <link target-id="id1167358585621" document=""/>). They also can be used for urban water supplies. New York City has a large number of reservoirs and controlled lakes up to 200 km away to meet the water demands of its large population. Other benefits of dams and reservoirs are hydroelectricity, flood control, and recreation. Some of the drawbacks are evaporative loss of reservoir water in arid climates, downstream river channel erosion, and impact on the ecosystem including a change from a river to lake habitat and interference with fish migration and spawning. Aqueducts can move water from where it is plentiful to where it is needed (see <link target-id="id1167367571902" document=""/>). Southern California has a large and controversial network of aqueducts that brings in water from the Sierra Nevada Mountains in the north, the valleys in northern and central California, and the Colorado River to the east (see <link target-id="id1167362072380" document=""/>). Aqueducts can be controversial and politically difficult especially if the water transfer distances are large. One drawback is the water diversion can cause drought in the area from where the water is drawn.</para><figure id="id1167358585621" type="Figure">
+					
+					<media id="id1167358585621_media" alt="photograph of Hoover Dam" longdesc="photograph of Hoover Dam, with Lake Mead behind the dam."><image mime-type="image/jpg" src="../../media/graphics21.jpg" id="id1167358585621__onlineimage" height="671" width="448"/></media>
+					<caption><emphasis effect="bold">Hoover Dam, Nevada, U.S.</emphasis> Hoover Dam, Nevada, U.S.. Behind the dam is Lake Mead, the largest reservoir in U.S.. White band reflects the lowered water levels in the reservoir due to drought conditions from 2000 - 2010. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Hoover_Dam_-_2010-12-10_-_View_from_bridge.jpg" window="new">Cygnusloop99</link> at Wikimedia Commons</emphasis></caption>
+				</figure>
+				<figure id="id1167367571902" type="Figure">
+					
+					<media id="id1167367571902_media" alt="photograph of the California aqueduct" longdesc=""><image mime-type="image/jpg" src="../../media/graphics22.jpg" id="id1167367571902__onlineimage" height="339" width="649"/></media>
+         	<caption><emphasis effect="bold">The California Aqueduct</emphasis> California Aqueduct in southern California, U.S. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:Tupman_California_California_Aqueduct_Mile_236.JPG" window="new">David Jordan</link> at en.wikipedia</emphasis></caption>
+				</figure>
+        <figure id="id1167362072380" type="Figure">
+					
+					<media id="id1167362072380_media" alt="Map of California Aqueduct System" longdesc=" Map depicting Southern California's large network of aqueducts that brings in water from the Sierra Nevada Mountains in the north, the valleys in northern and central California, and the Colorado River to the east"><image mime-type="image/png" src="../../media/graphics23.png" id="id1167362072380__onlineimage" height="443" width="378"/></media>
+         	<caption><emphasis effect="bold">Map of California Aqueducts</emphasis> Map of California aqueducts that bring water to southern California from central and northern California and from the Colorado River to the east. <emphasis effect="italics">Source: <link url="http://www.centralbasin.org/waterSupplySystem.html" window="new">Central Basin Municipal Water District</link></emphasis></caption>
+				</figure>
+        <para id="id1167350801811">One method that actually can increase the amount of fresh water on Earth is <term target-id="id1167354482938">desalination</term>, which involves removing dissolved salt from seawater or saline groundwater. There are several ways to desalinate seawater including boiling, filtration, electrodialysis, and freezing. All of these procedures are moderately to very expensive and require considerable energy input, making the produced water much more expensive than fresh water from conventional sources. In addition, the processes create highly saline wastewater, which must be disposed of. Desalination is most common in the Middle East, where energy from oil is abundant but water is scarce.</para>
+        <para id="id1167355361610">Conservation means using less water and using it more efficiently. Around the home, conservation can involve both engineered features, such as high-efficiency clothes washers and low-flow showers and toilets, as well as behavioral decisions, such as growing native vegetation that require little irrigation in desert climates, turning off the water while you brush your teeth, and fixing leaky faucets. <term target-id="id1167352516446">Rainwater harvesting</term> involves catching and storing rainwater for reuse before it reaches the ground. Collecting rainwater is generally highly regulated, because the rain that is being collected is rain that is being taken away from the the natural ecosystem it would naturally fall in. Efficient irrigation is extremely important because irrigation accounts for a much larger water demand than public water supply. <term target-id="id1167366229922">Water conservation</term> strategies in agriculture include growing crops in areas where the natural rainfall can support them, more efficient irrigation systems such as drip systems that minimize losses due to evaporation, no-till farming that reduces evaporative losses by covering the soil, and reusing treated wastewater from sewage treatment plants. Recycled wastewater has also been used to recharge aquifers. There are a great many other specific water conservation strategies. Sustainable solutions to the water crisis must use a variety of approaches but they should have water conservation as a high priority.</para><note id="eip-830"><label/><title>Link to Learning</title>
+    <media id="fs-idp81588624" alt="QR Code representing a URL">
+    <image mime-type="image/png" src="../../media/freshwater.png" width="120"/>
+    </media>
+    <para id="fs-idp32127264">Head to this <link window="new" url="http://openstaxcollege.org/l/freshwater">website</link> to learn more about the world’s fresh water supply.</para>
+</note>
+      </section>
+      <section id="id1167352746443">
+        <title>Review Questions</title>
+        <section id="eip-711"><title>Free Response</title><exercise id="fs-idm113313088">
+<problem id="fs-idp153073920"><para id="fs-idm8922352">What is the water cycle and why is it important to fresh water resources?</para></problem>
+<solution id="fs-idp142954816"><label/>
+<para id="fs-idm34464208">Water cycling is the process of water moving through an ecosystem. It involves processes such as transpiration, evaporation and precipitation. Fresh water resources are an important part of the water cycle because it is fresh water that sustains life on this planet. With such a limited amount relative to the overall water found on earth, it is imperative that humanity preserve as much as possible.</para></solution>
+</exercise>
+<exercise id="fs-idp76672512">
+<problem id="fs-idm10541616"><para id="fs-idp18096912">What are the relative merits of using surface water vs. groundwater as a water resource?</para></problem>
+<solution id="fs-idm26332704"><label/>
+<para id="fs-idm15778720">Surface waters easy to access and utilize, but are often inaccessible due to seasonal influences or location (i.e. glaciers)Groundwater is more constantly available and there is a lot more of it than surface water, but can have a drastic impact on the water cycle if over-utilized.</para></solution>
+</exercise>
+<exercise id="fs-idm111379936">
+<problem id="fs-idp144804752"><para id="fs-idp39392880">Why are drinking water supplies still a major concern for many countries?</para></problem>
+<solution id="fs-idp129450672"><label/>
+<para id="fs-idp69474496">Most of the water on Earth is salt water, which humans cannot drink unless the salt is removed. Some fresh water is locked in glaciers and polar ice caps, or is present in the atmosphere. The Earth’s water supplies are threatened by pollution and exhaustion. The effort to supply fresh drinking water to the planet’s ever-expanding human population is seen as a major challenge in this century.</para></solution>
+</exercise><exercise id="eip-993"><problem id="fs-idp172051168"><para id="fs-idp30257008">Why is society facing a crisis involving water supply and how can we solve it?</para></problem>
+<solution id="fs-idp14982048">
+    <label/>
+    <para id="fs-idp9534032">Desalination, collecting rainwater, and responsible agriculture practices are all ways to lower the impact on fresh water consumption, but each comes with it's own inherent problems. Water conservation, or practices that limit and reduce the overall amount of water we consume may be the best approach to solving the water crisis. </para></solution>
+</exercise>
+</section></section>
+      <section id="id1167359797576">
+        <title>References</title>
+        <para id="id1167354671987">Watkins, K. (2006). Beyond scarcity: Power, poverty and the global water crisis. <emphasis effect="italics">Human Development Report 2006, United Nations Development Programme</emphasis>. Retrieved from <link url="http://hdr.undp.org/en/reports/global/hdr2006/" window="new">http://hdr.undp.org/en/reports/global/hdr2006/</link></para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1167371638484">
+      <term>aqueduct</term>
+      <meaning id="oo-id1167357299593">An aqueduct is a water supply or navigable channel constructed to convey water. In modern engineering, the term is used for any system of pipes, ditches, canals, tunnels, and other structures used for this purpose.
+      </meaning>
+    </definition>
+    <definition id="id1167361643441">
+      <term>aquifer</term>
+      <meaning id="oo-id1167360152277">Rock or sediment that is capable of supplying groundwater from a well at a useful rate.
+      </meaning>
+    </definition>
+    <definition id="id1167368153215">
+      <term>aquitard</term>
+      <meaning id="oo-id1167368878944">Earth material with low hydraulic conductivity.
+      </meaning>
+    </definition>
+    <definition id="id7975011">
+      <term>artesian well</term>
+      <meaning id="oo-id1167359807268">Water well drilled into a confined aquifer where the water level in the well moves above the local water table.
+      </meaning>
+    </definition>
+    <definition id="id1167361313261">
+      <term>condensation</term>
+      <meaning id="oo-id1167367101506">Change in the physical state of water where it goes from gas to liquid.
+      </meaning>
+    </definition>
+    <definition id="id1167366332588">
+      <term>cone of depression</term>
+      <meaning id="oo-id1167370960487">A localized drop in the water table around a pumping well.
+      </meaning>
+    </definition>
+    <definition id="id1167365518805">
+      <term>confined aquifer</term>
+      <meaning id="oo-id8891398">An aquifer that is bounded by aquitards below and above.
+      </meaning>
+    </definition>
+    <definition id="id3825915">
+      <term>consumptive water use</term>
+      <meaning id="oo-id1167359097794">A societal use of water that is a type of offstream use where water does not return to the river or groundwater system immediately after use.
+      </meaning>
+    </definition>
+    <definition id="id1167354452931">
+      <term>dam</term>
+      <meaning id="oo-id1167357237768">A barrier built across a river to obstruct the flow of water.
+      </meaning>
+    </definition>
+    <definition id="id1167354482938">
+      <term>desalination</term>
+      <meaning id="oo-id1167353828930">Removing dissolved salt from seawater or saline groundwater.
+      </meaning>
+    </definition>
+    <definition id="id1167371687541">
+      <term>discharge area</term>
+      <meaning id="oo-id8885046">Location on Earth where groundwater leaves the groundwater flow system.
+      </meaning>
+    </definition>
+    <definition id="id1167348182384">
+      <term>drainage basin</term>
+      <meaning id="oo-id1167368016556">Geographic area drained by a river and its tributaries.
+      </meaning>
+    </definition>
+    <definition id="id6341226">
+      <term>evaporation</term>
+      <meaning id="oo-id1167368895654">Where water changes from liquid to gas at ambient temperatures.
+      </meaning>
+    </definition>
+    <definition id="id1167347468703">
+      <term>groundwater</term>
+      <meaning id="oo-id1167354641816">Water located in small spaces between mineral grains and fractures in subsurface rock or sediment.
+      </meaning>
+    </definition>
+    <definition id="id8704436">
+      <term>groundwater mining</term>
+      <meaning id="oo-id1167361793797">A depletion in groundwater resources caused by a large number of water wells that pumped water for a long time.
+      </meaning>
+    </definition>
+    <definition id="id1167354436361">
+      <term>instream water use</term>
+      <meaning id="oo-id1167357016783">A societal use of water that does not remove it from its source.
+      </meaning>
+    </definition>
+    <definition id="id1167367921539">
+      <term>offstream water use</term>
+      <meaning id="oo-id1167361433968">A societal use of water that removes it from its source.
+      </meaning>
+    </definition>
+    <definition id="id1167359365731">
+      <term>permeability</term>
+      <meaning id="oo-id1167361930698">Measure of the speed that groundwater can flow through rock or sediment.
+      </meaning>
+    </definition>
+    <definition id="id6202539">
+      <term>pore space</term>
+      <meaning id="oo-id1167358168881">Small spaces between mineral grains in subsurface rock or sediment.
+      </meaning>
+    </definition>
+    <definition id="id1167357238194">
+      <term>porosity</term>
+      <meaning id="oo-id1167367675188">Percentage of pore space in rock or sediment.
+      </meaning>
+    </definition>
+    <definition id="id1167352516446">
+      <term>rainwater harvesting</term>
+      <meaning id="oo-id1167361626912">Catching and storing rainwater for reuse before it reaches the ground.
+      </meaning>
+    </definition>
+    <definition id="id1167355817606">
+      <term>recharge area</term>
+      <meaning id="oo-id1167356573702">Location on Earth where surface water infiltrates into the ground rather than runs off into rivers or evaporates.
+      </meaning>
+    </definition>
+    <definition id="id1167354612767">
+      <term>reservoir</term>
+      <meaning id="oo-id1167354518870">Large artificial lake used as a source of water.
+      </meaning>
+    </definition>
+    <definition id="id1167362173198">
+      <term>river discharge</term>
+      <meaning id="oo-id1167354690656">Volume of water moving through a river channel over time.
+      </meaning>
+    </definition>
+    <definition id="id1167354589548">
+      <term>saltwater intrusion</term>
+      <meaning id="oo-id1167370225782">Saltwater that enters an aquifer due to overpumping of freshwater aquifers near ocean coastlines.
+      </meaning>
+    </definition>
+    <definition id="id7369139">
+      <term>saturated zone</term>
+      <meaning id="oo-id1167370835426">Subsurface area where groundwater completely fills pore spaces in rock or sediment.
+      </meaning>
+    </definition>
+    <definition id="id1167359420599">
+      <term>soil moisture</term>
+      <meaning id="oo-id8277964">Water in the unsaturated zone.
+      </meaning>
+    </definition>
+    <definition id="id8448088">
+      <term>spring</term>
+      <meaning id="oo-id1167366126224">River that emerges from underground due to an abrupt intersection of the water table with the land surface.
+      </meaning>
+    </definition>
+    <definition id="id1167360932596">
+      <term>surface runoff</term>
+      <meaning id="oo-id1167347828773">Unchannelized overland flow of water.
+      </meaning>
+    </definition>
+    <definition id="id4312103">
+      <term>transpiration</term>
+      <meaning id="oo-id1167352576517">Loss of water by plants to the atmosphere.
+      </meaning>
+    </definition>
+    <definition id="id8841244">
+      <term>unconfined aquifer</term>
+      <meaning id="oo-id1167354440664">Aquifer with no aquitard above it.
+      </meaning>
+    </definition>
+    <definition id="id1167360920106">
+      <term>unsaturated zone</term>
+      <meaning id="oo-id1167364773934">Subsurface area where pore spaces contain only air and water films on mineral grains.
+      </meaning>
+    </definition>
+    <definition id="id1167366229922">
+      <term>water conservation</term>
+      <meaning id="oo-id1167348479557">Using less water and using it more efficiently
+      </meaning>
+    </definition>
+    <definition id="id1167355426813">
+      <term>water crisis</term>
+      <meaning id="oo-id1739126">A global situation where people in many areas lack access to sufficient water or clean water or both.
+      </meaning>
+    </definition>
+    <definition id="id1167359261256">
+      <term>water cycle</term>
+      <meaning id="oo-id8439520">The continuous movement of water through water reservoirs located on, above, and below Earth’s surface.
+      </meaning>
+    </definition>
+    <definition id="id4605061">
+      <term>water reservoir (in water cycle)</term>
+      <meaning id="oo-id1167352436574">General location on Earth where water is located including oceans, atmosphere, glaciers, groundwater, lakes, rivers, and biosphere.
+      </meaning>
+    </definition>
+    <definition id="id1167358916073">
+      <term>water table</term>
+      <meaning id="oo-id1167348506006">Interface between the unsaturated zone and saturated zone.
+      </meaning>
+    </definition>
+    <definition id="id7340395">
+      <term>water table well</term>
+      <meaning id="oo-id1167359960714">Water well drilled into an unconfined aquifer where the water level in the well coincides with the water table.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

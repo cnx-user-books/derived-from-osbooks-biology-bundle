@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Ecological Succession</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47783</md:content-id>
+  <md:title>Ecological Succession</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe community structure and succession</item>
+</list></md:abstract>
+  <md:uuid>d4c6f4b0-f83e-4200-aec9-e178595656b4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idp100620496">
+<title>Community Dynamics</title>
+<para id="fs-idp21660896">Community dynamics are the changes in community structure and composition over time. Sometimes these changes are induced by <term>environmental disturbances</term> such as volcanoes, earthquakes, storms, fires, and climate change. Communities with a stable structure are said to be at equilibrium. Following a disturbance, the community may or may not return to the equilibrium state.</para>
+<para id="fs-idp19672208">Succession describes the sequential appearance and disappearance of species in a community over time. In <term>primary succession</term>, newly exposed or newly formed land is colonized by living things; in <term>secondary succession</term>, part of an ecosystem is disturbed and remnants of the previous community remain.</para>
+<section id="fs-idp105815760">
+<title>Primary Succession and Pioneer Species</title>
+<para id="fs-idp28308384">Primary succession occurs when new land is formed or rock is exposed: for example, following the eruption of volcanoes, such as those on the Big Island of Hawaii. As lava flows into the ocean, new land is continually being formed. On the Big Island, approximately 32 acres of land is added each year. First, weathering and other natural forces break down the substrate enough for the establishment of certain hearty plants and lichens with few soil requirements, known as <term>pioneer species</term> (<link target-id="fig-ch45_06_15" document=""/>). These species help to further break down the mineral rich lava into soil where other, less hardy species will grow and eventually replace the pioneer species. In addition, as these early species grow and die, they add to an ever-growing layer of decomposing organic material and contribute to soil formation. Over time the area will reach an equilibrium state, with a set of organisms quite different from the pioneer species.</para>
+<para id="eip-593">There are traits that make an organism well suited to be a pioneer species. Particularly in the case of primary succession, a pioneer species must be well suited to live and thrive in a harsh environment, where resources such as nutrients may be difficult to obtain. Often times, pioneer species are capable of obtaining nutrients in unique ways that are not typical of other species. Pioneer species typically also have a relatively short life cycle, have a high growth rate and fecundity. Plant species that have a very narrow set of conditions that they can survive in, have a large root system or can't adapt to changing conditions would not make a good pioneer species, Lichen and moss on the other hand, are ideal pioneer species after a primary succession event because they can thrive in nearly every habitat, have very low nutrient and water requirements and no root system that requires soil.</para><figure id="fig-ch45_06_15" class=" "><media id="fs-idm50328288" alt="Photo shows a succulent plant growing in bare earth.">
+    <image mime-type="image/jpg" src="../../media/Figure_45_06_15.jpg" width="280"/>
+</media>
+<caption>During primary succession in lava on Maui, Hawaii, succulent plants are the pioneer species. (credit: Forest and Kim Starr)</caption></figure></section>
+<section id="fs-idp90267264">
+<title>Secondary succession</title>
+<para id="fs-idm48589712">A classic example of secondary succession occurs in oak and hickory forests cleared by wildfire (<link target-id="fig-ch45_06_16" document=""/>). Wildfires will burn most vegetation and kill those animals unable to flee the area. Their nutrients, however, are returned to the ground in the form of ash. Thus, even when areas are devoid of life due to severe fires, the area will soon be ready for new life to take hold.</para>
+<para id="fs-idm16483616">Before the fire, the vegetation was dominated by tall trees with access to the major plant energy resource: sunlight. Their height gave them access to sunlight while also shading the ground and other low-lying species. After the fire, though, these trees are no longer dominant. Thus, the first plants to grow back are usually annual plants followed within a few years by quickly growing and spreading grasses and other pioneer species. Due to, at least in part, changes in the environment brought on by the growth of the grasses and other species, over many years, shrubs will emerge along with small pine, oak, and hickory trees. These organisms are called intermediate species. Eventually, over 150 years, the forest will reach its equilibrium point where species composition is no longer changing and resembles the community before the fire. This equilibrium state is referred to as the <term>climax community</term>, which will remain stable until the next disturbance.</para>
+<figure id="fig-ch45_06_16" class=" "><media id="fs-idp90806000" alt="The three illustrations show secondary succession of an oak and hickory forest. The first illustration shows a plot of land covered with pioneer species, including grasses and perennials. The second illustration shows the same plot of land later covered with intermediate species, including shrubs, pines, oak, and hickory. The third illustration shows the plot of land covered with a climax community of mature oak and hickory. This community remains stable until the next disturbance.">
+        <image mime-type="image/jpg" src="../../media/Figure_45_06_16.jpg" width="520"/>
+    </media>
+<caption>Secondary succession is shown in an oak and hickory forest after a forest fire.</caption></figure><para id="eip-21">Secondary succession usually follows a disturbance of an existing community that removes or damages the vegetation, but does not remove, destroy, or cover the soil. Pioneer species in this type of successional event are likely to be plant species that have roots or seeds that survived the disturbance. This means that, typically speaking, unlike primary succession events, communities that come out of a secondary succession are most likely going to be the community that was in place before the disturbance.</para></section><para id="eip-596">The time progression of each type of successional event is really variable depending upon the circumstances surrounding the disturbance, but for the most part, primary succession takes much, much longer than secondary succession. This is because there is a lot that needs to happen after a primary event to make the habitat suitable for habitation by a wide variety of species. In most cases, even soil needs to be replenished before any more than lichen can grow there. The process of soil development happens by two processes. Firstly, the pioneer species that grow, reproduce and die quickly are a major contributor to soil production, both in terms of breaking down rock ans sediment, but also through decomposition after death. Secondly, the carcasses of organisms, such as insects and spiders, get blown in by the wind, but quickly die from lack of food will also contribute to soil buildup. For secondary events, the time frame is really no more than it takes for the organism that lived there before to move back in and reestablish themselves.</para>
+</section>
+<section id="eip-605"><title>Intermediate Disturbance Hypothesis</title><para id="eip-64">
+Succession events can really be measured in terms of how stable a community is. And stability, in turn, is a measurement of biodiversity and species richness. The intermediate disturbance hypothesis is the idea that there are three aspects that influence the stability of a community in relation to disturbances that alter the landscape. How intense the disturbance, how often they occur and the amount of time that has passed since the last. For all three aspects, a community is considered to be most stable when all of these aspects are not at either extreme. In other words, Species richness greatest between disturbances of moderate intensity and frequency. An example of a community that benefits from secondary disturbances would be a redwood forest in northern California. Certain species of redwood trees, such as the giant sequoia, actually require the intense heat of a forest fire to activate seeds and trigger germination events.
+</para></section><section id="fs-idp79649136" class="summary">
+<title>Section Summary</title><para id="fs-idp153575264">Communities include all the different species living in a given area. The variety of these species is called species richness. Many organisms have developed defenses against predation and herbivory, including mechanical defenses, warning coloration, and mimicry, as a result of evolution and the interaction with other members of the community. Two species cannot exist in the same habitat competing directly for the same resources. Species may form symbiotic relationships such as commensalism or mutualism. Community structure is described by its foundation and keystone species. Communities respond to environmental disturbances by succession (the predictable appearance of different types of plant species) until a stable community structure is established.</para>
+    </section>
+<section id="fs-idm51408864" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm20868240">
+<problem id="fs-idp208465712"><para id="fs-idp75403296">The first species to live on new land, such as that formed from volcanic lava, are called ________.</para><list id="fs-idp40318352" list-type="enumerated" number-style="lower-alpha">
+<item>climax community</item>
+<item>keystone species</item>
+<item>foundation species</item>
+<item>pioneer species</item>
+</list>
+</problem>
+<solution id="fs-idm76976">
+<label/>
+<para id="fs-idp119011648">D</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp269088992"><term>climax community</term> <meaning id="fs-idp159309376">final stage of succession, where a stable community is formed by a characteristic assortment of plant and animal species</meaning></definition>
+<definition id="fs-idp158049968"><term>environmental disturbance</term> <meaning id="fs-idp151579696">change in the environment caused by natural disasters or human activities</meaning></definition>
+<definition id="fs-idp164606288"><term>pioneer species</term> <meaning id="fs-idm55571680">first species to appear in primary and secondary succession</meaning></definition>
+<definition id="fs-idp53101200"><term>primary succession</term> <meaning id="fs-idp4601904">succession on land that previously has had no life</meaning></definition>
+<definition id="fs-idp68798992"><term>secondary succession</term> <meaning id="fs-idm4455616">succession in response to environmental disturbances that move a community away from its equilibrium</meaning></definition>
+</glossary>
+</document>
