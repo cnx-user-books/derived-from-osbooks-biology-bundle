@@ -1,0 +1,78 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11619</md:content-id>
+    <md:title>Cells Topics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>185a0f9b-09af-4d7d-9058-ac571a980d44</md:uuid>
+<md:slug>cells-topics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>The Cellular Foundation of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Biology</md:title>
+          <col:content>
+            <col:module document="m45418"/>
+            <col:module document="m45419"/>
+            <col:module document="m45421"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chemistry of Life</md:title>
+          <col:content>
+            <col:module document="m45423"/>
+            <col:module document="m45426"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cell Structure and Function</md:title>
+          <col:content>
+            <col:module document="m45427"/>
+            <col:module document="m45428"/>
+            <col:module document="m45429"/>
+            <col:module document="m45432"/>
+            <col:module document="m45433"/>
+            <col:module document="m45434"/>
+            <col:module document="m45435"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>How Cells Obtain Energy</md:title>
+          <col:content>
+            <col:module document="m45436"/>
+            <col:module document="m45437"/>
+            <col:module document="m45438"/>
+            <col:module document="m45439"/>
+            <col:module document="m45440"/>
+            <col:module document="m45444"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Photosynthesis</md:title>
+          <col:content>
+            <col:module document="m45445"/>
+            <col:module document="m45448"/>
+            <col:module document="m45452"/>
+            <col:module document="m45453"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 3. Cells and DNA</md:title>
+      <col:content>
+        <col:module document="m45461"/>
+        <col:subcollection>
+          <md:title>Molecular Biology</md:title>
+          <col:content>
+            <col:module document="m45473"/>
+            <col:module document="m45475"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m46075"/>
+  </col:content>
+</col:collection>

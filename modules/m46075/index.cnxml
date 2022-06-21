@@ -8,7 +8,7 @@
   <md:uuid>5a02ec24-e0c5-4e02-985a-bc11534ea533</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 
 <figure id="fig-app01-01-01">
 <label/>
@@ -18,6 +18,6 @@
 </figure>
 
 
- </content>
+</content>
 
 </document>
