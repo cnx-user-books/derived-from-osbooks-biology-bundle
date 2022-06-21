@@ -1,0 +1,213 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11555</md:content-id>
+    <md:title>Concepts of Biology for SLCC Biol 1010</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>061dae56-e9a0-499c-86b4-7e2a20885625</md:uuid>
+<md:slug>concepts-of-biology-for-slcc-biol-1010</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46159"/>
+    <col:subcollection>
+      <md:title>Biology 1010 reading</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 1: Introduction to Biology</md:title>
+          <col:content>
+            <col:module document="m45418"/>
+            <col:module document="m45421"/>
+            <col:module document="m45419"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 2: Chemistry of Life</md:title>
+          <col:content>
+            <col:module document="m45423"/>
+            <col:module document="m45417"/>
+            <col:module document="m45425"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 3: Biological Molecules</md:title>
+          <col:content>
+            <col:module document="m45426"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 4: Cell Structure</md:title>
+          <col:content>
+            <col:module document="m45427"/>
+            <col:module document="m45428"/>
+            <col:module document="m45429"/>
+            <col:module document="m45432"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 5: Energy and Transport</md:title>
+          <col:content>
+            <col:module document="m45436"/>
+            <col:module document="m45437"/>
+            <col:module document="m45433"/>
+            <col:module document="m45434"/>
+            <col:module document="m45435"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 6: Photosynthesis</md:title>
+          <col:content>
+            <col:module document="m45445"/>
+            <col:module document="m45448"/>
+            <col:module document="m45452"/>
+            <col:module document="m45453"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 7: Cellular Respiration</md:title>
+          <col:content>
+            <col:module document="m45438"/>
+            <col:module document="m45439"/>
+            <col:module document="m45440"/>
+            <col:module document="m45444"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 8: Cell Division</md:title>
+          <col:content>
+            <col:module document="m45454"/>
+            <col:module document="m45455"/>
+            <col:module document="m45461"/>
+            <col:module document="m45462"/>
+            <col:module document="m45463"/>
+            <col:module document="m45465"/>
+            <col:module document="m45466"/>
+            <col:module document="m45467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 9: Mendelian Genetics</md:title>
+          <col:content>
+            <col:module document="m45468"/>
+            <col:module document="m45469"/>
+            <col:module document="m45470"/>
+            <col:module document="m45471"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 10: Molecular Biology</md:title>
+          <col:content>
+            <col:module document="m45472"/>
+            <col:module document="m45473"/>
+            <col:module document="m45475"/>
+            <col:module document="m45476"/>
+            <col:module document="m45479"/>
+            <col:module document="m45480"/>
+            <col:subcollection>
+              <md:title>Biotechnology</md:title>
+              <col:content>
+                <col:module document="m45481"/>
+                <col:module document="m45482"/>
+                <col:module document="m45483"/>
+                <col:module document="m45485"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 13: Evolution</md:title>
+          <col:content>
+            <col:module document="m45486"/>
+            <col:module document="m44568"/>
+            <col:module document="m44582"/>
+            <col:module document="m44584"/>
+            <col:module document="m44586"/>
+            <col:module document="m45491"/>
+            <col:module document="m45505"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 14: Speciation</md:title>
+          <col:content>
+            <col:module document="m44574"/>
+            <col:module document="m44573"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 15: Macroevolution</md:title>
+          <col:content>
+            <col:module document="m45506"/>
+            <col:module document="m45507"/>
+            <col:module document="m45509"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Optional Reading</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Diversity of Microbes, Fungi, and Protists</md:title>
+          <col:content>
+            <col:module document="m45511"/>
+            <col:module document="m45512"/>
+            <col:module document="m45513"/>
+            <col:module document="m45514"/>
+            <col:module document="m45515"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diversity of Plants</md:title>
+          <col:content>
+            <col:module document="m45516"/>
+            <col:module document="m45517"/>
+            <col:module document="m45518"/>
+            <col:module document="m45519"/>
+            <col:module document="m45520"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diversity of Animals</md:title>
+          <col:content>
+            <col:module document="m45522"/>
+            <col:module document="m45523"/>
+            <col:module document="m45524"/>
+            <col:module document="m45525"/>
+            <col:module document="m45526"/>
+            <col:module document="m45531"/>
+            <col:module document="m45532"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Population and Community Ecology</md:title>
+          <col:content>
+            <col:module document="m45551"/>
+            <col:module document="m45552"/>
+            <col:module document="m45553"/>
+            <col:module document="m45554"/>
+            <col:module document="m45555"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ecosystems and the Biosphere</md:title>
+          <col:content>
+            <col:module document="m45557"/>
+            <col:module document="m45558"/>
+            <col:module document="m45559"/>
+            <col:module document="m45560"/>
+            <col:module document="m45562"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Conservation and Biodiversity</md:title>
+          <col:content>
+            <col:module document="m45565"/>
+            <col:module document="m45571"/>
+            <col:module document="m45574"/>
+            <col:module document="m45573"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m46075"/>
+  </col:content>
+</col:collection>
