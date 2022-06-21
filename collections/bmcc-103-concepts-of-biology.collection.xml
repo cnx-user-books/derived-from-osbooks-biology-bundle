@@ -1,0 +1,154 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11855</md:content-id>
+    <md:title>BMCC 103 - Concepts of Biology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8b50595c-11bb-49fa-8438-5f21a22bdc1d</md:uuid>
+<md:slug>bmcc-103-concepts-of-biology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46159"/>
+    <col:subcollection>
+      <md:title>Introduction to Biology</md:title>
+      <col:content>
+        <col:module document="m45418"/>
+        <col:module document="m45419"/>
+        <col:module document="m45421"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 1. Diversity of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Diversity of Life</md:title>
+          <col:content>
+            <col:module document="m45506"/>
+            <col:module document="m45507"/>
+            <col:module document="m45509"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diversity of Animals</md:title>
+          <col:content>
+            <col:module document="m45522"/>
+            <col:module document="m45523"/>
+            <col:module document="m45524"/>
+            <col:module document="m45525"/>
+            <col:module document="m45526"/>
+            <col:module document="m45531"/>
+            <col:module document="m45532"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 2. Animal Structure and Function</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Animal Body: Basic Form and Function</md:title>
+          <col:content>
+            <col:module document="m44730"/>
+            <col:module document="m44731"/>
+            <col:module document="m44733"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Animal Nutrition and the Digestive System</md:title>
+          <col:content>
+            <col:module document="m44736"/>
+            <col:module document="m44740"/>
+            <col:module document="m44742"/>
+            <col:module document="m44744"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Circulatory System</md:title>
+          <col:content>
+            <col:module document="m44801"/>
+            <col:module document="m44804"/>
+            <col:module document="m44805"/>
+            <col:module document="m44806"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Respiratory System</md:title>
+          <col:content>
+            <col:module document="m44792"/>
+            <col:module document="m56739"/>
+            <col:module document="m44797"/>
+            <col:module document="m44799"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Osmotic Regulation and Excretion</md:title>
+          <col:content>
+            <col:module document="m44808"/>
+            <col:module document="m44809"/>
+            <col:module document="m44810"/>
+            <col:module document="m44811"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Immune System and Disease</md:title>
+          <col:content>
+            <col:module document="m45540"/>
+            <col:module document="m45541"/>
+            <col:module document="m45542"/>
+            <col:module document="m45543"/>
+            <col:module document="m45545"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Musculoskeletal System</md:title>
+          <col:content>
+            <col:module document="m44781"/>
+            <col:module document="m44789"/>
+            <col:module document="m44786"/>
+            <col:module document="m44788"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Nervous System</md:title>
+          <col:content>
+            <col:module document="m57142"/>
+            <col:module document="m57148"/>
+            <col:module document="m46533"/>
+            <col:module document="m44751"/>
+            <col:module document="m44752"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Sensory Systems</md:title>
+          <col:content>
+            <col:module document="m44754"/>
+            <col:module document="m44757"/>
+            <col:module document="m44764"/>
+            <col:module document="m44760"/>
+            <col:module document="m49042"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Endocrine System</md:title>
+          <col:content>
+            <col:module document="m44766"/>
+            <col:module document="m57197"/>
+            <col:module document="m57198"/>
+            <col:module document="m44771"/>
+            <col:module document="m57199"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Animal Reproduction and Development</md:title>
+          <col:content>
+            <col:module document="m45546"/>
+            <col:module document="m45547"/>
+            <col:module document="m45550"/>
+            <col:module document="m45549"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m46075"/>
+  </col:content>
+</col:collection>
