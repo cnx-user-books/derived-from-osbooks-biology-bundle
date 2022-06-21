@@ -1,0 +1,641 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col27176</md:content-id>
+  <md:title>Heredity and Continuity of Life eTextbook</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>6f9dd332-6a7b-4def-b30a-d3d6d19cc2a6</md:uuid>
+<md:slug>heredity-and-continuity-of-life-etextbook</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m46078"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 1. The Chemistry of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Study of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44386"/>
+        
+      
+    
+    
+      <col:module document="m44387"/>
+        
+      
+    
+    
+      <col:module document="m44388"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biological Macromolecules</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44395"/>
+        
+      
+    
+    
+      <col:module document="m44397"/>
+        
+      
+    
+    
+      <col:module document="m44400"/>
+        
+      
+    
+    
+      <col:module document="m44401"/>
+        
+      
+    
+    
+      <col:module document="m44402"/>
+        
+      
+    
+    
+      <col:module document="m44403"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 2. The Cell</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cell Structure</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44404"/>
+        
+      
+    
+    
+      <col:module document="m44405"/>
+        
+      
+    
+    
+      <col:module document="m44406"/>
+        
+      
+    
+    
+      <col:module document="m44407"/>
+        
+      
+    
+    
+      <col:module document="m44435"/>
+        
+      
+    
+    
+      <col:module document="m44412"/>
+        
+      
+    
+    
+      <col:module document="m44413"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cell Reproduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44457"/>
+        
+      
+    
+    
+      <col:module document="m44459"/>
+        
+      
+    
+    
+      <col:module document="m44460"/>
+        
+      
+    
+    
+      <col:module document="m44466"/>
+        
+      
+    
+    
+      <col:module document="m44467"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 3. Genetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Meiosis and Sexual Reproduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44468"/>
+        
+      
+    
+    
+      <col:module document="m44469"/>
+        
+      
+    
+    
+      <col:module document="m44470"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mendel's Experiments and Heredity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44474"/>
+        
+      
+    
+    
+      <col:module document="m44476"/>
+        
+      
+    
+    
+      <col:module document="m44478"/>
+        
+      
+    
+    
+      <col:module document="m44479"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Modern Understandings of Inheritance</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44480"/>
+        
+      
+    
+    
+      <col:module document="m44481"/>
+        
+      
+    
+    
+      <col:module document="m44483"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>DNA Structure and Function</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44484"/>
+        
+      
+    
+    
+      <col:module document="m44485"/>
+        
+      
+    
+    
+      <col:module document="m44486"/>
+        
+      
+    
+    
+      <col:module document="m44487"/>
+        
+      
+    
+    
+      <col:module document="m44488"/>
+        
+      
+    
+    
+      <col:module document="m44517"/>
+        
+      
+    
+    
+      <col:module document="m44513"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Genes and Proteins</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44518"/>
+        
+      
+    
+    
+      <col:module document="m44522"/>
+        
+      
+    
+    
+      <col:module document="m44523"/>
+        
+      
+    
+    
+      <col:module document="m44524"/>
+        
+      
+    
+    
+      <col:module document="m44532"/>
+        
+      
+    
+    
+      <col:module document="m44529"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gene Expression</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44533"/>
+        
+      
+    
+    
+      <col:module document="m44534"/>
+        
+      
+    
+    
+      <col:module document="m44535"/>
+        
+      
+    
+    
+      <col:module document="m44536"/>
+        
+      
+    
+    
+      <col:module document="m44538"/>
+        
+      
+    
+    
+      <col:module document="m44539"/>
+        
+      
+    
+    
+      <col:module document="m44542"/>
+        
+      
+    
+    
+      <col:module document="m44548"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biotechnology and Genomics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44551"/>
+        
+      
+    
+    
+      <col:module document="m44552"/>
+        
+      
+    
+    
+      <col:module document="m44554"/>
+        
+      
+    
+    
+      <col:module document="m44555"/>
+        
+      
+    
+    
+      <col:module document="m44560"/>
+        
+      
+    
+    
+      <col:module document="m44558"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 4. Evolutionary Processes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Evolution and the Origin of Species</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44561"/>
+        
+      
+    
+    
+      <col:module document="m44568"/>
+        
+      
+    
+    
+      <col:module document="m44574"/>
+        
+      
+    
+    
+      <col:module document="m44573"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Evolution of Populations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44575"/>
+        
+      
+    
+    
+      <col:module document="m44582"/>
+        
+      
+    
+    
+      <col:module document="m44584"/>
+        
+      
+    
+    
+      <col:module document="m44586"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Phylogenies and the History of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44587"/>
+        
+      
+    
+    
+      <col:module document="m44588"/>
+        
+      
+    
+    
+      <col:module document="m44591"/>
+        
+      
+    
+    
+      <col:module document="m44593"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m45849"/>
+        
+      
+    
+    
+      <col:module document="m60107"/>
+        
+      
+    
+    
+      <col:module document="m60108"/>
+        
+      
+    
+  </col:content>
+</col:collection>
