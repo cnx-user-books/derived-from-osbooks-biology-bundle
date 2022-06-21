@@ -8,7 +8,7 @@
   <md:uuid>e0c3f73d-1077-45c2-a220-d79fa32b4f00</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 
 <figure id="fig-app01-01-02">
 <label/>
@@ -25,6 +25,6 @@
 <caption>Geological Time Chart<newline/>(credit: Richard S. Murphy, Jr.)</caption></figure>
 
 
- </content>
+</content>
 
 </document>
