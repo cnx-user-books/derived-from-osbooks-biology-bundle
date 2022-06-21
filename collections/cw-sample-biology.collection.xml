@@ -1,0 +1,49 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11980</md:content-id>
+    <md:title>CW Sample: Biology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>26ad6bd2-8e56-4986-b14f-bc95a4378d22</md:uuid>
+<md:slug>cw-sample-biology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46078"/>
+    <col:subcollection>
+      <md:title>Unit 1. The Chemistry of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Study of Life</md:title>
+          <col:content>
+            <col:module document="m44386"/>
+            <col:module document="m44387"/>
+            <col:module document="m44388"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Chemical Foundation of Life</md:title>
+          <col:content>
+            <col:module document="m44389"/>
+            <col:module document="m60419"/>
+            <col:module document="m44392"/>
+            <col:module document="m44393"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Biological Macromolecules</md:title>
+          <col:content>
+            <col:module document="m44395"/>
+            <col:module document="m44397"/>
+            <col:module document="m44400"/>
+            <col:module document="m44401"/>
+            <col:module document="m44402"/>
+            <col:module document="m44403"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m45849"/>
+    <col:module document="m60107"/>
+    <col:module document="m60108"/>
+  </col:content>
+</col:collection>
