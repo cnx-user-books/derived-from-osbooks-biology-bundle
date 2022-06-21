@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Carbon molecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m78450</md:content-id>
+  <md:title>Carbon molecules</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the ways in which carbon is critical to life</item>
+<item>Explain the impact of slight changes in amino acids on organisms</item>
+<item>Describe the four major types of biological molecules</item>
+<item>Understand the functions of the four major types of molecules</item>
+</list></md:abstract>
+  <md:uuid>af280d10-2762-4102-9c6f-8a28d376764c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm12355040">The large molecules necessary for life that are built from smaller organic molecules are called biological <term>macromolecules</term>. There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids), and each is an important component of the cell and performs a wide array of functions. Combined, these molecules make up the majority of a cell’s mass. Biological macromolecules are organic, meaning that they contain carbon (with some exceptions, like carbon dioxide). In addition, they may contain hydrogen, oxygen, nitrogen, phosphorus, sulfur, and additional minor elements.</para><section id="fs-idm25618912">
+<title>Carbon</title>
+<para id="fs-idm120518352">It is often said that life is “carbon-based.” This means that carbon atoms, bonded to other carbon atoms or other elements, form the fundamental components of many, if not most, of the molecules found uniquely in living things. Other elements play important roles in biological molecules, but carbon certainly qualifies as the “foundation” element for molecules in living things. It is the bonding properties of carbon atoms that are responsible for its important role.</para>
+</section>
+<section id="fs-idm33595824">
+<title>Carbon Bonding</title>
+<para id="fs-idm51847104">Carbon contains four electrons in its outer shell. Therefore, it can form four covalent bonds with other atoms or molecules. The simplest organic carbon molecule is methane (CH<sub>4</sub>), in which four hydrogen atoms bind to a carbon atom (<link target-id="fig-ch02_03_01" document=""/>).</para>
+<figure id="fig-ch02_03_01"><media id="fs-idm13928672" alt="Diagram of a methane molecule.">
+<image mime-type="image/jpg" src="../../media/Figure_02_03_01.jpg" width="400"/>
+</media>
+<caption>Carbon can form four covalent bonds to create an organic molecule. The simplest carbon molecule is methane (CH<sub>4</sub>), depicted here.</caption></figure><para id="fs-idm26253760">However, structures that are more complex are made using carbon. Any of the hydrogen atoms can be replaced with another carbon atom covalently bonded to the first carbon atom. In this way, long and branching chains of carbon compounds can be made (<link target-id="fig-ch02_03_02" document=""/><emphasis effect="bold">a</emphasis>). The carbon atoms may bond with atoms of other elements, such as nitrogen, oxygen, and phosphorus (<link target-id="fig-ch02_03_02" document=""/><emphasis effect="bold">b</emphasis>). The molecules may also form rings, which themselves can link with other rings (<link target-id="fig-ch02_03_02" document=""/><emphasis effect="bold">c</emphasis>). This diversity of molecular forms accounts for the diversity of functions of the biological macromolecules and is based to a large degree on the ability of carbon to form multiple bonds with itself and other atoms.</para><figure id="fig-ch02_03_02"><media id="fs-idm9995696" alt="Examples of three different carbon-containing molecules.">
+<image mime-type="image/jpg" src="../../media/Figure_02_03_02.jpg" width="300"/>
+</media>
+<caption>These examples show three molecules (found in living organisms) that contain carbon atoms bonded in various ways to other carbon atoms and the atoms of other elements. (a) This molecule of stearic acid has a long chain of carbon atoms. (b) Glycine, a component of proteins, contains carbon, nitrogen, oxygen, and hydrogen atoms. (c) Glucose, a sugar, has a ring of carbon atoms and one oxygen atom.</caption></figure></section>
+</content>
+
+</document>

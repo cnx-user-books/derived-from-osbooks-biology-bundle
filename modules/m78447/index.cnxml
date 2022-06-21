@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Biological Macromolecules Content Summary</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m78447</md:content-id>
+  <md:title>Biological Macromolecules Content Summary</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the ways in which carbon is critical to life</item>
+<item>Explain the impact of slight changes in amino acids on organisms</item>
+<item>Describe the four major types of biological molecules</item>
+<item>Understand the functions of the four major types of molecules</item>
+</list></md:abstract>
+  <md:uuid>4a1d52a6-d021-4704-8030-6aad1fbd8a8d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm12355040">The large molecules necessary for life that are built from smaller organic molecules are called biological <term>macromolecules</term>. There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids), and each is an important component of the cell and performs a wide array of functions. Combined, these molecules make up the majority of a cell’s mass. Biological macromolecules are organic, meaning that they contain carbon (with some exceptions, like carbon dioxide). In addition, they may contain hydrogen, oxygen, nitrogen, phosphorus, sulfur, and additional minor elements.</para><section id="fs-idm53844848" class="summary">
+<title>Section Summary</title><para id="fs-idm78369600">Living things are carbon-based because carbon plays such a prominent role in the chemistry of living things. The four covalent bonding positions of the carbon atom can give rise to a wide diversity of compounds with many functions, accounting for the importance of carbon in living things. Carbohydrates are a group of macromolecules that are a vital energy source for the cell, provide structural support to many organisms, and can be found on the surface of the cell as receptors or for cell recognition. Carbohydrates are classified as monosaccharides, disaccharides, and polysaccharides, depending on the number of monomers in the molecule.</para>
+<para id="fs-idm51315280">Lipids are a class of macromolecules that are nonpolar and hydrophobic in nature. Major types include fats and oils, waxes, phospholipids, and steroids. Fats and oils are a stored form of energy and can include triglycerides. Fats and oils are usually made up of fatty acids and glycerol.</para>
+<para id="fs-idm12137552">Proteins are a class of macromolecules that can perform a diverse range of functions for the cell. They help in metabolism by providing structural support and by acting as enzymes, carriers or as hormones. The building blocks of proteins are amino acids. Proteins are organized at four levels: primary, secondary, tertiary, and quaternary. Protein shape and function are intricately linked; any change in shape caused by changes in temperature, pH, or chemical exposure may lead to protein denaturation and a loss of function.</para>
+<para id="fs-idp84929280">Nucleic acids are molecules made up of repeating units of nucleotides that direct cellular activities such as cell division and protein synthesis. Each nucleotide is made up of a pentose sugar, a nitrogenous base, and a phosphate group. There are two types of nucleic acids: DNA and RNA.</para>
+</section>
+<section id="fs-idp35462304" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp2151568">
+<problem id="fs-idm16854512"><para id="fs-idp137920">An example of a monosaccharide is ________.</para>
+<list id="fs-idm3837296" list-type="enumerated" number-style="lower-alpha">
+<item>fructose</item>
+<item>glucose</item>
+<item>galactose</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp95980336">
+<label/>
+<para id="fs-idm37002624">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm16866128">
+<problem id="fs-idm76818304"><para id="fs-idm10289664">Cellulose and starch are examples of ________.</para>
+<list id="fs-idm56030224" list-type="enumerated" number-style="lower-alpha">
+<item>monosaccharides</item>
+<item>disaccharides</item>
+<item>lipids</item>
+<item>polysaccharides</item>
+</list>
+</problem>
+<solution id="fs-idp6049536">
+<label/>
+<para id="fs-idp40963744">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm75894032">
+<problem id="fs-idm52177232"><para id="fs-idm18465184">Phospholipids are important components of __________.</para>
+<list id="fs-idm76067152" list-type="enumerated" number-style="lower-alpha">
+<item>the plasma membrane of cells</item>
+<item>the ring structure of steroids</item>
+<item>the waxy covering on leaves</item>
+<item>the double bond in hydrocarbon chains</item>
+</list>
+</problem>
+<solution id="fs-idm96278240">
+<label/>
+<para id="fs-idm4405696">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm3863024">
+<problem id="fs-idm19906144"><para id="fs-idm20113856">The monomers that make up proteins are called _________.</para>
+<list id="fs-idm53845744" list-type="enumerated" number-style="lower-alpha">
+<item>nucleotides</item>
+<item>disaccharides</item>
+<item>amino acids</item>
+<item>chaperones</item>
+</list>
+</problem>
+<solution id="fs-idm52604096">
+<label/>
+<para id="fs-idm67467008">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp7442224" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm25434784">
+<problem id="fs-idm80389216"><para id="fs-idm3416752">Explain at least three functions that lipids serve in plants and/or animals.</para></problem>
+<solution id="fs-idm77231744"><label/>
+<para id="fs-idm22118016">Fat serves as a valuable way for animals to store energy. It can also provide insulation. Phospholipids and steroids are important components of cell membranes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm61820528">
+<problem id="fs-idp35474592"><para id="fs-idm38759920">Explain what happens if even one amino acid is substituted for another in a polypeptide chain. Provide a specific example.</para></problem>
+<solution id="fs-idm14720784"><label/>
+<para id="fs-idp33072064">A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution. Because of this change, the disc-shaped red blood cells assume a crescent shape, which can result in serious health problems.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm53810400"><term>amino acid</term> <meaning id="fs-idm15504016">a monomer of a protein</meaning></definition>
+<definition id="fs-idp100398128"><term>carbohydrate</term> <meaning id="fs-idm52269072">a biological macromolecule in which the ratio of carbon to hydrogen to oxygen is 1:2:1; carbohydrates serve as energy sources and structural support in cells</meaning></definition>
+<definition id="fs-idm30160592"><term>cellulose</term> <meaning id="fs-idm22142336">a polysaccharide that makes up the cell walls of plants and provides structural support to the cell</meaning></definition>
+<definition id="fs-idm31840208"><term>chitin</term> <meaning id="fs-idm13078608">a type of carbohydrate that forms the outer skeleton of arthropods, such as insects and crustaceans, and the cell walls of fungi</meaning></definition>
+<definition id="fs-idm56236912"><term>denaturation</term> <meaning id="fs-idp12662016">the loss of shape in a protein as a result of changes in temperature, pH, or exposure to chemicals</meaning></definition>
+<definition id="fs-idm4481664"><term>deoxyribonucleic acid (DNA)</term> <meaning id="fs-idm78340944">a double-stranded polymer of nucleotides that carries the hereditary information of the cell</meaning></definition>
+<definition id="fs-idm86504608"><term>disaccharide</term> <meaning id="fs-idp83614064">two sugar monomers that are linked together by a peptide bond</meaning></definition>
+<definition id="fs-idp65785264"><term>enzyme</term> <meaning id="fs-idp86589696">a catalyst in a biochemical reaction that is usually a complex or conjugated protein</meaning></definition>
+<definition id="fs-idm52153408"><term>fat</term> <meaning id="fs-idm21233888">a lipid molecule composed of three fatty acids and a glycerol (triglyceride) that typically exists in a solid form at room temperature</meaning></definition>
+<definition id="fs-idp112829152"><term>glycogen</term> <meaning id="fs-idp28294688">a storage carbohydrate in animals</meaning></definition>
+<definition id="fs-idm8324800"><term>hormone</term> <meaning id="fs-idm50948256">a chemical signaling molecule, usually a protein or steroid, secreted by an endocrine gland or group of endocrine cells; acts to control or regulate specific physiological processes</meaning></definition>
+<definition id="fs-idm82405104"><term>lipids</term> <meaning id="fs-idp41487440">a class of macromolecules that are nonpolar and insoluble in water</meaning></definition>
+<definition id="fs-idp77649728"><term>macromolecule</term> <meaning id="fs-idp1204032">a large molecule, often formed by polymerization of smaller monomers</meaning></definition>
+<definition id="fs-idp40965664"><term>monosaccharide</term> <meaning id="fs-idm52725808">a single unit or monomer of carbohydrates</meaning></definition>
+<definition id="fs-idp46692576"><term>nucleic acid</term> <meaning id="fs-idm29186304">a biological macromolecule that carries the genetic information of a cell and carries instructions for the functioning of the cell</meaning></definition>
+<definition id="fs-idm32304640"><term>nucleotide</term> <meaning id="fs-idp1496272">a monomer of nucleic acids; contains a pentose sugar, a phosphate group, and a nitrogenous base</meaning></definition>
+<definition id="fs-idm20988896"><term>oil</term> <meaning id="fs-idm52275824">an unsaturated fat that is a liquid at room temperature</meaning></definition>
+<definition id="fs-idm18021808"><term>phospholipid</term> <meaning id="fs-idm29670336">a major constituent of the membranes of cells; composed of two fatty acids and a phosphate group attached to the glycerol backbone</meaning></definition>
+<definition id="fs-idm19861536"><term>polypeptide</term> <meaning id="fs-idm29508016">a long chain of amino acids linked by peptide bonds</meaning></definition>
+<definition id="fs-idm15112880"><term>polysaccharide</term> <meaning id="fs-idm3396576">a long chain of monosaccharides; may be branched or unbranched</meaning></definition>
+<definition id="fs-idm37201824"><term>protein</term> <meaning id="fs-idm63859552">a biological macromolecule composed of one or more chains of amino acids</meaning></definition>
+<definition id="fs-idp34526128"><term>ribonucleic acid (RNA)</term> <meaning id="fs-idp112875792">a single-stranded polymer of nucleotides that is involved in protein synthesis</meaning></definition>
+<definition id="fs-idm59648240"><term>saturated fatty acid</term> <meaning id="fs-idp5704144">a long-chain hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized</meaning></definition>
+<definition id="fs-idm84608480"><term>starch</term> <meaning id="fs-idp73224480">a storage carbohydrate in plants</meaning></definition>
+<definition id="fs-idp81398960"><term>steroid</term> <meaning id="fs-idm91179792">a type of lipid composed of four fused hydrocarbon rings</meaning></definition>
+<definition id="fs-idm57669264"><term><emphasis effect="italics">trans</emphasis>-fat</term> <meaning id="fs-idp85669120">a form of unsaturated fat with the hydrogen atoms neighboring the double bond across from each other rather than on the same side of the double bond</meaning></definition>
+<definition id="fs-idm76846320"><term>triglyceride</term> <meaning id="fs-idm3285648">a fat molecule; consists of three fatty acids linked to a glycerol molecule</meaning></definition>
+<definition id="fs-idm70419664"><term>unsaturated fatty acid</term> <meaning id="fs-idm51405328">a long-chain hydrocarbon that has one or more than one double bonds in the hydrocarbon chain</meaning></definition>
+</glossary>
+
+</document>
