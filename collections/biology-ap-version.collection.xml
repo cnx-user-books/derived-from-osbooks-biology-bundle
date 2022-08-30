@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Scott Smithson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11692</md:content-id>
     <md:title>Biology: AP Version</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>961dac11-077f-466f-b678-e28dc181f310</md:uuid>
-<md:slug>biology-ap-version</md:slug>
-</metadata>
+    <md:slug>biology-ap-version</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m46078"/>
     <col:subcollection>
