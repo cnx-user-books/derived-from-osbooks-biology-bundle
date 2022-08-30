@@ -25,14 +25,14 @@
 <equation id="eip-32" class="unnumbered"><m:math><m:semantics>
 <m:mrow>
 <m:mrow><m:msub><m:mtext>6CO</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>6H</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mtext>O</m:mtext></m:mrow>
-<m:mrow><m:mo>--></m:mo></m:mrow>
+<m:mrow><m:mo>--&gt;</m:mo></m:mrow>
 <m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>6O</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow>
 </m:mrow>
 <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{12} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1171054751170">Because this process involves synthesizing an energy-storing molecule, it requires energy input to proceed. During the light reactions of photosynthesis, energy is provided by a molecule called adenosine triphosphate (ATP), which is the primary energy currency of all cells. Just as the dollar is used as currency to buy goods, cells use molecules of ATP as energy currency to perform immediate work. In contrast, energy-storage molecules such as glucose are consumed only to be broken down to use their energy. The reaction that harvests the energy of a sugar molecule in cells requiring oxygen to survive can be summarized by the reverse reaction to photosynthesis. In this reaction, oxygen is consumed and carbon dioxide is released as a waste product. The reaction is summarized as:</para>
 <equation id="eip-765" class="unnumbered"><m:math><m:semantics>
 <m:mrow>
 <m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>6O</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow>
-<m:mrow><m:mo>--></m:mo></m:mrow>
+<m:mrow><m:mo>--&gt;</m:mo></m:mrow>
 <m:msub><m:mtext>6H</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mrow><m:msub><m:mtext>6CO</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow>
 </m:mrow>
 <m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{12} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1171054738497">Both of these reactions involve many steps.</para>
