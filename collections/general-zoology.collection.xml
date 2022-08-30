@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Karen Reiss">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11672</md:content-id>
     <md:title>General Zoology</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>3e3cd1e8-d940-45a2-b4dd-b2ed865fbfea</md:uuid>
-<md:slug>general-zoology</md:slug>
-</metadata>
+    <md:slug>general-zoology</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m46078"/>
     <col:subcollection>
