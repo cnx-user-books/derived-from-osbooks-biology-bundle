@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Gaston Mpoyo">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11895</md:content-id>
     <md:title>Initial Biology CC Test</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>5e9d186b-ef5b-4971-bb8d-b26dfd6ebb56</md:uuid>
-<md:slug>initial-biology-cc-test</md:slug>
-</metadata>
+    <md:slug>initial-biology-cc-test</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Unit 4. Evolutionary Processes</md:title>
