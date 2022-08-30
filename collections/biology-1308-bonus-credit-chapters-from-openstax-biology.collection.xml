@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Bill Brower">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11516</md:content-id>
     <md:title>Biology 1308 Bonus Credit Chapters--from OPENStax "BIOLOGY"</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>15f4b0c3-7d25-4f08-ae17-99ff47244a80</md:uuid>
-<md:slug>biology-1308-bonus-credit-chapters-from-openstax-biology</md:slug>
-</metadata>
+    <md:slug>biology-1308-bonus-credit-chapters-from-openstax-biology</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>The Cell</md:title>
