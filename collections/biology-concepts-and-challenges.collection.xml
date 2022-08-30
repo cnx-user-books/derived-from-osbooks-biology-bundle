@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Daniel Goduti">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11665</md:content-id>
     <md:title>Biology Concepts and Challenges</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>778b2c61-728a-422e-96f9-f37125168241</md:uuid>
-<md:slug>biology-concepts-and-challenges</md:slug>
-</metadata>
+    <md:slug>biology-concepts-and-challenges</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m46159"/>
     <col:subcollection>
