@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Nathaniel Howard">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11893</md:content-id>
     <md:title>Advanced Biology (Biology 50)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>599303f8-b98f-42b5-8ec9-630b874b4b29</md:uuid>
-<md:slug>advanced-biology-biology-50</md:slug>
-</metadata>
+    <md:slug>advanced-biology-biology-50</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m46078"/>
     <col:subcollection>
