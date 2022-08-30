@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Cody">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11706</md:content-id>
     <md:title>Disease and Society Background Reading Material</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>cadadd97-215b-49bb-ac33-502ad0da5221</md:uuid>
-<md:slug>disease-and-society-background-reading-material</md:slug>
-</metadata>
+    <md:slug>disease-and-society-background-reading-material</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Unit 1. The Cellular Foundation of Life</md:title>
