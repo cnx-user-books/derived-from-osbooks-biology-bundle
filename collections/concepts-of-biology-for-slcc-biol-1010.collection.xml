@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Melissa Hardy">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11555</md:content-id>
     <md:title>Concepts of Biology for SLCC Biol 1010</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>061dae56-e9a0-499c-86b4-7e2a20885625</md:uuid>
-<md:slug>concepts-of-biology-for-slcc-biol-1010</md:slug>
-</metadata>
+    <md:slug>concepts-of-biology-for-slcc-biol-1010</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m46159"/>
     <col:subcollection>
